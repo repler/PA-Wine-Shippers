@@ -1,0 +1,4058 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWineShipper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WineShipper>
+    <Name>STONE TOWER WINERY LLC</Name>
+    <AddressLine1>19925 HOGBACK MOUNTAIN RD</AddressLine1>
+    <CityStateZipRaw>LEESBURG VA, 20175-6752</CityStateZipRaw>
+    <City>LEESBURG</City>
+    <State>VA</State>
+    <Zip>20175</Zip>
+    <Phone>(703) 777-2797</Phone>
+    <Email>angela@stonetowerwinery.com</Email>
+    <Website>www.stonetowerwinery.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ST JULIAN WINE COMPANY INCORPORATED</Name>
+    <AddressLine1>716 S KALAMAZOO ST</AddressLine1>
+    <CityStateZipRaw>PAW PAW MI, 49079</CityStateZipRaw>
+    <City>PAW PAW</City>
+    <State>MI</State>
+    <Zip>49079</Zip>
+    <Phone>(269) 657-5568</Phone>
+    <Email>rons@stjulian.com</Email>
+    <Website>www.stjulian.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>L18 WINES LLC</Name>
+    <AddressLine1>2545 NAPA VALLEY CORPORATE DR STE C</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558-6202</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(646) 376-7742</Phone>
+    <Email>compliance@lot18.com</Email>
+    <Website>www.lot18.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SAND CASTLE WINERY, INC.</Name>
+    <AddressLine1>755 RIVER RD</AddressLine1>
+    <AddressLine2>PO BOX 177</AddressLine2>
+    <CityStateZipRaw>ERWINNA PA, 18920-0177</CityStateZipRaw>
+    <City>ERWINNA</City>
+    <State>PA</State>
+    <Zip>18920</Zip>
+    <Email>WINESAND@EPIX.NET</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>R WINE CELLAR LLC</Name>
+    <AddressLine1>2014 SMALLMAN ST</AddressLine1>
+    <CityStateZipRaw>PITTSBURGH PA, 15222-4428</CityStateZipRaw>
+    <City>PITTSBURGH</City>
+    <State>PA</State>
+    <Zip>15222</Zip>
+    <Email>INFO@RWINECELLAR.COM</Email>
+    <Website>www.rwinecellar.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>THORN HILL VINEYARDS INC</Name>
+    <AddressLine1>8170 HWY 29</AddressLine1>
+    <CityStateZipRaw>LOWER LAKE CA, 95457-9536</CityStateZipRaw>
+    <City>LOWER LAKE</City>
+    <State>CA</State>
+    <Zip>95457</Zip>
+    <Phone>(717) 299-3688</Phone>
+    <Email>THLANC@COMCAST.NET</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>THE COURTYARD WINERIES LLC</Name>
+    <AddressLine1>10021 WEST MAIN RD</AddressLine1>
+    <CityStateZipRaw>NORTH EAST PA, 16428</CityStateZipRaw>
+    <City>NORTH EAST</City>
+    <State>PA</State>
+    <Zip>16428</Zip>
+    <Email>COURTYARDWINE@VERIZON.NET</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>KINGVIEWMEAD LLC</Name>
+    <AddressLine1>357 TOURA DR</AddressLine1>
+    <CityStateZipRaw>PITTSBURGH PA, 15236-4510</CityStateZipRaw>
+    <City>PITTSBURGH</City>
+    <State>PA</State>
+    <Zip>15236</Zip>
+    <Phone>(412) 335-0070</Phone>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>STE MICHELLE WINE ESTATES LTD</Name>
+    <AddressLine1>14111 NORTH EAST 145TH ST</AddressLine1>
+    <AddressLine2>PO BOX 1976</AddressLine2>
+    <CityStateZipRaw>WOODINVILLE WA, 98072-1976</CityStateZipRaw>
+    <City>WOODINVILLE</City>
+    <State>WA</State>
+    <Zip>98072</Zip>
+    <Phone>(425) 488-1133</Phone>
+    <Email>COMPLIANCE@SMWE.COM</Email>
+    <Website>www.smwe.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>THE HESS COLLECTION WINERY</Name>
+    <AddressLine1>4411 REDWOOD RD</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 253-1682</Phone>
+    <Email>KATE@HESSCOLLECTION.COM</Email>
+    <Website>www.hesscollection.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ARROWHEAD WINE CELLARS, INC.</Name>
+    <AddressLine1>12073 E MAIN RD</AddressLine1>
+    <AddressLine2>PO BOX 676</AddressLine2>
+    <CityStateZipRaw>NORTH EAST PA, 16428-0676</CityStateZipRaw>
+    <City>NORTH EAST</City>
+    <State>PA</State>
+    <Zip>16428</Zip>
+    <Email>WINE@VELOCITY.NET</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CAKEBREAD CELLARS</Name>
+    <AddressLine1>8300 ST HELENA HWY</AddressLine1>
+    <CityStateZipRaw>RUTHERFORD CA, 94573</CityStateZipRaw>
+    <City>RUTHERFORD</City>
+    <State>CA</State>
+    <Zip>94573</Zip>
+    <Phone>(707) 963-5221</Phone>
+    <Email>kenneth@cakebread.com</Email>
+    <Website>www.cakebread.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>BLUE RIDGE WINERY LLC</Name>
+    <AddressLine1>239 BLUE RIDGE RD</AddressLine1>
+    <CityStateZipRaw>SAYLORSBURG PA, 18353-8131</CityStateZipRaw>
+    <City>SAYLORSBURG</City>
+    <State>PA</State>
+    <Zip>18353</Zip>
+    <Phone>(570) 236-7816</Phone>
+    <Email>RANDYDETRICK@YAHOO.COM</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CLINE CELLARS INC</Name>
+    <AddressLine1>24737 ARNOLD DR</AddressLine1>
+    <CityStateZipRaw>SONOMA CA, 95476</CityStateZipRaw>
+    <City>SONOMA</City>
+    <State>CA</State>
+    <Zip>95476</Zip>
+    <Phone>(707) 284-2828</Phone>
+    <Email>licensing@compliance-connect.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>HAPPY VALLEY VINEYARD &amp; WINERY LLC</Name>
+    <AddressLine1>576 S FOXPOINTE DR</AddressLine1>
+    <CityStateZipRaw>STATE COLLEGE PA, 16801-3300</CityStateZipRaw>
+    <City>STATE COLLEGE</City>
+    <State>PA</State>
+    <Zip>16801</Zip>
+    <Phone>(814) 360-1770</Phone>
+    <Email>HVWINERY@GMAIL.COM</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>REUSTLE PRAYER ROCK VINEYARDS</Name>
+    <AddressLine1>960 CAL HENRY RD</AddressLine1>
+    <CityStateZipRaw>ROSEBURG OR, 97471</CityStateZipRaw>
+    <City>ROSEBURG</City>
+    <State>OR</State>
+    <Zip>97471</Zip>
+    <Phone>(541) 459-6060</Phone>
+    <Email>WINE@REUSTLEVINEYARDS.COM</Email>
+    <Website>www.reustlevineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>TABLAS CREEK VINEYARD</Name>
+    <AddressLine1>9339 ADELAIDA RD</AddressLine1>
+    <CityStateZipRaw>PASO ROBLES CA, 93446</CityStateZipRaw>
+    <City>PASO ROBLES</City>
+    <State>CA</State>
+    <Zip>93446</Zip>
+    <Phone>(805) 237-1231</Phone>
+    <Email>drc@tablascreek.com</Email>
+    <Website>www.tablascreek.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ROBERT CRAIG WINERY</Name>
+    <AddressLine1>2475 SUMMIT LAKE DR</AddressLine1>
+    <CityStateZipRaw>ANGWIN CA, 94508</CityStateZipRaw>
+    <City>ANGWIN</City>
+    <State>CA</State>
+    <Zip>94508</Zip>
+    <Phone>(707) 252-2250</Phone>
+    <Email>kiersten@robertcraigwine.com</Email>
+    <Website>www.robertcraigwine.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>LA GRANJA WINERY INC</Name>
+    <AddressLine1>10920 CHIMNEY ROCK RD</AddressLine1>
+    <CityStateZipRaw>PASO ROBLES CA, 93446</CityStateZipRaw>
+    <City>PASO ROBLES</City>
+    <State>CA</State>
+    <Zip>93446</Zip>
+    <Phone>(805) 400-3276</Phone>
+    <Email>JIM@THEFARMWINERY.COM</Email>
+    <Website>www.thefarmwinery.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>LONG SHADOWS VINTNERS</Name>
+    <AddressLine1>1604 FRENCHTOWN RD</AddressLine1>
+    <CityStateZipRaw>WALLA WALLA WA, 99362</CityStateZipRaw>
+    <City>WALLA WALLA</City>
+    <State>WA</State>
+    <Zip>99362</Zip>
+    <Phone>(206) 366-0335</Phone>
+    <Email>shelained@longshadows.com</Email>
+    <Website>www.longshadows.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>RDV VINEYARDS LLC</Name>
+    <AddressLine1>2550 DELAPLANE GRADE RD</AddressLine1>
+    <CityStateZipRaw>DELAPLANE VA, 20144</CityStateZipRaw>
+    <City>DELAPLANE</City>
+    <State>VA</State>
+    <Zip>20144</Zip>
+    <Phone>(800) 790-6838</Phone>
+    <Email>bannon@williamscompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FERRARI-CARANO VINEYARDS AND WINERY</Name>
+    <AddressLine1>PO Box 1549</AddressLine1>
+    <CityStateZipRaw>HEALDSBURG CA, 95448</CityStateZipRaw>
+    <City>HEALDSBURG</City>
+    <State>CA</State>
+    <Zip>95448</Zip>
+    <Phone>(707) 433-6700</Phone>
+    <Email>jodee@fcwinery.com</Email>
+    <Website>www.fcwinery.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>BENIGNA'S CREEK VINEYARD &amp; WINERY,</Name>
+    <AddressLine1>1585 RIDGE RD</AddressLine1>
+    <CityStateZipRaw>KLINGERSTOWN PA, 17941-9637</CityStateZipRaw>
+    <City>KLINGERSTOWN</City>
+    <State>PA</State>
+    <Zip>17941</Zip>
+    <Phone>(570) 425-3090</Phone>
+    <Email>LAZYM@RURALIFE.NET</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>1-800 WINESHOP.COM, INC</Name>
+    <AddressLine1>525 AIRPARK RD</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 253-0200</Phone>
+    <Email>shodges@wineshopathome.com</Email>
+    <Website>www.wineshopathome.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>NAKEDWINES.COM INC</Name>
+    <AddressLine1>8450 SONOMA HWY</AddressLine1>
+    <CityStateZipRaw>KENWOOD CA, 95452-2052</CityStateZipRaw>
+    <City>KENWOOD</City>
+    <State>CA</State>
+    <Zip>95452</Zip>
+    <Phone>(707) 786-6287</Phone>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>WILHELM WINERY, INC.</Name>
+    <AddressLine1>590 GEORGETOWN RD</AddressLine1>
+    <CityStateZipRaw>HADLEY PA, 16130-1010</CityStateZipRaw>
+    <City>HADLEY</City>
+    <State>PA</State>
+    <Zip>16130</Zip>
+    <Phone>(724) 253-3700</Phone>
+    <Email>WILHELM3700@ALLTEL.NET</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>GRACE WINERY LLC</Name>
+    <AddressLine1>50 SWEETWATER RD</AddressLine1>
+    <CityStateZipRaw>GLEN MILLS PA, 19342-1709</CityStateZipRaw>
+    <City>GLEN MILLS</City>
+    <State>PA</State>
+    <Zip>19342</Zip>
+    <Phone>(610) 459-4711</Phone>
+    <Email>DCLV@COMCAST.NET</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>PICKERING WINERY, INC.</Name>
+    <AddressLine1>27697 RTE 187</AddressLine1>
+    <CityStateZipRaw>WYSOX PA, 18854-9601</CityStateZipRaw>
+    <City>WYSOX</City>
+    <State>PA</State>
+    <Zip>18854</Zip>
+    <Phone>(570) 247-7269</Phone>
+    <Email>PICKWINE1@EPIX.NET</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>MENDOCINO WINE GROUP LLC</Name>
+    <AddressLine1>501 PARDUCCI RD</AddressLine1>
+    <CityStateZipRaw>UKIAH CA, 95482-3015</CityStateZipRaw>
+    <City>UKIAH</City>
+    <State>CA</State>
+    <Zip>95482</Zip>
+    <Phone>(707) 463-5380</Phone>
+    <Email>valeriem@mendocinowineco.com</Email>
+    <Website>www.mendocinowineco.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ARKENSTONE VINEYARDS LLC</Name>
+    <AddressLine1>335 WEST LANE</AddressLine1>
+    <CityStateZipRaw>ANGWIN CA, 94508-9606</CityStateZipRaw>
+    <City>ANGWIN</City>
+    <State>CA</State>
+    <Zip>94508</Zip>
+    <Phone>(707) 965-1020</Phone>
+    <Email>susan@arkenstone.com</Email>
+    <Website>www.arkenstone.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CALDWELL VINEYARD LLC</Name>
+    <AddressLine1>270 KREUZER LN</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94559-3623</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94559</Zip>
+    <Phone>(707) 265-0233</Phone>
+    <Email>BETH@THEWACCO.COM</Email>
+    <Website>www.thewacco.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>QUILCEDA CREEK VINTNERS INC</Name>
+    <AddressLine1>11306 52ND ST SE</AddressLine1>
+    <CityStateZipRaw>SOHOMISH WA, 98290</CityStateZipRaw>
+    <City>SOHOMISH</City>
+    <State>WA</State>
+    <Zip>98290</Zip>
+    <Phone>(360) 568-2389</Phone>
+    <Email>john@quilcedacreek.com</Email>
+    <Website>www.quilcedacreek.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>KONSTANTIN D FRANK &amp; SONS VINIFERA</Name>
+    <AddressLine1>9749 MIDDLE RD</AddressLine1>
+    <CityStateZipRaw>HAMMONDSPORT NY, 14840</CityStateZipRaw>
+    <City>HAMMONDSPORT</City>
+    <State>NY</State>
+    <Zip>14840</Zip>
+    <Phone>(607) 868-4884</Phone>
+    <Email>ksmolos@drfrankwines.com</Email>
+    <Website>www.drfrankwines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CASSEL VINEYARDS OF HERSHEY LLC</Name>
+    <AddressLine1>80 SHETLAND DR</AddressLine1>
+    <CityStateZipRaw>HUMMELSTOWN PA, 17036-9238</CityStateZipRaw>
+    <City>HUMMELSTOWN</City>
+    <State>PA</State>
+    <Zip>17036</Zip>
+    <Email>CASSELVINEYARDS@GMAIL.COM</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JAMES  SUMMERS</Name>
+    <AddressLine1>1171 TUBBS LN</AddressLine1>
+    <CityStateZipRaw>CALISTOGA CA, 94515-1053</CityStateZipRaw>
+    <City>CALISTOGA</City>
+    <State>CA</State>
+    <Zip>94515</Zip>
+    <Phone>(707) 942-5508</Phone>
+    <Email>INFO@SUMMERSWINERY.COM</Email>
+    <Website>www.summerswinery.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CASTORO CELLARS</Name>
+    <AddressLine1>6465 VON DOLLEN RD</AddressLine1>
+    <CityStateZipRaw>SAN MIGUEL CA, 93451-9567</CityStateZipRaw>
+    <City>SAN MIGUEL</City>
+    <State>CA</State>
+    <Zip>93451</Zip>
+    <Email>castoro@compli-beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>MOUNTAIN VIEW VINEYARD INC</Name>
+    <AddressLine1>5866 NEOLA RD</AddressLine1>
+    <CityStateZipRaw>STROUDSBURG PA, 18360-7983</CityStateZipRaw>
+    <City>STROUDSBURG</City>
+    <State>PA</State>
+    <Zip>18360</Zip>
+    <Phone>(570) 619-0053</Phone>
+    <Email>RANDY@MOUNTAINVIEWVINEYARD.COM</Email>
+    <Website>www.mountainviewvineyard.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>HERB LAMB VINEYARDS LLC</Name>
+    <AddressLine1>4326 BIG RANCH RD</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558-1347</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 967-9752</Phone>
+    <Email>terry@herblambvineyards.com</Email>
+    <Website>www.herblambvineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>BRYTER ESTATES LLC</Name>
+    <AddressLine1>5055 SOLANO AVE</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558-1326</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 265-0233</Phone>
+    <Email>BETH@THEWACCO.COM</Email>
+    <Website>www.thewacco.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>STEPHEN HAWKES</Name>
+    <AddressLine1>6734 HWY 128</AddressLine1>
+    <CityStateZipRaw>HEALDSBURG CA, 95448</CityStateZipRaw>
+    <City>HEALDSBURG</City>
+    <State>CA</State>
+    <Zip>95448</Zip>
+    <Phone>(707) 433-4295</Phone>
+    <Email>Susanna@hawkeswine.com</Email>
+    <Website>www.hawkeswine.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>WALTZ VINEYARDS ESTATE WINERY LLC</Name>
+    <AddressLine1>1599 OLD LINE RD</AddressLine1>
+    <CityStateZipRaw>MANHEIM PA, 17545-8222</CityStateZipRaw>
+    <City>MANHEIM</City>
+    <State>PA</State>
+    <Zip>17545</Zip>
+    <Phone>(717) 664-9463</Phone>
+    <Email>anne@waltzvineyards.com</Email>
+    <Website>www.waltzvineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SIX SIGMA WINERY LLC</Name>
+    <AddressLine1>13372 SPRUCE GROVE RD</AddressLine1>
+    <CityStateZipRaw>LOWER LAKE CA, 95457-9862</CityStateZipRaw>
+    <City>LOWER LAKE</City>
+    <State>CA</State>
+    <Zip>95457</Zip>
+    <Phone>(707) 994-4068</Phone>
+    <Email>MARY@SIXSIGMARANCH.COM</Email>
+    <Website>www.sixsigmaranch.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SWEDISH HILL VINEYARD INC</Name>
+    <AddressLine1>4565 RTE 414</AddressLine1>
+    <CityStateZipRaw>ROMULUS NY, 14541</CityStateZipRaw>
+    <City>ROMULUS</City>
+    <State>NY</State>
+    <Zip>14541</Zip>
+    <Phone>(607) 403-0029</Phone>
+    <Email>Jean.Peterson@swedishhill.com</Email>
+    <Website>www.swedishhill.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>TOLINO VINEYARDS LLC</Name>
+    <AddressLine1>280 MT PLEASANT RD</AddressLine1>
+    <CityStateZipRaw>BANGOR PA, 18013-9244</CityStateZipRaw>
+    <City>BANGOR</City>
+    <State>PA</State>
+    <Zip>18013</Zip>
+    <Email>CARL@TOLINOVINEYARDS.COM</Email>
+    <Website>www.tolinovineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>RAFFALDINI VINEYARDS &amp; WINERY LLC</Name>
+    <AddressLine1>450 GROCE RD</AddressLine1>
+    <CityStateZipRaw>RONDA NC, 28670-9134</CityStateZipRaw>
+    <City>RONDA</City>
+    <State>NC</State>
+    <Zip>28670</Zip>
+    <Phone>(312) 315-0550</Phone>
+    <Email>barbara@raffaldini.com</Email>
+    <Website>www.raffaldini.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ARMIDA WINERY INC</Name>
+    <AddressLine1>2201 WESTSIDE RD</AddressLine1>
+    <CityStateZipRaw>HEALDSBURG CA, 95448</CityStateZipRaw>
+    <City>HEALDSBURG</City>
+    <State>CA</State>
+    <Zip>95448</Zip>
+    <Phone>(707) 528-8500</Phone>
+    <Email>armida@dhwinecompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>BLACKBIRD VINEYARDS LLC</Name>
+    <AddressLine1>7830-40 ST HELENA HWY</AddressLine1>
+    <AddressLine2>STE 2</AddressLine2>
+    <CityStateZipRaw>OAKVILLE CA, 94562</CityStateZipRaw>
+    <City>OAKVILLE</City>
+    <State>CA</State>
+    <Zip>94562</Zip>
+    <Phone>(707) 528-8500</Phone>
+    <Email>blackbird@dhwinecompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ITO WINES LLC</Name>
+    <AddressLine1>8260 PLEASANT VALLEY RD</AddressLine1>
+    <CityStateZipRaw>HAMMONDSPORT NY, 14840</CityStateZipRaw>
+    <City>HAMMONDSPORT</City>
+    <State>NY</State>
+    <Zip>14840</Zip>
+    <Phone>(978) 500-5583</Phone>
+    <Email>katie@travelingvineyard.com</Email>
+    <Website>www.travelingvineyard.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>J LOHR WINERY CORPORATION</Name>
+    <AddressLine1>1000 LENZEN AVE</AddressLine1>
+    <CityStateZipRaw>SAN JOSE CA, 95126</CityStateZipRaw>
+    <City>SAN JOSE</City>
+    <State>CA</State>
+    <Zip>95126</Zip>
+    <Phone>(805) 239-5400</Phone>
+    <Email>jhamm@jlohr.com</Email>
+    <Website>www.jlohr.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>MONTICELLO CELLARS</Name>
+    <AddressLine1>4242 BIG RANCH RD</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558-1301</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Email>STEPHEN@CORLEYFAMILYNAPAVALLEY</Email>
+    <Website>www.corleyfamilynapavalley</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ITO WINES LLC</Name>
+    <AddressLine1>35 &amp; 70 INDUSTRIAL WAY</AddressLine1>
+    <CityStateZipRaw>BUELLTON CA, 93427</CityStateZipRaw>
+    <City>BUELLTON</City>
+    <State>CA</State>
+    <Zip>93427</Zip>
+    <Phone>(978) 500-5583</Phone>
+    <Email>katie@travelingvineyard.com</Email>
+    <Website>www.travelingvineyard.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ITO WINES LLC</Name>
+    <AddressLine1>499 MOORE LANE</AddressLine1>
+    <CityStateZipRaw>HEALDSBURG CA, 95448</CityStateZipRaw>
+    <City>HEALDSBURG</City>
+    <State>CA</State>
+    <Zip>95448</Zip>
+    <Phone>(978) 500-5583</Phone>
+    <Email>katie@travelingvineyard.com</Email>
+    <Website>www.travelingvineyard.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ADELAIDA CELLARS INC</Name>
+    <AddressLine1>5805 ADELAIDA RD</AddressLine1>
+    <CityStateZipRaw>PASO ROBLES CA, 93446</CityStateZipRaw>
+    <City>PASO ROBLES</City>
+    <State>CA</State>
+    <Zip>93446</Zip>
+    <Email>adelaida@compli-beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>LORING WINE COMPANY LLC</Name>
+    <AddressLine1>1034 W AVIATION DR</AddressLine1>
+    <CityStateZipRaw>LOMPOC CA, 93436</CityStateZipRaw>
+    <City>LOMPOC</City>
+    <State>CA</State>
+    <Zip>93436</Zip>
+    <Phone>(805) 736-0053</Phone>
+    <Email>brian@loringwinecompany.com</Email>
+    <Website>www.loringwinecompany.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CHATEAU DIANA LLC</Name>
+    <AddressLine1>6195 DRY CREEK RD</AddressLine1>
+    <CityStateZipRaw>HEALDSBURG CA, 95448</CityStateZipRaw>
+    <City>HEALDSBURG</City>
+    <State>CA</State>
+    <Zip>95448</Zip>
+    <Phone>(707) 528-8500</Phone>
+    <Email>chateaudiana@dhwinecompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>RED CAR WINE COMPANY LLC</Name>
+    <AddressLine1>8400 GRATON RD</AddressLine1>
+    <CityStateZipRaw>SEBASTOPOL CA, 95472-2401</CityStateZipRaw>
+    <City>SEBASTOPOL</City>
+    <State>CA</State>
+    <Zip>95472</Zip>
+    <Phone>(707) 528-8500</Phone>
+    <Email>redcar@dhwinecompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>MAROON WINERY LLC</Name>
+    <AddressLine1>1075 GOLDEN GATE DR</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 252-4725</Phone>
+    <Email>jw1@winecompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>LAYTONS CHANCE VINEYARD &amp; WINERY LLC</Name>
+    <AddressLine1>4225 NEW BRIDGE RD</AddressLine1>
+    <CityStateZipRaw>VIENNA MD, 21869</CityStateZipRaw>
+    <City>VIENNA</City>
+    <State>MD</State>
+    <Zip>21869</Zip>
+    <Phone>(410) 228-1205</Phone>
+    <Email>jlayton@laytonschance.com</Email>
+    <Website>www.laytonschance.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>HUNT COUNTRY VINEYARDS LLC</Name>
+    <AddressLine1>4021 ITALY HILL RD</AddressLine1>
+    <CityStateZipRaw>BRANCHPORT NY, 14418-9615</CityStateZipRaw>
+    <City>BRANCHPORT</City>
+    <State>NY</State>
+    <Zip>14418</Zip>
+    <Phone>(315) 595-2812</Phone>
+    <Email>INFO@HUNTWINES.COM</Email>
+    <Website>www.huntwines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>NAPA WINE COMPANY LLC</Name>
+    <AddressLine1>7830-40 ST HELENA HWY</AddressLine1>
+    <CityStateZipRaw>OAKVILLE CA, 94562</CityStateZipRaw>
+    <City>OAKVILLE</City>
+    <State>CA</State>
+    <Zip>94562</Zip>
+    <Phone>(508) 648-2505</Phone>
+    <Email>coastalcompliance@comcast.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SHAFER VINEYARDS</Name>
+    <AddressLine1>6154  SILVERADO TRAIL</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 944-2877</Phone>
+    <Email>mschatz@shafervineyards.com</Email>
+    <Website>www.shafervineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>KENEFICK RANCHES WINERY LLC</Name>
+    <AddressLine1>4550 SILVERADO TRAIL</AddressLine1>
+    <CityStateZipRaw>CALISTOGA CA, 94515</CityStateZipRaw>
+    <City>CALISTOGA</City>
+    <State>CA</State>
+    <Zip>94515</Zip>
+    <Phone>(866) 661-4190</Phone>
+    <Email>brenda@wineindustrycompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>GAMBLE FAMILY VINEYARDS LLC</Name>
+    <AddressLine1>7554 ST HELENA HWY</AddressLine1>
+    <CityStateZipRaw>OAKVILLE CA, 94562</CityStateZipRaw>
+    <City>OAKVILLE</City>
+    <State>CA</State>
+    <Zip>94562</Zip>
+    <Phone>(707) 944-2999</Phone>
+    <Email>kari@gamblefamilyvineyards.com</Email>
+    <Website>www.gamblefamilyvineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>WHEELER WINERY INC</Name>
+    <AddressLine1>1791 OLIVET RD</AddressLine1>
+    <CityStateZipRaw>SANTA ROSA CA, 95401</CityStateZipRaw>
+    <City>SANTA ROSA</City>
+    <State>CA</State>
+    <Zip>95401</Zip>
+    <Phone>(707) 963-6951</Phone>
+    <Email>bonne.posert@boisset.com</Email>
+    <Website>www.boisset.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>RAYMOND VINEYARD &amp; CELLAR INC</Name>
+    <AddressLine1>849 ZINFANDEL LN</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574-1645</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(707) 963-6951</Phone>
+    <Email>bonne.posert@boisset.com</Email>
+    <Website>www.boisset.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>PORTER FAMILY VINEYARDS LLC</Name>
+    <AddressLine1>1189 GREEN VALLEY RD</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558-4061</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 927-0765</Phone>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>STONY HILL VINEYARD</Name>
+    <AddressLine1>3331 N ST ST HELENA HWY</AddressLine1>
+    <AddressLine2>PO BOX 308</AddressLine2>
+    <CityStateZipRaw>ST HELENA CA, 94574-0308</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(707) 963-2636</Phone>
+    <Email>INFO@STONYHILLVINEYARD.COM</Email>
+    <Website>www.stonyhillvineyard.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>DEL DOTTO VINEYARDS</Name>
+    <AddressLine1>1055 ATLAS PEAK RD</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558-1501</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 252-4725</Phone>
+    <Email>reg1@winecompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>J.K. CARRIERE LLC</Name>
+    <AddressLine1>9995 NE PARRETT MOUNTAIN RD</AddressLine1>
+    <CityStateZipRaw>NEWBERG OR, 97132-7250</CityStateZipRaw>
+    <City>NEWBERG</City>
+    <State>OR</State>
+    <Zip>97132</Zip>
+    <Phone>(503) 554-0721</Phone>
+    <Email>linda@jkcarriere.com</Email>
+    <Website>www.jkcarriere.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>PRINCE MICHEL LLC</Name>
+    <AddressLine1>154  WINERY LANE</AddressLine1>
+    <CityStateZipRaw>LEON VA, 22725</CityStateZipRaw>
+    <City>LEON</City>
+    <State>VA</State>
+    <Zip>22725</Zip>
+    <Phone>(540) 547-3707</Phone>
+    <Email>sturner@princemichel.com</Email>
+    <Website>www.princemichel.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:19 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ARETE WINES LLC</Name>
+    <AddressLine1>1712 INDUSTRIAL WAY</AddressLine1>
+    <CityStateZipRaw>LOMPOC CA, 93436-4947</CityStateZipRaw>
+    <City>LOMPOC</City>
+    <State>CA</State>
+    <Zip>93436</Zip>
+    <Email>arete@compli-beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JARVIS</Name>
+    <AddressLine1>2970 MONTICELLO RD</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 255-5280</Phone>
+    <Email>info@jarviswines.com</Email>
+    <Website>www.jarviswines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>DOMAINE SERENE VINEYARDS &amp; WINERY INC</Name>
+    <AddressLine1>6555 NE HILLTOP LN</AddressLine1>
+    <CityStateZipRaw>DAYTON OR, 97114-7227</CityStateZipRaw>
+    <City>DAYTON</City>
+    <State>OR</State>
+    <Zip>97114</Zip>
+    <Phone>(503) 864-4600</Phone>
+    <Email>ARTIE@DOMAINESERENE.COM</Email>
+    <Website>www.domaineserene.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SEAVEY VINEYARD LP</Name>
+    <AddressLine1>1310 CONN VALLEY RD</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574-9610</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(707) 963-9339</Phone>
+    <Email>accounting@seaveyvineyard.com</Email>
+    <Website>www.seaveyvineyard.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>OWEN ROE LLC</Name>
+    <AddressLine1>2761 E 9TH ST</AddressLine1>
+    <CityStateZipRaw>NEWBERG OR, 97132</CityStateZipRaw>
+    <City>NEWBERG</City>
+    <State>OR</State>
+    <Zip>97132</Zip>
+    <Phone>(503) 516-5611</Phone>
+    <Email>alisa@owenroe.com</Email>
+    <Website>www.owenroe.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>HALTER WINERY LLC</Name>
+    <AddressLine1>8910 ADELAIDA RD</AddressLine1>
+    <CityStateZipRaw>PASO ROBLES CA, 93446-8798</CityStateZipRaw>
+    <City>PASO ROBLES</City>
+    <State>CA</State>
+    <Zip>93446</Zip>
+    <Phone>(805) 226-9455</Phone>
+    <Email>katie@halterranch.com</Email>
+    <Website>www.halterranch.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>RED NEWT CELLARS INC</Name>
+    <AddressLine1>3675 TICHENOR RD</AddressLine1>
+    <CityStateZipRaw>HECTOR NY, 14841-9675</CityStateZipRaw>
+    <City>HECTOR</City>
+    <State>NY</State>
+    <Zip>14841</Zip>
+    <Phone>(607) 546-4100</Phone>
+    <Email>TERRI@REDNEWT.COM</Email>
+    <Website>www.rednewt.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FULCRUM WINES LLC</Name>
+    <AddressLine1>110 CAMINO ORUGA</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(732) 610-9602</Phone>
+    <Email>david@fulcrumwines.com</Email>
+    <Website>www.fulcrumwines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SONOMA-CUTRER VINEYARDS</Name>
+    <AddressLine1>4401  SLUSSER RD</AddressLine1>
+    <CityStateZipRaw>WINDSOR CA, 95492</CityStateZipRaw>
+    <City>WINDSOR</City>
+    <State>CA</State>
+    <Zip>95492</Zip>
+    <Phone>(502) 774-7324</Phone>
+    <Email>Denise_Dillard@b-f.com</Email>
+    <Website>www.b-f.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>BURGESS CELLARS, INC.</Name>
+    <AddressLine1>1108 DEER PARK RD</AddressLine1>
+    <CityStateZipRaw>SAINT HELENA CA, 94574-9728</CityStateZipRaw>
+    <City>SAINT HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(707) 254-1133</Phone>
+    <Email>WINES@BURGESSCELLARS.COM</Email>
+    <Website>www.burgesscellars.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>VIGNETTE WINERY LLC</Name>
+    <AddressLine1>45 ENTERPRISE CT</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 637-8821</Phone>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FLORA SPRINGS WINE COMPANY</Name>
+    <AddressLine1>1978 W ZINFANDEL LN</AddressLine1>
+    <CityStateZipRaw>SAINT HELENA CA, 94574-1611</CityStateZipRaw>
+    <City>SAINT HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(800) 788-0212</Phone>
+    <Email>GRAPEVINECOMPLIANCE@Q.COM</Email>
+    <Website>www.q.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>MAURITSON FAMILY WINERY</Name>
+    <AddressLine1>2859 DRY CREEK RD</AddressLine1>
+    <CityStateZipRaw>HEALDSBURG CA, 95448</CityStateZipRaw>
+    <City>HEALDSBURG</City>
+    <State>CA</State>
+    <Zip>95448</Zip>
+    <Phone>(707) 431-0804</Phone>
+    <Email>info@mauritsonwines.com</Email>
+    <Website>www.mauritsonwines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>DAWN'S DREAM LLC</Name>
+    <AddressLine1>18181 CACHAGUA RD</AddressLine1>
+    <CityStateZipRaw>CARMEL VALLEY CA, 93924-9313</CityStateZipRaw>
+    <City>CARMEL VALLEY</City>
+    <State>CA</State>
+    <Zip>93924</Zip>
+    <Phone>(505) 977-1010</Phone>
+    <Email>grapevinecompliance@q.com</Email>
+    <Website>www.q.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>DRY CREEK VINEYARD INC</Name>
+    <AddressLine1>3770 LAMBERT BRIDGE RD</AddressLine1>
+    <CityStateZipRaw>HEALDSBURG CA, 95448</CityStateZipRaw>
+    <City>HEALDSBURG</City>
+    <State>CA</State>
+    <Zip>95448</Zip>
+    <Phone>(505) 977-1010</Phone>
+    <Email>grapevinecompliance@q.com</Email>
+    <Website>www.q.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>DUTTON GOLDFIELD WINERY LLC</Name>
+    <AddressLine1>3100 GRAVENSTEIN  HWY</AddressLine1>
+    <CityStateZipRaw>SEBASTOPOL CA, 95472</CityStateZipRaw>
+    <City>SEBASTOPOL</City>
+    <State>CA</State>
+    <Zip>95472</Zip>
+    <Phone>(505) 977-1010</Phone>
+    <Email>grapevinecompliance@q.com</Email>
+    <Website>www.q.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>GALANTE FAMILY WINERY INC</Name>
+    <AddressLine1>18181 CACHAGUA RD</AddressLine1>
+    <CityStateZipRaw>CARMEL VALLEY CA, 93924-9313</CityStateZipRaw>
+    <City>CARMEL VALLEY</City>
+    <State>CA</State>
+    <Zip>93924</Zip>
+    <Phone>(505) 977-1010</Phone>
+    <Email>grapevinecompliance@q.com</Email>
+    <Website>www.q.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CK CELLARS LLC</Name>
+    <AddressLine1>2770 RTE 14</AddressLine1>
+    <CityStateZipRaw>PENN YAN NY, 19031</CityStateZipRaw>
+    <City>PENN YAN</City>
+    <State>NY</State>
+    <Zip>19031</Zip>
+    <Phone>(315) 422-1152</Phone>
+    <Email>zrb@ccf-law.com</Email>
+    <Website>www.ccf-law.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>PANTHER CREEK CELLARS LLC</Name>
+    <AddressLine1>240 SE 5TH AV</AddressLine1>
+    <CityStateZipRaw>DUNDEE OR, 97115</CityStateZipRaw>
+    <City>DUNDEE</City>
+    <State>OR</State>
+    <Zip>97115</Zip>
+    <Phone>(505) 977-1010</Phone>
+    <Email>grapevinecompliance@q.com</Email>
+    <Website>www.q.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ROY ESTATE LLC</Name>
+    <AddressLine1>1220 SODA CANYON RD</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(505) 977-1010</Phone>
+    <Email>grapevinecompliance@q.com</Email>
+    <Website>www.q.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>WINE BY JOE LLC</Name>
+    <AddressLine1>240 SE 5TH ST</AddressLine1>
+    <CityStateZipRaw>DUNDEE OR, 97115-5003</CityStateZipRaw>
+    <City>DUNDEE</City>
+    <State>OR</State>
+    <Zip>97115</Zip>
+    <Phone>(505) 977-1010</Phone>
+    <Email>grapevinecompliance@q.com</Email>
+    <Website>www.q.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>DENNER WINERY INC</Name>
+    <AddressLine1>5414 VINEYARD DR</AddressLine1>
+    <CityStateZipRaw>PASO ROBLES CA, 93446-9684</CityStateZipRaw>
+    <City>PASO ROBLES</City>
+    <State>CA</State>
+    <Zip>93446</Zip>
+    <Phone>(805) 239-4287</Phone>
+    <Email>ashleigh@dennervineyards.com</Email>
+    <Website>www.dennervineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>LARKMEAD VINEYARDS</Name>
+    <AddressLine1>1100 LARKMEAD LANE</AddressLine1>
+    <CityStateZipRaw>CALISTOGA CA, 94515</CityStateZipRaw>
+    <City>CALISTOGA</City>
+    <State>CA</State>
+    <Zip>94515</Zip>
+    <Phone>(866) 661-4190</Phone>
+    <Email>melissa@wineindustrycompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ROUND POND ESTATE LLC</Name>
+    <AddressLine1>875 RUTHERFORD RD</AddressLine1>
+    <CityStateZipRaw>RUTHERFORD CA, 94573</CityStateZipRaw>
+    <City>RUTHERFORD</City>
+    <State>CA</State>
+    <Zip>94573</Zip>
+    <Phone>(866) 661-4190</Phone>
+    <Email>melissa@wineindustrycompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ARIETTA INC</Name>
+    <AddressLine1>3468 SILVERADO TRAIL N</AddressLine1>
+    <CityStateZipRaw>SAINT HELENA CA, 94574-9662</CityStateZipRaw>
+    <City>SAINT HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>DISTEL CELLARS LLC</Name>
+    <AddressLine1>32230 NE OLD PARRETT MOUNTAIN RD</AddressLine1>
+    <CityStateZipRaw>NEWBERG OR, 97132-6934</CityStateZipRaw>
+    <City>NEWBERG</City>
+    <State>OR</State>
+    <Zip>97132</Zip>
+    <Phone>(612) 799-8969</Phone>
+    <Email>thomas.d.mortimer@gmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>MOLLYDOOKER INTERNATIONAL LLC</Name>
+    <AddressLine1>1285 DEALY  LANE</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94559</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94559</Zip>
+    <Phone>(505) 977-1010</Phone>
+    <Email>GRAPEVINECOMPLIANCE@Q.COM</Email>
+    <Website>www.q.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>AC VIN CO LLC</Name>
+    <AddressLine1>1119 STATE LN</AddressLine1>
+    <CityStateZipRaw>YOUNTVILLE CA, 94599-9407</CityStateZipRaw>
+    <City>YOUNTVILLE</City>
+    <State>CA</State>
+    <Zip>94599</Zip>
+    <Phone>(505) 977-1010</Phone>
+    <Email>grapevinecompliance@q.com</Email>
+    <Website>www.q.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>VILLA ENCINAL PARTNERS LP</Name>
+    <AddressLine1>620 OAKVILLE CROSS RD</AddressLine1>
+    <CityStateZipRaw>OAKVILLE CA, 94562</CityStateZipRaw>
+    <City>OAKVILLE</City>
+    <State>CA</State>
+    <Zip>94562</Zip>
+    <Phone>(707) 578-7807</Phone>
+    <Email>paula@complianceservice.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>STONE EDGE WINERY LLC</Name>
+    <AddressLine1>21692 8TH ST E SUITES 100 &amp; 110</AddressLine1>
+    <CityStateZipRaw>SONOMA CA, 95476-2802</CityStateZipRaw>
+    <City>SONOMA</City>
+    <State>CA</State>
+    <Zip>95476</Zip>
+    <Phone>(707) 528-8500</Phone>
+    <Email>stoneedge@dhwinecompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>B WISE VINEYARDS LLC</Name>
+    <AddressLine1>396 LONDON WAY</AddressLine1>
+    <CityStateZipRaw>SONOMA CA, 95476</CityStateZipRaw>
+    <City>SONOMA</City>
+    <State>CA</State>
+    <Zip>95476</Zip>
+    <Phone>(707) 578-7807</Phone>
+    <Email>paula@complianceservice.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>BREAUX VINEYARDS LTD</Name>
+    <AddressLine1>36888 BREAUX VINEYARDS LANE</AddressLine1>
+    <CityStateZipRaw>PURCELLVILLE VA, 20132</CityStateZipRaw>
+    <City>PURCELLVILLE</City>
+    <State>VA</State>
+    <Zip>20132</Zip>
+    <Phone>(540) 668-6299</Phone>
+    <Email>breauxvineyardswccg@gmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>PETER MICHAEL WINERY</Name>
+    <AddressLine1>12400 IDA CLAYTON RD</AddressLine1>
+    <CityStateZipRaw>CALISTOGA CA, 94515-9507</CityStateZipRaw>
+    <City>CALISTOGA</City>
+    <State>CA</State>
+    <Zip>94515</Zip>
+    <Phone>(707) 284-2828</Phone>
+    <Email>licensing@compliance-connect.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>DIVOT ENTERPRISES, LLC</Name>
+    <AddressLine1>3200 SOSCOL AVE APT 103</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558-9739</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 603-1462</Phone>
+    <Email>GRAPEVINECOMPLIANCE@Q.COM</Email>
+    <Website>www.q.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>TREFETHEN VINEYARDS WINERY INC</Name>
+    <AddressLine1>1160 OAK KNOLL AV</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 251-2421</Phone>
+    <Email>dcw@trefethen.com</Email>
+    <Website>www.trefethen.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>HAGAFEN CELLARS INC</Name>
+    <AddressLine1>4160 SILVERADO TRAIL</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Email>ernie@hagafen.com</Email>
+    <Website>www.hagafen.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FOX MEADOW WINERY LLC</Name>
+    <AddressLine1>3310 FREEZELAND RD</AddressLine1>
+    <CityStateZipRaw>LINDEN VA, 22642</CityStateZipRaw>
+    <City>LINDEN</City>
+    <State>VA</State>
+    <Zip>22642</Zip>
+    <Phone>(800) 790-6838</Phone>
+    <Email>dan@foxmeadowwinery.com</Email>
+    <Website>www.foxmeadowwinery.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>HANDLEY CELLARS LIMITED PARTNERSHIP</Name>
+    <AddressLine1>3151 HIGHWAY 128</AddressLine1>
+    <CityStateZipRaw>PHILO CA, 95466</CityStateZipRaw>
+    <City>PHILO</City>
+    <State>CA</State>
+    <Zip>95466</Zip>
+    <Phone>(707) 578-7807</Phone>
+    <Email>paula@complianceservice.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>RIDGE VINEYARDS, INC.</Name>
+    <AddressLine1>17100 MONTEBELLO RD</AddressLine1>
+    <CityStateZipRaw>CUPERTINO CA, 95014-5435</CityStateZipRaw>
+    <City>CUPERTINO</City>
+    <State>CA</State>
+    <Zip>95014</Zip>
+    <Phone>(408) 868-1334</Phone>
+    <Email>richard@ridgewine.com</Email>
+    <Website>www.ridgewine.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>BELLA LUNA WINERY INC</Name>
+    <AddressLine1>1850  TEMPLETON RD</AddressLine1>
+    <CityStateZipRaw>TEMPLETON CA, 93465</CityStateZipRaw>
+    <City>TEMPLETON</City>
+    <State>CA</State>
+    <Zip>93465</Zip>
+    <Phone>(805) 712-5225</Phone>
+    <Email>shelly.zanoli@bellalunawine.com</Email>
+    <Website>www.bellalunawine.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FROGS LEAP WINERY</Name>
+    <AddressLine1>8815 CONN CREEK RD</AddressLine1>
+    <CityStateZipRaw>RUTHERFORD CA, 94573</CityStateZipRaw>
+    <City>RUTHERFORD</City>
+    <State>CA</State>
+    <Zip>94573</Zip>
+    <Phone>(707) 963-4704</Phone>
+    <Email>kelly@frogsleap.com</Email>
+    <Website>www.frogsleap.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FOXEN VINEYARD INC</Name>
+    <AddressLine1>7600 FOXEN CANYON RD</AddressLine1>
+    <CityStateZipRaw>SANTA MARIA CA, 93454</CityStateZipRaw>
+    <City>SANTA MARIA</City>
+    <State>CA</State>
+    <Zip>93454</Zip>
+    <Phone>(805) 937-4251</Phone>
+    <Email>katie@foxenvineyard.com</Email>
+    <Website>www.foxenvineyard.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>TURNBULL WINE CELLARS</Name>
+    <AddressLine1>8210 ST HELENA HWY</AddressLine1>
+    <CityStateZipRaw>OAKVILLE CA, 94562</CityStateZipRaw>
+    <City>OAKVILLE</City>
+    <State>CA</State>
+    <Zip>94562</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SONS OF BACCHUS LLC</Name>
+    <AddressLine1>3354A COFFEY LANE</AddressLine1>
+    <CityStateZipRaw>SANTA ROSA CA, 95403-1917</CityStateZipRaw>
+    <City>SANTA ROSA</City>
+    <State>CA</State>
+    <Zip>95403</Zip>
+    <Phone>(831) 675-7500</Phone>
+    <Email>info@pisonivineyards.com</Email>
+    <Website>www.pisonivineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>LATITUDE BEVERAGE COMPANY</Name>
+    <AddressLine1>499 MOORE LANE</AddressLine1>
+    <CityStateZipRaw>HEALDSBURG CA, 95448</CityStateZipRaw>
+    <City>HEALDSBURG</City>
+    <State>CA</State>
+    <Zip>95448</Zip>
+    <Phone>(707) 528-8500</Phone>
+    <Email>latitude@dhwinecompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ABREU VINEYARDS INC</Name>
+    <AddressLine1>1451C YOUNTVILLE CROSS RD</AddressLine1>
+    <CityStateZipRaw>YOUNTVILLE CA, 94599</CityStateZipRaw>
+    <City>YOUNTVILLE</City>
+    <State>CA</State>
+    <Zip>94599</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>MOUNTAIN PEAK VINEYARDS LLC</Name>
+    <AddressLine1>3730 N SILVERADO TRAIL</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(707) 528-8500</Phone>
+    <Email>mtnpeak@dhwinecompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>HIWASSEE ACRES, LLC</Name>
+    <AddressLine1>251 PEACH TREE RD</AddressLine1>
+    <CityStateZipRaw>ORRTANNA PA, 17353-9753</CityStateZipRaw>
+    <City>ORRTANNA</City>
+    <State>PA</State>
+    <Zip>17353</Zip>
+    <Email>KMB3552@AOL.COM</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>A V V WINERY COMPANY LLC</Name>
+    <AddressLine1>8644 HIGHWAY 128</AddressLine1>
+    <CityStateZipRaw>HEALDSBURG CA, 95448-9021</CityStateZipRaw>
+    <City>HEALDSBURG</City>
+    <State>CA</State>
+    <Zip>95448</Zip>
+    <Phone>(541) 535-7492</Phone>
+    <Email>marypow@charter.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ALLEGRO WINE COMPANY, LLC</Name>
+    <AddressLine1>3475 SECHRIST RD</AddressLine1>
+    <CityStateZipRaw>BROGUE PA, 17309-9415</CityStateZipRaw>
+    <City>BROGUE</City>
+    <State>PA</State>
+    <Zip>17309</Zip>
+    <Phone>(717) 927-9148</Phone>
+    <Email>INFO@ALLEGROWINES.COM</Email>
+    <Website>www.allegrowines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ALPHA &amp; OMEGA WINERY LLC</Name>
+    <AddressLine1>1155 MEE LANE</AddressLine1>
+    <CityStateZipRaw>RUTHERFORD CA, 94573</CityStateZipRaw>
+    <City>RUTHERFORD</City>
+    <State>CA</State>
+    <Zip>94573</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ANDERSON'S CONN VALLEY WINERY INC</Name>
+    <AddressLine1>680 ROSSI RD</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(707) 578-7807</Phone>
+    <Email>paula@complianceservice.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>AWG LTD</Name>
+    <AddressLine1>4162 BIG RANCH RD</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558-1405</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 287-3532</Phone>
+    <Email>andretti6662@gmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ANOMALY VINEYARDS LLC</Name>
+    <AddressLine1>455  BELLA VISTA CRT</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(707) 967-8448</Phone>
+    <Email>karyn@wineindustrycompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ARMSTRONG VALLEY VINEYARD &amp; WINERY</Name>
+    <AddressLine1>212 RUTTER RD</AddressLine1>
+    <CityStateZipRaw>HALIFAX PA, 17032-9441</CityStateZipRaw>
+    <City>HALIFAX</City>
+    <State>PA</State>
+    <Zip>17032</Zip>
+    <Phone>(954) 290-1399</Phone>
+    <Email>INFO@ARMSTRONGVALLEYWINERY.COM</Email>
+    <Website>www.armstrongvalleywinery.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JACKSON FAMILY WINES INC</Name>
+    <AddressLine1>14347 SONOMA HWY</AddressLine1>
+    <CityStateZipRaw>GLEN ELLEN CA, 95442</CityStateZipRaw>
+    <City>GLEN ELLEN</City>
+    <State>CA</State>
+    <Zip>95442</Zip>
+    <Phone>(707) 547-4798</Phone>
+    <Email>Dezerlee.Reeves@jfwmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CODORNIU NAPA INC</Name>
+    <AddressLine1>1345 HENRY RD</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94559</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94559</Zip>
+    <Phone>(707) 578-7807</Phone>
+    <Email>paula@complianceservice.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ATWATER ESTATE VINEYARDS LLC</Name>
+    <AddressLine1>5055 RTE 414</AddressLine1>
+    <CityStateZipRaw>BURDETT NY, 14818</CityStateZipRaw>
+    <City>BURDETT</City>
+    <State>NY</State>
+    <Zip>14818</Zip>
+    <Phone>(607) 546-8463</Phone>
+    <Email>denise@atwatervineyards.com</Email>
+    <Website>www.atwatervineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>AUBERT WINEGROWING INCORPORATED</Name>
+    <AddressLine1>333 SILVERADO TRAIL</AddressLine1>
+    <CityStateZipRaw>CALISTOGA CA, 94515</CityStateZipRaw>
+    <City>CALISTOGA</City>
+    <State>CA</State>
+    <Zip>94515</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>26 BRIX LLC</Name>
+    <AddressLine1>701 OAKVILLE CROSS RD</AddressLine1>
+    <CityStateZipRaw>OAKVILLE CA, 94562</CityStateZipRaw>
+    <City>OAKVILLE</City>
+    <State>CA</State>
+    <Zip>94562</Zip>
+    <Email>coastalcompliance@comcast.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ARCHANGEL INVESTMENTS LLC</Name>
+    <AddressLine1>6236 SILVERADO TRAIL</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 944-9261</Phone>
+    <Email>compliance@baldaccivineyards.com</Email>
+    <Website>www.baldaccivineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>BECKER FARMS INC</Name>
+    <AddressLine1>464 BECKER FARMS RD</AddressLine1>
+    <CityStateZipRaw>STONEWALL TX, 78671</CityStateZipRaw>
+    <City>STONEWALL</City>
+    <State>TX</State>
+    <Zip>78671</Zip>
+    <Phone>(830) 644-2681</Phone>
+    <Email>wineclub@beckerwines.com</Email>
+    <Website>www.beckerwines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>THOMAS BECKMEN</Name>
+    <AddressLine1>2670 ONTIVEROS RD</AddressLine1>
+    <AddressLine2>P O BOX 542</AddressLine2>
+    <CityStateZipRaw>LOS OLIVOS CA, 93441</CityStateZipRaw>
+    <City>LOS OLIVOS</City>
+    <State>CA</State>
+    <Zip>93441</Zip>
+    <Phone>(607) 546-8463</Phone>
+    <Email>DENISE@ATWATERVINEYARDS.COM</Email>
+    <Website>www.atwatervineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>BEE KIND WINERY LLC</Name>
+    <AddressLine1>14325 CLEARFIELD SHAWVILLE HIGHWAY</AddressLine1>
+    <CityStateZipRaw>CLEARFIELD, PA, 16830</CityStateZipRaw>
+    <City>CLEARFI</City>
+    <State>LD</State>
+    <Zip>PA, 16830</Zip>
+    <Phone>(814) 762-8210</Phone>
+    <Email>INFO@BEEKINDWINERY.COM</Email>
+    <Website>www.beekindwinery.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FN CELLARS LLC</Name>
+    <AddressLine1>1315 BELLA OAKS LANE</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 967-9600</Phone>
+    <Email>ssmith@fn-mail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ADAMS WINERY LLC</Name>
+    <AddressLine1>9711 W DRY CREEK RD</AddressLine1>
+    <CityStateZipRaw>HEALDSBURG CA, 95448</CityStateZipRaw>
+    <City>HEALDSBURG</City>
+    <State>CA</State>
+    <Zip>95448</Zip>
+    <Phone>(508) 648-2505</Phone>
+    <Email>coastalcompliance@comcast.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>BENNETT LANE WINERY LLC</Name>
+    <AddressLine1>3340 Hwy 128</AddressLine1>
+    <CityStateZipRaw>Calistoga CA, 94515-9727</CityStateZipRaw>
+    <City>Calistoga</City>
+    <State>CA</State>
+    <Zip>94515</Zip>
+    <Phone>(707) 942-6684</Phone>
+    <Email>compliance@bennettlane.com</Email>
+    <Website>www.bennettlane.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>BENOVIA WINERY LLC</Name>
+    <AddressLine1>3339 HARTMAN LANE</AddressLine1>
+    <CityStateZipRaw>SANTA ROSA CA, 95401</CityStateZipRaw>
+    <City>SANTA ROSA</City>
+    <State>CA</State>
+    <Zip>95401</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>BLANKIET ESTATE LLC</Name>
+    <AddressLine1>2358  CALIFORNIA DR</AddressLine1>
+    <CityStateZipRaw>YOUNTVILLE CA, 94599</CityStateZipRaw>
+    <City>YOUNTVILLE</City>
+    <State>CA</State>
+    <Zip>94599</Zip>
+    <Phone>(707) 963-2001</Phone>
+    <Email>Julie@Blankiet.com</Email>
+    <Website>www.blankiet.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>BLUE MOUNTAIN VINEYARDS &amp; CELLARS LTD</Name>
+    <AddressLine1>7627 GRAPE VINE DR</AddressLine1>
+    <AddressLine2>PO BOX 492</AddressLine2>
+    <CityStateZipRaw>NEW TRIPOLI PA, 18066-0492</CityStateZipRaw>
+    <City>NEW TRIPOLI</City>
+    <State>PA</State>
+    <Zip>18066</Zip>
+    <Phone>(610) 298-3068</Phone>
+    <Email>BMVSALES@BMVC.COM</Email>
+    <Website>www.bmvc.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>BOYDS CARDINAL HOLLOW WINERY CORP</Name>
+    <AddressLine1>1830 WEST POINT PK HWY</AddressLine1>
+    <CityStateZipRaw>LANSDALE PA, 19446</CityStateZipRaw>
+    <City>LANSDALE</City>
+    <State>PA</State>
+    <Zip>19446</Zip>
+    <Phone>(215) 661-9580</Phone>
+    <Email>cardinalwinery@aol.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>BRESSLER VINEYARDS LLC</Name>
+    <AddressLine1>5055 SOLANO AVE</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558-1326</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(866) 661-4190</Phone>
+    <Email>karyn@wineindustrycompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>BRIAR VALLEY VINEYARDS AND WINERY INC</Name>
+    <AddressLine1>107 E PITT ST</AddressLine1>
+    <AddressLine2>PO BOX 514</AddressLine2>
+    <CityStateZipRaw>BEDFORD PA, 15522</CityStateZipRaw>
+    <City>BEDFORD</City>
+    <State>PA</State>
+    <Zip>15522</Zip>
+    <Phone>(814) 623-0900</Phone>
+    <Email>BRIARVALLEY@EMBARQMAIL.COM</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>THE MORNE WINE COMPANY</Name>
+    <AddressLine1>21101 SE CHERRY BLOSSOM LN</AddressLine1>
+    <CityStateZipRaw>AMITY OR, 97101-2403</CityStateZipRaw>
+    <City>AMITY</City>
+    <State>OR</State>
+    <Zip>97101</Zip>
+    <Phone>(805) 239-4502</Phone>
+    <Email>Brooks.Wines@Compli-Beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>BRUTOCAO CELLARS LP</Name>
+    <AddressLine1>1400 HIGHWAY 175</AddressLine1>
+    <CityStateZipRaw>HOPLAND  CA, 95449-9754</CityStateZipRaw>
+    <City>HOPLAND </City>
+    <State>CA</State>
+    <Zip>95449</Zip>
+    <Phone>(707) 528-8500</Phone>
+    <Email>BRUTOCAO@DHWINECOMPLIANCE.COM</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>WILLIAM WARNER</Name>
+    <AddressLine1>111 BARNETT DR</AddressLine1>
+    <CityStateZipRaw>DUNCANNON PA, 17020-9022</CityStateZipRaw>
+    <City>DUNCANNON</City>
+    <State>PA</State>
+    <Zip>17020</Zip>
+    <Phone>(717) 834-5606</Phone>
+    <Email>CONTACTUS@BUDDYBOYWINERY.COM</Email>
+    <Website>www.buddyboywinery.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>BULLY HILL VINEYARDS INC</Name>
+    <AddressLine1>PO Box 458</AddressLine1>
+    <CityStateZipRaw>HAMMONDSPORT NY, 14840</CityStateZipRaw>
+    <City>HAMMONDSPORT</City>
+    <State>NY</State>
+    <Zip>14840</Zip>
+    <Phone>(607) 868-3610</Phone>
+    <Email>mainoffice@bullyhill.com</Email>
+    <Website>www.bullyhill.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ROBIN'S VINES LLC</Name>
+    <AddressLine1>5986 STATE ROUTE 89</AddressLine1>
+    <CityStateZipRaw>ROMULUS NY, 14541</CityStateZipRaw>
+    <City>ROMULUS</City>
+    <State>NY</State>
+    <Zip>14541</Zip>
+    <Phone>(607) 869-9760</Phone>
+    <Email>marcia@buttonwoodgrove.com</Email>
+    <Website>www.buttonwoodgrove.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JACKSON FAMILY WINES INC</Name>
+    <AddressLine1>5250 TEPUSQUET CANYON RD</AddressLine1>
+    <CityStateZipRaw>SANTA MARIA CA, 93454</CityStateZipRaw>
+    <City>SANTA MARIA</City>
+    <State>CA</State>
+    <Zip>93454</Zip>
+    <Phone>(707) 547-4798</Phone>
+    <Email>Dezerlee.Reeves@jfwmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CAIN CELLARS INC</Name>
+    <AddressLine1>3800 LANGTRY RD</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(707) 252-4725</Phone>
+    <Email>jw1@winecompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JACKSON FAMILY WINES INC</Name>
+    <AddressLine1>5475 CHARDONNAY LANE</AddressLine1>
+    <CityStateZipRaw>SANTA MARIA CA, 93454</CityStateZipRaw>
+    <City>SANTA MARIA</City>
+    <State>CA</State>
+    <Zip>93454</Zip>
+    <Phone>(707) 547-4798</Phone>
+    <Email>Dezerlee.Reeves@jfwmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CLARA STREET COMPANY</Name>
+    <AddressLine1>5055 SOLANO AVE</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558-1326</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CARACCIOLI CELLARS INC</Name>
+    <AddressLine1>18181 CACHAGUA RD</AddressLine1>
+    <CityStateZipRaw>CARMEL VALLEY CA, 93924-9313</CityStateZipRaw>
+    <City>CARMEL VALLEY</City>
+    <State>CA</State>
+    <Zip>93924</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JACKSON FAMILY WINES INC</Name>
+    <AddressLine1>7600 ST HELENA HWY</AddressLine1>
+    <CityStateZipRaw>OAKVILLE CA, 94562</CityStateZipRaw>
+    <City>OAKVILLE</City>
+    <State>CA</State>
+    <Zip>94562</Zip>
+    <Phone>(707) 547-4798</Phone>
+    <Email>Dezerlee.Reeves@jfwmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FIVE VINES LLC</Name>
+    <AddressLine1>2075 SUMMIT LAKE DR</AddressLine1>
+    <CityStateZipRaw>ANGWIN CA, 94508</CityStateZipRaw>
+    <City>ANGWIN</City>
+    <State>CA</State>
+    <Zip>94508</Zip>
+    <Phone>(866) 661-4190</Phone>
+    <Email>tami.ferrero@wineindustrycompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>GENESEO PARTNERS LP</Name>
+    <AddressLine1>7350 LINNE RD</AddressLine1>
+    <CityStateZipRaw>PASO ROBLES CA, 93446</CityStateZipRaw>
+    <City>PASO ROBLES</City>
+    <State>CA</State>
+    <Zip>93446</Zip>
+    <Phone>(805) 239-1730</Phone>
+    <Email>info@casswines.com</Email>
+    <Website>www.casswines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CAYUSE WINERY LLC</Name>
+    <AddressLine1>53863 HWY-332 / SUNNYSIDE RD</AddressLine1>
+    <CityStateZipRaw>MILTON-FREEWATER OR, 97862</CityStateZipRaw>
+    <City>MILTON-FREEWATER</City>
+    <State>OR</State>
+    <Zip>97862</Zip>
+    <Phone>(509) 526-0686</Phone>
+    <Email>INFO@CAYUSEVINEYARDS.COM</Email>
+    <Website>www.cayusevineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FOLEY FAMILY WINES, INC.</Name>
+    <AddressLine1>10300 CHALK HILL RD</AddressLine1>
+    <CityStateZipRaw>HEALDSBURG CA, 95448</CityStateZipRaw>
+    <City>HEALDSBURG</City>
+    <State>CA</State>
+    <Zip>95448</Zip>
+    <Phone>(707) 708-7641</Phone>
+    <Email>compliance@foleyfamilywines.com</Email>
+    <Website>www.foleyfamilywines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FOLEY FAMILY WINES, INC.</Name>
+    <AddressLine1>32020 STONEWALL CANYON RD</AddressLine1>
+    <CityStateZipRaw>SOLEDAD CA, 93960</CityStateZipRaw>
+    <City>SOLEDAD</City>
+    <State>CA</State>
+    <Zip>93960</Zip>
+    <Phone>(707) 708-7641</Phone>
+    <Email>compliance@foleyfamilywines.com</Email>
+    <Website>www.foleyfamilywines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CHAPPELLET WINERY INC</Name>
+    <AddressLine1>1581 SAGE CANYON  RD</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:20 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SULPHUR SPRINGS WINERY LLC</Name>
+    <AddressLine1>2252 SULPHUR SPRINGS AVE</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574-2412</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(707) 265-0233</Phone>
+    <Email>BETH@THEWACCO.COM</Email>
+    <Website>www.thewacco.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>RTB MANAGEMENT</Name>
+    <AddressLine1>3468 SILVERADO TRAIL</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CHATEAU POTELLE LLC</Name>
+    <AddressLine1>1721 PATRICK RD</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 291-8828</Phone>
+    <Email>Tammie@chateaupotelle.com</Email>
+    <Website>www.chateaupotelle.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SORRENTI ORCHARDS, INC.</Name>
+    <AddressLine1>130 LOWER CHERRY VALLEY RD</AddressLine1>
+    <CityStateZipRaw>SAYLORSBURG PA, 18353-8325</CityStateZipRaw>
+    <City>SAYLORSBURG</City>
+    <State>PA</State>
+    <Zip>18353</Zip>
+    <Phone>(570) 992-2255</Phone>
+    <Email>CVWINE@EPIX.NET</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>DOMAINE M. B. LLC</Name>
+    <AddressLine1>6751 LAGUNA PKY</AddressLine1>
+    <CityStateZipRaw>SEBASTOPOL CA, 95472-3445</CityStateZipRaw>
+    <City>SEBASTOPOL</City>
+    <State>CA</State>
+    <Zip>95472</Zip>
+    <Phone>(805) 239-4502</Phone>
+    <Email>domaine.m.b@compli-beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CLIF BAR FAMILY WINERY &amp; FARM LLC</Name>
+    <AddressLine1>3130 OLD LAWLEY TOLL RD</AddressLine1>
+    <CityStateZipRaw>CALISTOGA CA, 94515-9728</CityStateZipRaw>
+    <City>CALISTOGA</City>
+    <State>CA</State>
+    <Zip>94515</Zip>
+    <Phone>(866) 661-4190</Phone>
+    <Email>karyn@wineindustrycompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>TWIN PEAKS WINERY INC</Name>
+    <AddressLine1>1473 YOUNTVILLE CROSS RD</AddressLine1>
+    <CityStateZipRaw>YOUNTVILLE CA, 94599-9471</CityStateZipRaw>
+    <City>YOUNTVILLE</City>
+    <State>CA</State>
+    <Zip>94599</Zip>
+    <Phone>(707) 944-8642</Phone>
+    <Email>compliance@ledefamilywines.com</Email>
+    <Website>www.ledefamilywines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name />
+    <AddressLine1>1000 FERN HOLLOW RD</AddressLine1>
+    <CityStateZipRaw>LA HONDA CA, 94020</CityStateZipRaw>
+    <City>LA HONDA</City>
+    <State>CA</State>
+    <Zip>94020</Zip>
+    <Phone>(508) 648-2505</Phone>
+    <Email>coastalcompliance@comcast.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CLOS DU VAL WINE COMPANY LTD</Name>
+    <AddressLine1>5330 SILVERADO  TRAIL</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CLOVER HILL ENTERPRISES, INC.</Name>
+    <AddressLine1>9850 NEWTOWN RD</AddressLine1>
+    <CityStateZipRaw>BREINIGSVILLE PA, 18031-1808</CityStateZipRaw>
+    <City>BREINIGSVILLE</City>
+    <State>PA</State>
+    <Zip>18031</Zip>
+    <Phone>(610) 395-2468</Phone>
+    <Email>PAT@CLOVERHILLWINERY.COM</Email>
+    <Website>www.cloverhillwinery.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CONNEAUT CELLARS, INC.</Name>
+    <AddressLine1>12005 CONNEAUT RD</AddressLine1>
+    <AddressLine2>PO BOX 5075</AddressLine2>
+    <CityStateZipRaw>CONNEAUT LAKE PA, 16316-5075</CityStateZipRaw>
+    <City>CONNEAUT LAKE</City>
+    <State>PA</State>
+    <Zip>16316</Zip>
+    <Phone>(814) 382-3999</Phone>
+    <Email>INFO@CONNEAUTCELLARS.COM</Email>
+    <Website>www.conneautcellars.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CONUNDRUM WINERY LLC</Name>
+    <AddressLine1>1290 RIVER RD</AddressLine1>
+    <CityStateZipRaw>SALINAS CA, 93908</CityStateZipRaw>
+    <City>SALINAS</City>
+    <State>CA</State>
+    <Zip>93908</Zip>
+    <Email>Conundrum@compli-beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>COOL HAND VINEYARDS LLC</Name>
+    <AddressLine1>63 THOMAS RD</AddressLine1>
+    <CityStateZipRaw>BUELLTON CA, 93427-9657</CityStateZipRaw>
+    <City>BUELLTON</City>
+    <State>CA</State>
+    <Zip>93427</Zip>
+    <Phone>(866) 661-4190</Phone>
+    <Email>melissa@wineindustrycompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>COOPER VINEYARDS LLC</Name>
+    <AddressLine1>13372 SHANNON HILL RD</AddressLine1>
+    <CityStateZipRaw>LOUISA VA, 23093-3929</CityStateZipRaw>
+    <City>LOUISA</City>
+    <State>VA</State>
+    <Zip>23093</Zip>
+    <Phone>(540) 894-5474</Phone>
+    <Email>dmdrillock@aol.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>COOPER WINE COMPANY LLC</Name>
+    <AddressLine1>35306 N SUNSET RD</AddressLine1>
+    <CityStateZipRaw>BENTON CITY WA, 99320-7505</CityStateZipRaw>
+    <City>BENTON CITY</City>
+    <State>WA</State>
+    <Zip>99320</Zip>
+    <Phone>(509) 588-2667</Phone>
+    <Email>dru.cwc@gmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CORNERSTONE CELLARS LLC</Name>
+    <AddressLine1>5055 SOLANO AVE</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558-1326</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 528-8500</Phone>
+    <Email>cornerstone@dhwinecompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SALVATORE CULLARI KATHRYN CULLARI</Name>
+    <AddressLine1>2167 SAND HILL RD</AddressLine1>
+    <CityStateZipRaw>HERSHEY PA, 17033-2660</CityStateZipRaw>
+    <City>HERSHEY</City>
+    <State>PA</State>
+    <Zip>17033</Zip>
+    <Phone>(717) 533-7131</Phone>
+    <Email>SCULLARI@SPRYNET.COM</Email>
+    <Website>www.sprynet.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CUVAISON INC</Name>
+    <AddressLine1>1221 DUHIG RD</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94559</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94559</Zip>
+    <Phone>(707) 942-2450</Phone>
+    <Email>melody@cuvaison.com</Email>
+    <Website>www.cuvaison.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>DAILY CELLARS LLC</Name>
+    <AddressLine1>4550 SILVERADO TRAIL</AddressLine1>
+    <CityStateZipRaw>CALISTOGA CA, 94515</CityStateZipRaw>
+    <City>CALISTOGA</City>
+    <State>CA</State>
+    <Zip>94515</Zip>
+    <Phone>(707) 252-4725</Phone>
+    <Email>jw1@winecompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>DAMIANI WINE CELLARS LLC</Name>
+    <AddressLine1>4704 RTE 414</AddressLine1>
+    <CityStateZipRaw>BURDETT NY, 14818</CityStateZipRaw>
+    <City>BURDETT</City>
+    <State>NY</State>
+    <Zip>14818</Zip>
+    <Phone>(607) 227-9587</Phone>
+    <Email>glenn@damianiwinecellars.com</Email>
+    <Website>www.damianiwinecellars.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>DANA ESTATES INC</Name>
+    <AddressLine1>1895 CABERNET  LANE</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(866) 661-4190</Phone>
+    <Email>karyn@wineindustrycompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>DAVERO SONOMA INC</Name>
+    <AddressLine1>766 WESTSIDE RD</AddressLine1>
+    <CityStateZipRaw>HEALDSBURG CA, 95448</CityStateZipRaw>
+    <City>HEALDSBURG</City>
+    <State>CA</State>
+    <Zip>95448</Zip>
+    <Phone>(707) 431-8000</Phone>
+    <Email>bookkeeping@davero.com</Email>
+    <Website>www.davero.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>DELILLE CELLARS, LLC</Name>
+    <AddressLine1>14208 WOODINVILLE-REDMOND RD NE</AddressLine1>
+    <CityStateZipRaw>REDMOND WA, 98052</CityStateZipRaw>
+    <City>REDMOND</City>
+    <State>WA</State>
+    <Zip>98052</Zip>
+    <Phone>(425) 489-0544</Phone>
+    <Email>sharon@delillecellars.com</Email>
+    <Website>www.delillecellars.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>INVESTORS OF AMERICA LP</Name>
+    <AddressLine1>2121 ALISOS RD</AddressLine1>
+    <CityStateZipRaw>SANTA YNEZ CA, 93460</CityStateZipRaw>
+    <City>SANTA YNEZ</City>
+    <State>CA</State>
+    <Zip>93460</Zip>
+    <Phone>(805) 697-7299</Phone>
+    <Email>kathy@beveragewise.com</Email>
+    <Website>www.beveragewise.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>DOMAINE CARNEROS LTD</Name>
+    <AddressLine1>1240 DUHIG RD</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94559</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94559</Zip>
+    <Phone>(707) 266-5133</Phone>
+    <Email>jdrake@domainecarneros.com</Email>
+    <Website>www.domainecarneros.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>DRINKS LICENSING LLC</Name>
+    <AddressLine1>9119 GRATON  RD</AddressLine1>
+    <CityStateZipRaw>GRATON CA, 95444</CityStateZipRaw>
+    <City>GRATON</City>
+    <State>CA</State>
+    <Zip>95444</Zip>
+    <Email>wine.insider@compli-beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>DUCKHORN WINE COMPANY</Name>
+    <AddressLine1>1000 LODI LN</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574-9713</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(707) 963-7108</Phone>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>D &amp; J F CELLARS</Name>
+    <AddressLine1>23145 HWY 99W</AddressLine1>
+    <CityStateZipRaw>DUNDEE OR, 97115</CityStateZipRaw>
+    <City>DUNDEE</City>
+    <State>OR</State>
+    <Zip>97115</Zip>
+    <Phone>(503) 538-3199</Phone>
+    <Email>lisaj@duckpondcellars.com</Email>
+    <Website>www.duckpondcellars.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>DUPLIN WINE CELLARS INC</Name>
+    <AddressLine1>505 N SYCAMORE ST</AddressLine1>
+    <AddressLine2>PO BOX 756</AddressLine2>
+    <CityStateZipRaw>ROSE HILL NC, 28458-0756</CityStateZipRaw>
+    <City>ROSE HILL</City>
+    <State>NC</State>
+    <Zip>28458</Zip>
+    <Phone>(910) 289-3888</Phone>
+    <Email>INFO@DUPLINWINERY.COM</Email>
+    <Website>www.duplinwinery.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SEBASTOPOL VINEYARDS &amp; WINERY CORP.</Name>
+    <AddressLine1>8757 GREEN VALLEY RD</AddressLine1>
+    <CityStateZipRaw>SEBASTOPOL CA, 95472-2259</CityStateZipRaw>
+    <City>SEBASTOPOL</City>
+    <State>CA</State>
+    <Zip>95472</Zip>
+    <Email>LICENSING@COMPLIANCE-CONNECT.COM</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>MADISON COUNTY WINES LLC</Name>
+    <AddressLine1>6109 WOLFTOWN HOOD RD</AddressLine1>
+    <CityStateZipRaw>MADISON VA, 22727</CityStateZipRaw>
+    <City>MADISON</City>
+    <State>VA</State>
+    <Zip>22727</Zip>
+    <Phone>(202) 527-0161</Phone>
+    <Email>doneva@earlymountain.com</Email>
+    <Website>www.earlymountain.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>EBERLE WINERY LTD</Name>
+    <AddressLine1>3810 HWY 46 EAST</AddressLine1>
+    <CityStateZipRaw>PASO ROBLES CA, 93446</CityStateZipRaw>
+    <City>PASO ROBLES</City>
+    <State>CA</State>
+    <Zip>93446</Zip>
+    <Phone>(805) 238-9607</Phone>
+    <Email>trevor@eberlewinery.com</Email>
+    <Website>www.eberlewinery.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>HEMISPHERE WINE COMPANY INC</Name>
+    <AddressLine1>5055 SOLANO AVE</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558-1326</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FN CELLARS LLC</Name>
+    <AddressLine1>2064 HWY 116 N</AddressLine1>
+    <CityStateZipRaw>SEBASTOPOL CA, 95472</CityStateZipRaw>
+    <City>SEBASTOPOL</City>
+    <State>CA</State>
+    <Zip>95472</Zip>
+    <Phone>(707) 967-9600</Phone>
+    <Email>ssmith@fn-mail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FOLEY FAMILY WINES, INC.</Name>
+    <AddressLine1>2300 AIRPORT RD</AddressLine1>
+    <CityStateZipRaw>PASO ROBLES CA, 93446-8549</CityStateZipRaw>
+    <City>PASO ROBLES</City>
+    <State>CA</State>
+    <Zip>93446</Zip>
+    <Phone>(707) 708-7641</Phone>
+    <Email>compliance@foleyfamilywines.com</Email>
+    <Website>www.foleyfamilywines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ARMSTRONG VINEYARDS INC</Name>
+    <AddressLine1>7575 YORK MOUNTAIN RD</AddressLine1>
+    <CityStateZipRaw>TEMPLETON CA, 93465</CityStateZipRaw>
+    <City>TEMPLETON</City>
+    <State>CA</State>
+    <Zip>93465</Zip>
+    <Phone>(800) 400-1353</Phone>
+    <Email>reporting@csa-compliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FN CELLARS LLC</Name>
+    <AddressLine1>1350 ACACIA DR</AddressLine1>
+    <CityStateZipRaw>OAKVILLE CA, 94562</CityStateZipRaw>
+    <City>OAKVILLE</City>
+    <State>CA</State>
+    <Zip>94562</Zip>
+    <Phone>(707) 967-9600</Phone>
+    <Email>ssmith@fn-mail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>PARKER STATION INC</Name>
+    <AddressLine1>6200 FOXEN CANYON RD</AddressLine1>
+    <CityStateZipRaw>LOS OLIVOS CA, 93441</CityStateZipRaw>
+    <City>LOS OLIVOS</City>
+    <State>CA</State>
+    <Zip>93441</Zip>
+    <Phone>(805) 688-1545</Phone>
+    <Email>debra@fessparker.com</Email>
+    <Website>www.fessparker.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FLICKERWOOD WINE CELLARS INC</Name>
+    <AddressLine1>309 FLICKERWOOD RD</AddressLine1>
+    <CityStateZipRaw>KANE PA, 16735-3915</CityStateZipRaw>
+    <City>KANE</City>
+    <State>PA</State>
+    <Zip>16735</Zip>
+    <Phone>(814) 837-7566</Phone>
+    <Email>INFO@FLICKERWOOD.COM</Email>
+    <Website>www.flickerwood.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FLOWERS VINEYARD AND WINERY LLC</Name>
+    <AddressLine1>28500 SEAVIEW RD</AddressLine1>
+    <CityStateZipRaw>CAZADERO CA, 95421-9767</CityStateZipRaw>
+    <City>CAZADERO</City>
+    <State>CA</State>
+    <Zip>95421</Zip>
+    <Phone>(707) 284-2828</Phone>
+    <Email>INFO@FLOWERSWINERY.COM</Email>
+    <Website>www.flowerswinery.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>MOUNTAIN VALLEY VINEYARDS INC</Name>
+    <AddressLine1>875 RIVER RD</AddressLine1>
+    <CityStateZipRaw>FULTON CA, 95439</CityStateZipRaw>
+    <City>FULTON</City>
+    <State>CA</State>
+    <Zip>95439</Zip>
+    <Phone>(707) 326-9699</Phone>
+    <Email>brent@foglinevineyards.com</Email>
+    <Website>www.foglinevineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FOLEY ESTATES VINEYARD &amp; WINERY LLC</Name>
+    <AddressLine1>6121 E HWY 246</AddressLine1>
+    <CityStateZipRaw>LOMPOC CA, 93436</CityStateZipRaw>
+    <City>LOMPOC</City>
+    <State>CA</State>
+    <Zip>93436</Zip>
+    <Phone>(707) 708-7641</Phone>
+    <Email>compliance@foleyfamilywines.com</Email>
+    <Website>www.foleyfamilywines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FOLEY FAMILY WINES, INC.</Name>
+    <AddressLine1>8350 ST. HELENA HWY</AddressLine1>
+    <CityStateZipRaw>RUTHERFORD CA, 94573</CityStateZipRaw>
+    <City>RUTHERFORD</City>
+    <State>CA</State>
+    <Zip>94573</Zip>
+    <Phone>(707) 708-7641</Phone>
+    <Email>compliance@foleyfamilywines.com</Email>
+    <Website>www.foleyfamilywines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FONTANELLA WINES LLC</Name>
+    <AddressLine1>1721 PATRICK RD</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FOX RUN VINEYARDS INC</Name>
+    <AddressLine1>670 RTE 14</AddressLine1>
+    <CityStateZipRaw>PENN YAN NY, 14527-9622</CityStateZipRaw>
+    <City>PENN YAN</City>
+    <State>NY</State>
+    <Zip>14527</Zip>
+    <Phone>(315) 536-4616</Phone>
+    <Email>scott.osborn@foxrunvineyards.com</Email>
+    <Website>www.foxrunvineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FRANKLIN HILL VINEYARDS INC</Name>
+    <AddressLine1>7833 FRANKLIN HILL RD</AddressLine1>
+    <CityStateZipRaw>BANGOR PA, 18013-4039</CityStateZipRaw>
+    <City>BANGOR</City>
+    <State>PA</State>
+    <Zip>18013</Zip>
+    <Email>FRANKLINHILL@ENTER.NET</Email>
+    <Website>www.enter.net</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JACKSON FAMILY WINES INC</Name>
+    <AddressLine1>3022 ST HELENA HWY N</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(707) 547-4798</Phone>
+    <Email>Dezerlee.Reeves@jfwmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>GANDONA INC</Name>
+    <AddressLine1>1533 SAGE CANYON RD</AddressLine1>
+    <CityStateZipRaw>SAINT HELENA CA, 94574-9628</CityStateZipRaw>
+    <City>SAINT HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(707) 967-5550</Phone>
+    <Email>compliance@gandona.com</Email>
+    <Website>www.gandona.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>GF WINES LLC</Name>
+    <AddressLine1>10701 WESTSIDE RD</AddressLine1>
+    <CityStateZipRaw>HEALDSBURG CA, 95448-8355</CityStateZipRaw>
+    <City>HEALDSBURG</City>
+    <State>CA</State>
+    <Zip>95448</Zip>
+    <Email>Gary.Farrell.Winery@compli-beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>GEMSTONE VINEYARDS LLC</Name>
+    <AddressLine1>2929 ST HELENA HWY</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(866) 661-4190</Phone>
+    <Email>melissa@wineindustrycompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>GENERATIONS OF SONOMA LLC</Name>
+    <AddressLine1>21481 8TH ST E</AddressLine1>
+    <CityStateZipRaw>SONOMA CA, 95476</CityStateZipRaw>
+    <City>SONOMA</City>
+    <State>CA</State>
+    <Zip>95476</Zip>
+    <Phone>(707) 528-8500</Phone>
+    <Email>generations@dhwinecompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JOHN NICOLOZAKES</Name>
+    <AddressLine1>62920 GEORGETOWN RD</AddressLine1>
+    <CityStateZipRaw>CAMBRIDGE OH, 43725-9749</CityStateZipRaw>
+    <City>CAMBRIDGE</City>
+    <State>OH</State>
+    <Zip>43725</Zip>
+    <Phone>(740) 435-3222</Phone>
+    <Email>info@georgetownvineyards.com</Email>
+    <Website>www.georgetownvineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>GERVASI 1700 LLC</Name>
+    <AddressLine1>1700 55TH ST NE</AddressLine1>
+    <CityStateZipRaw>CANTON OH, 44721-3401</CityStateZipRaw>
+    <City>CANTON</City>
+    <State>OH</State>
+    <Zip>44721</Zip>
+    <Phone>(330) 433-2935</Phone>
+    <Email>jeff@gervasivineyard.com</Email>
+    <Website>www.gervasivineyard.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>GLADES PIKE WINERY, INC.</Name>
+    <AddressLine1>2208 GLADES PK</AddressLine1>
+    <CityStateZipRaw>SOMERSET PA, 15501-8516</CityStateZipRaw>
+    <City>SOMERSET</City>
+    <State>PA</State>
+    <Zip>15501</Zip>
+    <Phone>(814) 445-4630</Phone>
+    <Email>LIZ@GLADESPIKEWINERY.COM</Email>
+    <Website>www.gladespikewinery.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JACKSON FAMILY WINES INC</Name>
+    <AddressLine1>19090 NE WOODLAND LOOP RD</AddressLine1>
+    <CityStateZipRaw>YAMHILL OR, 97148</CityStateZipRaw>
+    <City>YAMHILL</City>
+    <State>OR</State>
+    <Zip>97148</Zip>
+    <Phone>(707) 547-4798</Phone>
+    <Email>Dezerlee.Reeves@jfwmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>HALL WINES LLC</Name>
+    <AddressLine1>401 ST HELENA HWY S</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>HAMEL FAMILY WINES LLC</Name>
+    <AddressLine1>15401 AND 15409 SONOMA HWY</AddressLine1>
+    <CityStateZipRaw>SONOMA CA, 95476</CityStateZipRaw>
+    <City>SONOMA</City>
+    <State>CA</State>
+    <Zip>95476</Zip>
+    <Phone>(707) 284-2828</Phone>
+    <Email>licensing@compliance-connect.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>HANNA WINERY INC</Name>
+    <AddressLine1>9280 HIGHWAY 128</AddressLine1>
+    <CityStateZipRaw>HEALDSBURG CA, 95448</CityStateZipRaw>
+    <City>HEALDSBURG</City>
+    <State>CA</State>
+    <Zip>95448</Zip>
+    <Phone>(707) 431-4310</Phone>
+    <Email>YvonneLozinto@hannawinery.com</Email>
+    <Website>www.hannawinery.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>HARLAN ESTATE WINERY INC</Name>
+    <AddressLine1>1551 OAKVILLE GRADE</AddressLine1>
+    <CityStateZipRaw>OAKVILLE CA, 94562</CityStateZipRaw>
+    <City>OAKVILLE</City>
+    <State>CA</State>
+    <Zip>94562</Zip>
+    <Phone>(707) 578-7807</Phone>
+    <Email>paula@complianceservice.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>HARTFORD-JACKSON LLC</Name>
+    <AddressLine1>8075 MARTINELLI RD</AddressLine1>
+    <CityStateZipRaw>FORESTVILLE CA, 95436</CityStateZipRaw>
+    <City>FORESTVILLE</City>
+    <State>CA</State>
+    <Zip>95436</Zip>
+    <Phone>(707) 547-4798</Phone>
+    <Email>Dezerlee.Reeves@jfwmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>MICHAEL DESANTIS &amp; SCOTTI STARK</Name>
+    <AddressLine1>4660 SILVERADO TRAIL</AddressLine1>
+    <CityStateZipRaw>CALISTOGA CA, 94515</CityStateZipRaw>
+    <City>CALISTOGA</City>
+    <State>CA</State>
+    <Zip>94515</Zip>
+    <Phone>(707) 287-3532</Phone>
+    <Email>harumphtx@gmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>HERON HILL VINEYARDS</Name>
+    <AddressLine1>9301 COUNTY RTE 76</AddressLine1>
+    <CityStateZipRaw>HAMMONDSPORT NY, 14840-9685</CityStateZipRaw>
+    <City>HAMMONDSPORT</City>
+    <State>NY</State>
+    <Zip>14840</Zip>
+    <Phone>(607) 868-4241</Phone>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>HILL ESTATES INC</Name>
+    <AddressLine1>5055 SOLANO AVE</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558-1326</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>HIRSCH WINERY LLC</Name>
+    <AddressLine1>45075  BOHAN DILLON RD</AddressLine1>
+    <CityStateZipRaw>CAZADERO CA, 95421</CityStateZipRaw>
+    <City>CAZADERO</City>
+    <State>CA</State>
+    <Zip>95421</Zip>
+    <Phone>(508) 648-2505</Phone>
+    <Email>coastalcompliance@comcast.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>HONIG VINEYARD &amp; WINERY LLC</Name>
+    <AddressLine1>850 RUTHERFORD RD</AddressLine1>
+    <CityStateZipRaw>RUTHERFORD CA, 94573</CityStateZipRaw>
+    <City>RUTHERFORD</City>
+    <State>CA</State>
+    <Zip>94573</Zip>
+    <Phone>(707) 963-5618</Phone>
+    <Email>carol@honigwine.com</Email>
+    <Website>www.honigwine.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ISENHOWER CELLARS LLC</Name>
+    <AddressLine1>3471 PRANGER RD</AddressLine1>
+    <CityStateZipRaw>WALLA WALLA WA, 99362-7307</CityStateZipRaw>
+    <City>WALLA WALLA</City>
+    <State>WA</State>
+    <Zip>99362</Zip>
+    <Phone>(509) 526-7896</Phone>
+    <Email>INFO@ISENHOWERCELLARS.COM</Email>
+    <Website>www.isenhowercellars.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JAM CELLARS INC</Name>
+    <AddressLine1>4202 STAGE GULCH RD</AddressLine1>
+    <CityStateZipRaw>SONOMA CA, 95476-9739</CityStateZipRaw>
+    <City>SONOMA</City>
+    <State>CA</State>
+    <Zip>95476</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JRV LLC</Name>
+    <AddressLine1>1 KIRKLAND RANCH RD</AddressLine1>
+    <CityStateZipRaw>AMERICAN CANYON CA, 94503</CityStateZipRaw>
+    <City>AMERICAN CANYON</City>
+    <State>CA</State>
+    <Zip>94503</Zip>
+    <Phone>(707) 284-2828</Phone>
+    <Email>licensing@compliance-connect.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JESSUP CELLARS HOLDING COMPANY LLC</Name>
+    <AddressLine1>25 ENTERPRISE WAY</AddressLine1>
+    <AddressLine2>UNITS 4 - 8</AddressLine2>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 326-1378</Phone>
+    <Email>compliance@tglwc.com</Email>
+    <Website>www.tglwc.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JOHN ANTHONY VINEYARDS LLC</Name>
+    <AddressLine1>25 ENTERPRISE CRT</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>EDWARDS WINES LLC</Name>
+    <AddressLine1>74 CHESTER MAINE RD</AddressLine1>
+    <CityStateZipRaw>NORTH STONINGTON CT, 06359-1303</CityStateZipRaw>
+    <City>NORTH STONINGTON</City>
+    <State>CT</State>
+    <Zip>06359</Zip>
+    <Phone>(860) 535-0202</Phone>
+    <Email>susans@jedwardswinery.com</Email>
+    <Website>www.jedwardswinery.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>J CELLARS INVESTMENTS LLC</Name>
+    <AddressLine1>4455 ST HELENA HWY</AddressLine1>
+    <CityStateZipRaw>CALISTOGA CA, 94515-9633</CityStateZipRaw>
+    <City>CALISTOGA</City>
+    <State>CA</State>
+    <Zip>94515</Zip>
+    <Phone>(707) 287-3532</Phone>
+    <Email>canardvyds@gmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JOSEPH PHELPS VINEYARDS LLC</Name>
+    <AddressLine1>200 TAPLIN RD</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574-9544</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(707) 963-9733</Phone>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FINKELSTEIN VINEYARDS</Name>
+    <AddressLine1>2332 SILVERADO TRAIL</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558-2045</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 252-4725</Phone>
+    <Email>eva@winecompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>PCJ INC</Name>
+    <AddressLine1>2900 SPRING MOUNTAIN RD</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574-1704</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(707) 252-4725</Phone>
+    <Email>eva@winecompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JUSTIN VINEYARDS &amp; WINERY LLC</Name>
+    <AddressLine1>11680 CHIMNEY ROCK RD</AddressLine1>
+    <CityStateZipRaw>PASO ROBLES CA, 93446</CityStateZipRaw>
+    <City>PASO ROBLES</City>
+    <State>CA</State>
+    <Zip>93446</Zip>
+    <Email>Justin@compli-beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JACKSON FAMILY WINES INC</Name>
+    <AddressLine1>5620 SKYLANE BLVD</AddressLine1>
+    <CityStateZipRaw>SANTA ROSA CA, 95403</CityStateZipRaw>
+    <City>SANTA ROSA</City>
+    <State>CA</State>
+    <Zip>95403</Zip>
+    <Phone>(707) 547-4798</Phone>
+    <Email>Dezerlee.Reeves@jfwmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>KIEU HOANG WINERY LLC</Name>
+    <AddressLine1>1285 DEALY  LANE</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94559</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94559</Zip>
+    <Phone>(509) 876-2461</Phone>
+    <Email>lindsey@wcsofww.com</Email>
+    <Website>www.wcsofww.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>KING FERRY WINERY</Name>
+    <AddressLine1>658 LAKE RD</AddressLine1>
+    <CityStateZipRaw>KING FERRY NY, 13081</CityStateZipRaw>
+    <City>KING FERRY</City>
+    <State>NY</State>
+    <Zip>13081</Zip>
+    <Phone>(315) 364-5100</Phone>
+    <Email>EVENTS@TRELEAVENWINES.COM</Email>
+    <Website>www.treleavenwines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>KNIGHTS BRIDGE WINERY LLC</Name>
+    <AddressLine1>5055 SOLANO AVE</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558-1326</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Email>knights.bridge@compli-beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>KB WINES LLC</Name>
+    <AddressLine1>6751 LAGUNA PKY</AddressLine1>
+    <CityStateZipRaw>SEBASTOPOL CA, 95472-3445</CityStateZipRaw>
+    <City>SEBASTOPOL</City>
+    <State>CA</State>
+    <Zip>95472</Zip>
+    <Phone>(805) 239-4502</Phone>
+    <Email>KB.Wines@compli-beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>KRUPP BROTHERS LLC</Name>
+    <AddressLine1>45 ENTERPRISE CT</AddressLine1>
+    <AddressLine2>UNITS 1,3,4</AddressLine2>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(866) 661-4190</Phone>
+    <Email>karyn@wineindustrycompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>LOWDEN SCHOOLHOUSE CORP</Name>
+    <AddressLine1>41 LOWDEN SCHOOL RD</AddressLine1>
+    <CityStateZipRaw>LOWDEN WA, 99360</CityStateZipRaw>
+    <City>LOWDEN</City>
+    <State>WA</State>
+    <Zip>99360</Zip>
+    <Email>lecole@compli-beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JACKSON FAMILY WINES INC</Name>
+    <AddressLine1>3680 / 3690 LAUGHLIN RD</AddressLine1>
+    <CityStateZipRaw>WINDSOR CA, 95492</CityStateZipRaw>
+    <City>WINDSOR</City>
+    <State>CA</State>
+    <Zip>95492</Zip>
+    <Phone>(707) 547-4798</Phone>
+    <Email>Dezerlee.Reeves@jfwmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JACKSON FAMILY WINES INC</Name>
+    <AddressLine1>1102 LOS POSADAS RD</AddressLine1>
+    <CityStateZipRaw>ANGWIN CA, 94508</CityStateZipRaw>
+    <City>ANGWIN</City>
+    <State>CA</State>
+    <Zip>94508</Zip>
+    <Phone>(707) 547-4798</Phone>
+    <Email>Dezerlee.Reeves@jfwmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>LAIL VINEYARDS LLC</Name>
+    <AddressLine1>335 WEST LANE</AddressLine1>
+    <CityStateZipRaw>ANGWIN CA, 94508-9606</CityStateZipRaw>
+    <City>ANGWIN</City>
+    <State>CA</State>
+    <Zip>94508</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>LANCASTER ESTATE VINEYARD &amp; WINERY</Name>
+    <AddressLine1>15001 CHALK HILL RD</AddressLine1>
+    <CityStateZipRaw>HEALDSBURG CA, 95448-9027</CityStateZipRaw>
+    <City>HEALDSBURG</City>
+    <State>CA</State>
+    <Zip>95448</Zip>
+    <Phone>(707) 708-7641</Phone>
+    <Email>compliance@foleyfamilywines.com</Email>
+    <Website>www.foleyfamilywines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JUSTIN VINEYARDS &amp; WINERY LLC</Name>
+    <AddressLine1>101 ADOBE CANYON RD</AddressLine1>
+    <CityStateZipRaw>KENWOOD CA, 95452-9045</CityStateZipRaw>
+    <City>KENWOOD</City>
+    <State>CA</State>
+    <Zip>95452</Zip>
+    <Phone>(805) 239-4502</Phone>
+    <Email>Landmark@compli-beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>LASSETER FAMILY WINERY LLC</Name>
+    <AddressLine1>ONE VINTAGE LANE</AddressLine1>
+    <CityStateZipRaw>GLEN ELLEN CA, 95442-9415</CityStateZipRaw>
+    <City>GLEN ELLEN</City>
+    <State>CA</State>
+    <Zip>95442</Zip>
+    <Phone>(707) 578-7807</Phone>
+    <Email>paula@complianceservice.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>BARBARA A NORDBERG</Name>
+    <AddressLine1>1754 OLD GRADE RD</AddressLine1>
+    <CityStateZipRaw>FALLS CREEK PA, 15840-4016</CityStateZipRaw>
+    <City>FALLS CREEK</City>
+    <State>PA</State>
+    <Zip>15840</Zip>
+    <Phone>(814) 371-0221</Phone>
+    <Email>LAURELMTN@BROCKWAYTV.COM</Email>
+    <Website>www.brockwaytv.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:21 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>LEONETTI CELLAR LLC</Name>
+    <AddressLine1>1875 FOOTHILLS LANE</AddressLine1>
+    <CityStateZipRaw>WALLA WALLA WA, 99362-9052</CityStateZipRaw>
+    <City>WALLA WALLA</City>
+    <State>WA</State>
+    <Zip>99362</Zip>
+    <Phone>(509) 525-1428</Phone>
+    <Email>kkitamura@figginsfamily.com</Email>
+    <Website>www.figginsfamily.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>LC WINE</Name>
+    <AddressLine1>4101 BIG RANCH RD</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 255-3400</Phone>
+    <Email>melissa@lewiscellars.com</Email>
+    <Website>www.lewiscellars.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>THE LITTORAI WINES</Name>
+    <AddressLine1>788 GOLD RIDGE RD</AddressLine1>
+    <CityStateZipRaw>SEBASTOPOL CA, 95472</CityStateZipRaw>
+    <City>SEBASTOPOL</City>
+    <State>CA</State>
+    <Zip>95472</Zip>
+    <Phone>(707) 823-9586</Phone>
+    <Email>shannon@littorai.com</Email>
+    <Website>www.littorai.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>LONG MEADOW RANCH WINERY INC</Name>
+    <AddressLine1>1775 WHITEHALL LANE</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>LUCAS &amp; LEWELLEN</Name>
+    <AddressLine1>132 EASY ST</AddressLine1>
+    <CityStateZipRaw>BUELLTON CA, 93427</CityStateZipRaw>
+    <City>BUELLTON</City>
+    <State>CA</State>
+    <Zip>93427</Zip>
+    <Phone>(805) 686-1081</Phone>
+    <Email>lynne@llwine.com</Email>
+    <Website>www.llwine.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>LUCAS VINEYARDS INC</Name>
+    <AddressLine1>3862 COUNTY RD 150</AddressLine1>
+    <CityStateZipRaw>INTERLAKEN NY, 14847-9653</CityStateZipRaw>
+    <City>INTERLAKEN</City>
+    <State>NY</State>
+    <Zip>14847</Zip>
+    <Phone>(607) 532-4825</Phone>
+    <Email>RUTHIE@LUCASVINEYARDS.COM</Email>
+    <Website>www.lucasvineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>LYNMAR WINERY LLC</Name>
+    <AddressLine1>3905 FREI RD</AddressLine1>
+    <CityStateZipRaw>SEBASTOPOL CA, 95472-2311</CityStateZipRaw>
+    <City>SEBASTOPOL</City>
+    <State>CA</State>
+    <Zip>95472</Zip>
+    <Phone>(707) 284-2828</Phone>
+    <Email>licensing@compliance-connect.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>MAC WINES LLC</Name>
+    <AddressLine1>35265 WILLOW AV</AddressLine1>
+    <CityStateZipRaw>CLARKSBURG CA, 95216</CityStateZipRaw>
+    <City>CLARKSBURG</City>
+    <State>CA</State>
+    <Zip>95216</Zip>
+    <Phone>(707) 933-9752</Phone>
+    <Email>info@threewinecompany.com</Email>
+    <Website>www.threewinecompany.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>MAKK WINE LLC</Name>
+    <AddressLine1>979 SW ALDER ST</AddressLine1>
+    <CityStateZipRaw>DUNDEE OR, 97115</CityStateZipRaw>
+    <City>DUNDEE</City>
+    <State>OR</State>
+    <Zip>97115</Zip>
+    <Phone>(503) 244-1748</Phone>
+    <Email>info@anticaterra.com</Email>
+    <Website>www.anticaterra.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>MARIETTA CELLARS INC</Name>
+    <AddressLine1>22295 CHIANTI RD</AddressLine1>
+    <CityStateZipRaw>GEYSERVILLE CA, 95441</CityStateZipRaw>
+    <City>GEYSERVILLE</City>
+    <State>CA</State>
+    <Zip>95441</Zip>
+    <Phone>(707) 284-2828</Phone>
+    <Email>LICENSING@COMPLIANCE-CONNECT.COM</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>MARTIN RAY WINERY INC</Name>
+    <AddressLine1>2191 LAGUNA RD</AddressLine1>
+    <CityStateZipRaw>SANTA ROSA CA, 95401-3705</CityStateZipRaw>
+    <City>SANTA ROSA</City>
+    <State>CA</State>
+    <Zip>95401</Zip>
+    <Email>kevin@martinraywinery.com</Email>
+    <Website>www.martinraywinery.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JACKSON FAMILY WINES INC</Name>
+    <AddressLine1>6097 BENNETT VALLEY RD</AddressLine1>
+    <CityStateZipRaw>SANTA ROSA CA, 95404-8570</CityStateZipRaw>
+    <City>SANTA ROSA</City>
+    <State>CA</State>
+    <Zip>95404</Zip>
+    <Phone>(707) 547-4798</Phone>
+    <Email>Dezerlee.Reeves@jfwmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ROBERT MAZZA, INC.</Name>
+    <AddressLine1>11815 E LAKE RD</AddressLine1>
+    <CityStateZipRaw>NORTH EAST PA, 16428-3363</CityStateZipRaw>
+    <City>NORTH EAST</City>
+    <State>PA</State>
+    <Zip>16428</Zip>
+    <Phone>(814) 725-8695</Phone>
+    <Email>RMAZZA12@JUNO.COM</Email>
+    <Website>www.juno.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>MELVILLE WINERY LLC</Name>
+    <AddressLine1>5185 HWY 246 E</AddressLine1>
+    <CityStateZipRaw>LOMPOC CA, 93436</CityStateZipRaw>
+    <City>LOMPOC</City>
+    <State>CA</State>
+    <Zip>93436</Zip>
+    <Phone>(805) 735-7030</Phone>
+    <Email>megan@melvillewinery.com</Email>
+    <Website>www.melvillewinery.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>MER ET SOLEIL LLC</Name>
+    <AddressLine1>1290 RIVER RD</AddressLine1>
+    <CityStateZipRaw>SALINAS CA, 93908</CityStateZipRaw>
+    <City>SALINAS</City>
+    <State>CA</State>
+    <Zip>93908</Zip>
+    <Email>mer.et.soliel@compli-beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>MERRYVALE VINEYARDS LLC</Name>
+    <AddressLine1>1000 MAIN ST</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FOLEY FAMILY WINES, INC.</Name>
+    <AddressLine1>424 CRYSTAL SPRINGS RD</AddressLine1>
+    <CityStateZipRaw>SAINT HELENA CA, 94574-9666</CityStateZipRaw>
+    <City>SAINT HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(707) 708-7641</Phone>
+    <Email>compliance@foleyfamilywines.com</Email>
+    <Website>www.foleyfamilywines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>PHILLIPS FARMS LLC</Name>
+    <AddressLine1>4580 W HIGHWAY 12</AddressLine1>
+    <CityStateZipRaw>LODI CA, 95242-9529</CityStateZipRaw>
+    <City>LODI</City>
+    <State>CA</State>
+    <Zip>95242</Zip>
+    <Phone>(805) 239-4502</Phone>
+    <Email>Michael.David@compli-beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>MIXOLOSEUM LLC</Name>
+    <AddressLine1>1100 E HOWARD LANE</AddressLine1>
+    <CityStateZipRaw>AUSTIN TX, 78753</CityStateZipRaw>
+    <City>AUSTIN</City>
+    <State>TX</State>
+    <Zip>78753</Zip>
+    <Phone>(415) 352-4406</Phone>
+    <Email>andrew@mixparty.com</Email>
+    <Website>www.mixparty.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>THE MORLET SELECTION INC</Name>
+    <AddressLine1>2825 ST HELENA HWY N</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574-9655</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>MOUNT NITTANY VINEYARD &amp; WINERY INC</Name>
+    <AddressLine1>300 HOUSER RD</AddressLine1>
+    <CityStateZipRaw>CENTRE HALL PA, 16828-8002</CityStateZipRaw>
+    <City>CENTRE HALL</City>
+    <State>PA</State>
+    <Zip>16828</Zip>
+    <Phone>(814) 466-6373</Phone>
+    <Email>sales@mtnittanywinery.com</Email>
+    <Website>www.mtnittanywinery.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ONV WASHINGTON LLC</Name>
+    <AddressLine1>1489 W ROSE ST</AddressLine1>
+    <CityStateZipRaw>WALLA WALLA WA, 99362-1645</CityStateZipRaw>
+    <City>WALLA WALLA</City>
+    <State>WA</State>
+    <Zip>99362</Zip>
+    <Phone>(707) 963-5537</Phone>
+    <Email>dennis@mullanroadcellars.com</Email>
+    <Website>www.mullanroadcellars.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>NEAL FAMILY VINEYARDS LLC</Name>
+    <AddressLine1>716 LIPARITA AV</AddressLine1>
+    <CityStateZipRaw>ANGWIN CA, 94508</CityStateZipRaw>
+    <City>ANGWIN</City>
+    <State>CA</State>
+    <Zip>94508</Zip>
+    <Phone>(707) 965-2800</Phone>
+    <Email>info@nealvineyards.com</Email>
+    <Website>www.nealvineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FN CELLARS LLC</Name>
+    <AddressLine1>8164 ST HELENA HWY</AddressLine1>
+    <CityStateZipRaw>OAKVILLE CA, 95462</CityStateZipRaw>
+    <City>OAKVILLE</City>
+    <State>CA</State>
+    <Zip>95462</Zip>
+    <Phone>(707) 967-9600</Phone>
+    <Email>ssmith@fn-mail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>HARMELL CELLARS LLC</Name>
+    <AddressLine1>269 NARCISSA PL</AddressLine1>
+    <CityStateZipRaw>WALLA WALLA WA, 99362</CityStateZipRaw>
+    <City>WALLA WALLA</City>
+    <State>WA</State>
+    <Zip>99362</Zip>
+    <Phone>(509) 876-2461</Phone>
+    <Email>lindsey@wcsofww.com</Email>
+    <Website>www.wcsofww.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>NOVA WINES INC</Name>
+    <AddressLine1>7830-40 ST HELENA HWY</AddressLine1>
+    <CityStateZipRaw>OAKVILLE CA, 94562</CityStateZipRaw>
+    <City>OAKVILLE</City>
+    <State>CA</State>
+    <Zip>94562</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>O'BRIEN FAMILY VINEYARDS LLC</Name>
+    <AddressLine1>1200 ORCHARD AV</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Email>COASTALCOMPLIANCE@COMCAST.NET</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>Oakville Ranch Winery Inc</Name>
+    <AddressLine1>7781 SILVERADO TRAIL</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 265-0223</Phone>
+    <Email>beth@thewacco.com</Email>
+    <Website>www.thewacco.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SISYPHUS LLC</Name>
+    <AddressLine1>255 LONG RANCH RD</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Email>ovid@compli-beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>PAHLMEYER LLC</Name>
+    <AddressLine1>811 ST HELENA HWY S</AddressLine1>
+    <AddressLine2>#202</AddressLine2>
+    <CityStateZipRaw>ST HELENA CA, 94574-2266</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(707) 252-4725</Phone>
+    <Email>reg2@winecompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>PALOMA VINEYARD LLC</Name>
+    <AddressLine1>4013 SPRING MOUNTAIN RD</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>RENNICK J HARRIS &amp; MARILYN L HARRIS</Name>
+    <AddressLine1>1277  DWYER RD</AddressLine1>
+    <CityStateZipRaw>OAKVILLE CA, 94562</CityStateZipRaw>
+    <City>OAKVILLE</City>
+    <State>CA</State>
+    <Zip>94562</Zip>
+    <Phone>(866) 661-4190</Phone>
+    <Email>melissa@wineindustrycompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name />
+    <AddressLine1>9119 GRATON RD</AddressLine1>
+    <CityStateZipRaw>GRATON CA, 95444</CityStateZipRaw>
+    <City>GRATON</City>
+    <State>CA</State>
+    <Zip>95444</Zip>
+    <Phone>(209) 482-5792</Phone>
+    <Email>Peirano.Estate@compli-beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>PEJU FAMILY OPERATING PARTNERSHIP LP</Name>
+    <AddressLine1>8466 ST HELENA HWY</AddressLine1>
+    <CityStateZipRaw>RUTHERFORD CA, 94573</CityStateZipRaw>
+    <City>RUTHERFORD</City>
+    <State>CA</State>
+    <Zip>94573</Zip>
+    <Phone>(707) 963-3600</Phone>
+    <Email>compliance@peju.com</Email>
+    <Website>www.peju.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>PELLEGRINI RANCHES INC</Name>
+    <AddressLine1>4055 WEST OLIVET LN</AddressLine1>
+    <CityStateZipRaw>SANTA ROSA CA, 95401-3839</CityStateZipRaw>
+    <City>SANTA ROSA</City>
+    <State>CA</State>
+    <Zip>95401</Zip>
+    <Phone>(707) 284-2828</Phone>
+    <Email>licensing@compliance-connect.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>WILLIAM PENN CORP</Name>
+    <AddressLine1>1016 SAVILLE AVE</AddressLine1>
+    <CityStateZipRaw>EDDYSTONE PA, 19022</CityStateZipRaw>
+    <City>EDDYSTONE</City>
+    <State>PA</State>
+    <Zip>19022</Zip>
+    <Email>CARLEY@PENNSWOODSWINERY.COM</Email>
+    <Website>www.pennswoodswinery.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>PENROSE LANE LIMITED</Name>
+    <AddressLine1>499 MOORE LANE</AddressLine1>
+    <CityStateZipRaw>HEALDSBURG CA, 95448</CityStateZipRaw>
+    <City>HEALDSBURG</City>
+    <State>CA</State>
+    <Zip>95448</Zip>
+    <Email>penrose.hill@compli-beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>PAVITT FAMILY VINEYARDS LLC</Name>
+    <AddressLine1>4660 SILVERADO TRAIL</AddressLine1>
+    <CityStateZipRaw>CALISTOGA CA, 94515</CityStateZipRaw>
+    <City>CALISTOGA</City>
+    <State>CA</State>
+    <Zip>94515</Zip>
+    <Phone>(707) 942-4787</Phone>
+    <Email>ancompliance@gmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>PICKETT ROAD WINE COMPANY LLC</Name>
+    <AddressLine1>2339 PICKETT RD</AddressLine1>
+    <CityStateZipRaw>CALISTOGA CA, 94515</CityStateZipRaw>
+    <City>CALISTOGA</City>
+    <State>CA</State>
+    <Zip>94515</Zip>
+    <Phone>(866) 661-4190</Phone>
+    <Email>brenda@wineindustrycompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>PINA CELLARS LP</Name>
+    <AddressLine1>8060 SILVERADO TRAIL</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558-9434</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 265-0233</Phone>
+    <Email>BETH@THEWACCO.COM</Email>
+    <Website>www.thewacco.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>PRAGER WINERY &amp; PORT WORKS INC</Name>
+    <AddressLine1>1281 LEWELLING LANE</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574-2235</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Email>eva@winecompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>PROMONTORY LLC</Name>
+    <AddressLine1>1595 OAKVILLE GRADE RD</AddressLine1>
+    <CityStateZipRaw>OAKVILLE CA, 94562</CityStateZipRaw>
+    <City>OAKVILLE</City>
+    <State>CA</State>
+    <Zip>94562</Zip>
+    <Phone>(707) 578-7807</Phone>
+    <Email>paula@complianceservice.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>BRANDON BORGER</Name>
+    <AddressLine1>613 BLAKESLEE BLVD E</AddressLine1>
+    <AddressLine2>UNIT 104</AddressLine2>
+    <CityStateZipRaw>LEHIGHTON PA, 18235-8766</CityStateZipRaw>
+    <City>LEHIGHTON</City>
+    <State>PA</State>
+    <Zip>18235</Zip>
+    <Email>NORTHEASTHOMEBREWSUPPLY@GMAIL.COM</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>RED TAIL RIDGE INC</Name>
+    <AddressLine1>846 STATE ROUTE 14</AddressLine1>
+    <CityStateZipRaw>PENN YAN NY, 14527</CityStateZipRaw>
+    <City>PENN YAN</City>
+    <State>NY</State>
+    <Zip>14527</Zip>
+    <Email>danielle@redtailridgewinery.com</Email>
+    <Website>www.redtailridgewinery.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>REECE WINERY LLC</Name>
+    <AddressLine1>132 4TH ST</AddressLine1>
+    <CityStateZipRaw>MCDONALD PA, 15057-1113</CityStateZipRaw>
+    <City>MCDONALD</City>
+    <State>PA</State>
+    <Zip>15057</Zip>
+    <Phone>(724) 492-1569</Phone>
+    <Email>REECEWINERY@YAHOO.COM</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>REGUSCI WINERY INC</Name>
+    <AddressLine1>5584 SILVERADO TRL</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558-9411</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(805) 239-4502</Phone>
+    <Email>regusci.winery@compli-beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CHARLES REININGER LLC</Name>
+    <AddressLine1>5858 OLD HIGHWAY 12</AddressLine1>
+    <CityStateZipRaw>WALLA WALLA WA, 99362-7291</CityStateZipRaw>
+    <City>WALLA WALLA</City>
+    <State>WA</State>
+    <Zip>99362</Zip>
+    <Phone>(509) 876-2461</Phone>
+    <Email>karla@wcsofww.com</Email>
+    <Website>www.wcsofww.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>THE RENEGADE WINERY LLC</Name>
+    <AddressLine1>219 E BROAD ST</AddressLine1>
+    <CityStateZipRaw>EAST STROUDSBURG PA, 18301-2307</CityStateZipRaw>
+    <City>EAST STROUDSBURG</City>
+    <State>PA</State>
+    <Zip>18301</Zip>
+    <Phone>(570) 350-2638</Phone>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>RIVERBENCH LLC</Name>
+    <AddressLine1>6020 FOXEN CANYON RD</AddressLine1>
+    <CityStateZipRaw>SANTA MARIA CA, 93454</CityStateZipRaw>
+    <City>SANTA MARIA</City>
+    <State>CA</State>
+    <Zip>93454</Zip>
+    <Phone>(805) 937-8340</Phone>
+    <Email>judi@riverbench.com</Email>
+    <Website>www.riverbench.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>DAVID W HOFFMAN &amp; AMY E HOFFMAN</Name>
+    <AddressLine1>489 ROUTE 54 SOUTH</AddressLine1>
+    <CityStateZipRaw>PENN YAN NY, 14527</CityStateZipRaw>
+    <City>PENN YAN</City>
+    <State>NY</State>
+    <Zip>14527</Zip>
+    <Phone>(315) 536-1095</Phone>
+    <Email>dhoffman@roosterhill.com</Email>
+    <Website>www.roosterhill.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>RUDD WINES INC</Name>
+    <AddressLine1>500 OAKVILLE CROSSROAD</AddressLine1>
+    <CityStateZipRaw>OAKVILLE CA, 94562</CityStateZipRaw>
+    <City>OAKVILLE</City>
+    <State>CA</State>
+    <Zip>94562</Zip>
+    <Phone>(707) 284-2828</Phone>
+    <Email>licensing@compliance-connect.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>VEN-CAL RANCHES LLC</Name>
+    <AddressLine1>7802 MONEY RD</AddressLine1>
+    <CityStateZipRaw>OAKVILLE CA, 94562</CityStateZipRaw>
+    <City>OAKVILLE</City>
+    <State>CA</State>
+    <Zip>94562</Zip>
+    <Phone>(707) 944-1305</Phone>
+    <Email>norene@saddlebackcellars.com</Email>
+    <Website>www.saddlebackcellars.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SAINTSBURY LLC</Name>
+    <AddressLine1>1500 LOS CARNEROS AV</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94559</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94559</Zip>
+    <Phone>(707) 578-7807</Phone>
+    <Email>paula@complianceservice.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SCHEID VINEYARDS CALIFORNIA INC</Name>
+    <AddressLine1>1972 HOBSON AVE</AddressLine1>
+    <CityStateZipRaw>GREENFIELD CA, 93927-9605</CityStateZipRaw>
+    <City>GREENFIELD</City>
+    <State>CA</State>
+    <Zip>93927</Zip>
+    <Phone>(831) 455-9990</Phone>
+    <Email>MIKE@SCHEIDVINEYARDS.COM</Email>
+    <Website>www.scheidvineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SCREAMING EAGLE LLC</Name>
+    <AddressLine1>7557 SILVERADO TRAIL</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(866) 661-4190</Phone>
+    <Email>melissa@wineindustrycompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>DAVIDS PINOT VINEYARDS INC</Name>
+    <AddressLine1>1604 N O ST</AddressLine1>
+    <CityStateZipRaw>LOMPOC CA, 93436-3420</CityStateZipRaw>
+    <City>LOMPOC</City>
+    <State>CA</State>
+    <Zip>93436</Zip>
+    <Phone>(805) 737-1600</Phone>
+    <Email>comp@seasmoke.com</Email>
+    <Website>www.seasmoke.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FOLEY FAMILY WINES, INC.</Name>
+    <AddressLine1>389 4TH ST E</AddressLine1>
+    <CityStateZipRaw>SONOMA CA, 95476-5717</CityStateZipRaw>
+    <City>SONOMA</City>
+    <State>CA</State>
+    <Zip>95476</Zip>
+    <Phone>(707) 000-0000</Phone>
+    <Email>compliance@foleyfamilywines.com</Email>
+    <Website>www.foleyfamilywines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SEQUOIA GROVE VINEYARDS LP</Name>
+    <AddressLine1>8338 S ST HELENA HWY</AddressLine1>
+    <CityStateZipRaw>RUTHERFORD CA, 94573</CityStateZipRaw>
+    <City>RUTHERFORD</City>
+    <State>CA</State>
+    <Zip>94573</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>RBZ VINEYARDS LLC</Name>
+    <AddressLine1>1653 OLD PRICE CANYON RD</AddressLine1>
+    <CityStateZipRaw>SAN LUIS OBISPO CA, 93401-8208</CityStateZipRaw>
+    <City>SAN LUIS OBISPO</City>
+    <State>CA</State>
+    <Zip>93401</Zip>
+    <Phone>(805) 542-0133</Phone>
+    <Email>accounting@sextantwines.com</Email>
+    <Website>www.sextantwines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SHADE MOUNTAIN WINERY, INC.</Name>
+    <AddressLine1>16140 RTE 104</AddressLine1>
+    <CityStateZipRaw>MIDDLEBURG PA, 17842</CityStateZipRaw>
+    <City>MIDDLEBURG</City>
+    <State>PA</State>
+    <Zip>17842</Zip>
+    <Phone>(570) 837-3644</Phone>
+    <Email>SHADEMT@PTD.NET</Email>
+    <Website>www.ptd.net</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SHELBURNE VINEYARD LLC</Name>
+    <AddressLine1>6308  SHELBURNE RD</AddressLine1>
+    <CityStateZipRaw>SHELBURNE VT, 05482</CityStateZipRaw>
+    <City>SHELBURNE</City>
+    <State>VT</State>
+    <Zip>05482</Zip>
+    <Phone>(802) 985-8222</Phone>
+    <Email>galbert@shelburnevineyard.com</Email>
+    <Website>www.shelburnevineyard.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SLJ GROUP, INC.</Name>
+    <AddressLine1>2350 MCNAB RANCH RD</AddressLine1>
+    <CityStateZipRaw>UKIAH CA, 95482</CityStateZipRaw>
+    <City>UKIAH</City>
+    <State>CA</State>
+    <Zip>95482</Zip>
+    <Phone>(707) 546-6500</Phone>
+    <Email>kelly.martin@directwines.com</Email>
+    <Website>www.directwines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SOKOL BLOSSER LTD</Name>
+    <AddressLine1>5000 SOKOL BLOSSER LANE</AddressLine1>
+    <CityStateZipRaw>DAYTON OR, 97114</CityStateZipRaw>
+    <City>DAYTON</City>
+    <State>OR</State>
+    <Zip>97114</Zip>
+    <Phone>(503) 864-2282</Phone>
+    <Email>accountspayable@sokolblosser.com</Email>
+    <Website>www.sokolblosser.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JACKSON FAMILY WINES INC</Name>
+    <AddressLine1>3299 BENNETT LANE</AddressLine1>
+    <CityStateZipRaw>CALISTOGA CA, 94515-9725</CityStateZipRaw>
+    <City>CALISTOGA</City>
+    <State>CA</State>
+    <Zip>94515</Zip>
+    <Phone>(707) 547-4798</Phone>
+    <Email>Dezerlee.Reeves@jfwmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SPRING MOUNTAIN VINEYARD INC</Name>
+    <AddressLine1>2805  SPRING MOUNTAIN RD</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ST FRANCIS WINERY &amp; VINEYARD LP</Name>
+    <AddressLine1>500 PYTHIAN  RD</AddressLine1>
+    <CityStateZipRaw>SANTA ROSA CA, 95409</CityStateZipRaw>
+    <City>SANTA ROSA</City>
+    <State>CA</State>
+    <Zip>95409</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>STE MICHELLE WINE ESTATES LTD</Name>
+    <AddressLine1>660 FRONTIER RD</AddressLine1>
+    <CityStateZipRaw>PROSSER WA, 99350</CityStateZipRaw>
+    <City>PROSSER</City>
+    <State>WA</State>
+    <Zip>99350</Zip>
+    <Phone>(425) 415-3733</Phone>
+    <Email>compliance@smwe.com</Email>
+    <Website>www.smwe.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>STE MICHELLE WINE ESTATES LTD</Name>
+    <AddressLine1>RT 221 1 MILE N OF PATERSON</AddressLine1>
+    <CityStateZipRaw>PATERSON WA, 99345</CityStateZipRaw>
+    <City>PATERSON</City>
+    <State>WA</State>
+    <Zip>99345</Zip>
+    <Email>compliance@smwe.com</Email>
+    <Website>www.smwe.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>STE MICHELLE WINE ESTATES, LTD.</Name>
+    <AddressLine1>8711 SILVERADO TRAIL</AddressLine1>
+    <CityStateZipRaw>SAINT HELENA CA, 94574</CityStateZipRaw>
+    <City>SAINT HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(425) 415-3733</Phone>
+    <Email>compliance@smwe.com</Email>
+    <Website>www.smwe.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>STE MICHELLE WINE ESTATES LTD</Name>
+    <AddressLine1>9409 NE WORDEN HILL RD</AddressLine1>
+    <CityStateZipRaw>DUNDEE OR, 97115</CityStateZipRaw>
+    <City>DUNDEE</City>
+    <State>OR</State>
+    <Zip>97115</Zip>
+    <Phone>(425) 415-3733</Phone>
+    <Email>COMPLIANCE@SMWE.COM</Email>
+    <Website>www.smwe.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>STE MICHELLE WINE ESTATES LTD</Name>
+    <AddressLine1>1736 JB GEORGE RD</AddressLine1>
+    <CityStateZipRaw>WALLA WALLA WA, 99362</CityStateZipRaw>
+    <City>WALLA WALLA</City>
+    <State>WA</State>
+    <Zip>99362</Zip>
+    <Phone>(425) 415-3733</Phone>
+    <Email>compliance@smwe.com</Email>
+    <Website>www.smwe.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>STE MICHELLE WINE ESTATES LTD</Name>
+    <AddressLine1>1663 CORKRUM RD</AddressLine1>
+    <CityStateZipRaw>WALLA WALLA WA, 99362</CityStateZipRaw>
+    <City>WALLA WALLA</City>
+    <State>WA</State>
+    <Zip>99362</Zip>
+    <Phone>(425) 488-1133</Phone>
+    <Email>COMPLIANCE@SMWE.COM</Email>
+    <Website>www.smwe.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>STEPHAN VINEYARDS</Name>
+    <AddressLine1>2815 LIVE OAK RD</AddressLine1>
+    <CityStateZipRaw>PASO ROBLES CA, 93446-6613</CityStateZipRaw>
+    <City>PASO ROBLES</City>
+    <State>CA</State>
+    <Zip>93446</Zip>
+    <Phone>(805) 227-1588</Phone>
+    <Email>wc@aventurewine.com</Email>
+    <Website>www.aventurewine.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>STOLLER VINEYARDS INC</Name>
+    <AddressLine1>16161 NE MCDOUGALL RD</AddressLine1>
+    <CityStateZipRaw>DAYTON OR, 97114-7046</CityStateZipRaw>
+    <City>DAYTON</City>
+    <State>OR</State>
+    <Zip>97114</Zip>
+    <Phone>(503) 318-9312</Phone>
+    <Email>Splante101@gmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JACKSON FAMILY WINES INC</Name>
+    <AddressLine1>7111 HIGHWAY 128</AddressLine1>
+    <CityStateZipRaw>HEALDSBURG CA, 95448</CityStateZipRaw>
+    <City>HEALDSBURG</City>
+    <State>CA</State>
+    <Zip>95448</Zip>
+    <Phone>(707) 547-4798</Phone>
+    <Email>Dezerlee.Reeves@jfwmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>STORYBOOK MOUNTAIN WINERY INC</Name>
+    <AddressLine1>3835 RTE 128</AddressLine1>
+    <CityStateZipRaw>CALISTOGA CA, 94515</CityStateZipRaw>
+    <City>CALISTOGA</City>
+    <State>CA</State>
+    <Zip>94515</Zip>
+    <Phone>(707) 942-5310</Phone>
+    <Email>PAM@STORYBOOKWINES.COM</Email>
+    <Website>www.storybookwines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>SULLIVAN VINEYARDS CORPORATION</Name>
+    <AddressLine1>1090 GALLERON RD</AddressLine1>
+    <CityStateZipRaw>RUTHERFORD CA, 94573</CityStateZipRaw>
+    <City>RUTHERFORD</City>
+    <State>CA</State>
+    <Zip>94573</Zip>
+    <Phone>(209) 883-7031</Phone>
+    <Email>mallory.wilhite@holtzclawcomp.com</Email>
+    <Website>www.holtzclawcomp.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>TARARA WINERY LLC</Name>
+    <AddressLine1>13648 TARARA LANE</AddressLine1>
+    <CityStateZipRaw>LEESBURG VA, 20176</CityStateZipRaw>
+    <City>LEESBURG</City>
+    <State>VA</State>
+    <Zip>20176</Zip>
+    <Phone>(703) 771-7100</Phone>
+    <Email>margie.russell@tarara.com</Email>
+    <Website>www.tarara.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>TESTAROSSA VINEYARDS LLC</Name>
+    <AddressLine1>300 COLLEGE AV</AddressLine1>
+    <CityStateZipRaw>LOS GATOS CA, 95030-7066</CityStateZipRaw>
+    <City>LOS GATOS</City>
+    <State>CA</State>
+    <Zip>95030</Zip>
+    <Phone>(408) 354-0797</Phone>
+    <Email>ryan@testarossa.com</Email>
+    <Website>www.testarossa.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>WINSIDE USA INC</Name>
+    <AddressLine1>1160 HOPPER AVE</AddressLine1>
+    <CityStateZipRaw>SANTA ROSA CA, 95403-1651</CityStateZipRaw>
+    <City>SANTA ROSA</City>
+    <State>CA</State>
+    <Zip>95403</Zip>
+    <Phone>(707) 252-4725</Phone>
+    <Email>eva@winecompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FOLEY FAMILY WINES, INC.</Name>
+    <AddressLine1>5017 ZACA STATION RD</AddressLine1>
+    <AddressLine2>PO BOX 244</AddressLine2>
+    <CityStateZipRaw>LOS OLIVOS CA, 93441-0244</CityStateZipRaw>
+    <City>LOS OLIVOS</City>
+    <State>CA</State>
+    <Zip>93441</Zip>
+    <Phone>(814) 238-5898</Phone>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FOLEY FAMILY WINES, INC.</Name>
+    <AddressLine1>9605 NE FOX FARM RD</AddressLine1>
+    <CityStateZipRaw>DUNDEE OR, 97115</CityStateZipRaw>
+    <City>DUNDEE</City>
+    <State>OR</State>
+    <Zip>97115</Zip>
+    <Phone>(707) 708-7941</Phone>
+    <Email>compliance@foleyfamilywines.com</Email>
+    <Website>www.foleyfamilywines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>THE WINERY AT WILCOX INC</Name>
+    <AddressLine1>1867 MEFFERTS RUN RD</AddressLine1>
+    <CityStateZipRaw>WILCOX PA, 15870-9704</CityStateZipRaw>
+    <City>WILCOX</City>
+    <State>PA</State>
+    <Zip>15870</Zip>
+    <Phone>(814) 929-5598</Phone>
+    <Email>info@wineryatwilcox.net</Email>
+    <Website>www.wineryatwilcox.net</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>FOLEY FAMILY WINES, INC.</Name>
+    <AddressLine1>5641 OLD HIGHWAY 12</AddressLine1>
+    <CityStateZipRaw>WALLA WALLA WA, 99362</CityStateZipRaw>
+    <City>WALLA WALLA</City>
+    <State>WA</State>
+    <Zip>99362</Zip>
+    <Phone>(707) 708-7641</Phone>
+    <Email>compliance@foleyfamilywines.com</Email>
+    <Website>www.foleyfamilywines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>GRIEB OPTIMAL WINECRAFTING LLC</Name>
+    <AddressLine1>71 GANGL RD</AddressLine1>
+    <CityStateZipRaw>WAPATO WA, 98951</CityStateZipRaw>
+    <City>WAPATO</City>
+    <State>WA</State>
+    <Zip>98951</Zip>
+    <Phone>(509) 877-0925</Phone>
+    <Email>katieg@trevericellars.com</Email>
+    <Website>www.trevericellars.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>HDD LLC</Name>
+    <AddressLine1>5610 DRY CREEK RD</AddressLine1>
+    <CityStateZipRaw>HEALDSBURG CA, 95448</CityStateZipRaw>
+    <City>HEALDSBURG</City>
+    <State>CA</State>
+    <Zip>95448</Zip>
+    <Phone>(707) 431-4440</Phone>
+    <Email>compliance@truetthurst.com</Email>
+    <Website>www.truetthurst.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ERIC TRUMP WINE MANUFACTURING LLC</Name>
+    <AddressLine1>3740 BLENHEIM RD</AddressLine1>
+    <CityStateZipRaw>CHARLOTTESVILLE VA, 22902</CityStateZipRaw>
+    <City>CHARLOTTESVILLE</City>
+    <State>VA</State>
+    <Zip>22902</Zip>
+    <Phone>(434) 220-5907</Phone>
+    <Email>wccgtrumpwinery@gmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>TURKOVICH FAMILY WINES LLC</Name>
+    <AddressLine1>30471 BUCKEYE RD</AddressLine1>
+    <CityStateZipRaw>WINTERS CA, 95694-9503</CityStateZipRaw>
+    <City>WINTERS</City>
+    <State>CA</State>
+    <Zip>95694</Zip>
+    <Phone>(530) 795-3842</Phone>
+    <Email>edmund@tfwllc.com</Email>
+    <Website>www.tfwllc.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>TURLEY WINE CELLARS INC</Name>
+    <AddressLine1>3358 SAINT HELENA HWY N</AddressLine1>
+    <CityStateZipRaw>SAINT HELENA CA, 94574-9660</CityStateZipRaw>
+    <City>SAINT HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Email>turley@compli-beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>UNIVERSITY WINE COMPANY LLC</Name>
+    <AddressLine1>198 FENWICK DR</AddressLine1>
+    <CityStateZipRaw>PORT MATILDA PA, 16870</CityStateZipRaw>
+    <City>PORT MATILDA</City>
+    <State>PA</State>
+    <Zip>16870</Zip>
+    <Phone>(814) 353-1679</Phone>
+    <DateTimeScraped>9/19/2016 1:13:22 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>UNTI WINE COMPANY LLC</Name>
+    <AddressLine1>4202 DRY CREED RD</AddressLine1>
+    <CityStateZipRaw>HEALDSBURG CA, 95448</CityStateZipRaw>
+    <City>HEALDSBURG</City>
+    <State>CA</State>
+    <Zip>95448</Zip>
+    <Phone>(707) 433-5590</Phone>
+    <Email>untiwineco@untivineyards.com</Email>
+    <Website>www.untivineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:23 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>JACKSON FAMILY WINES INC</Name>
+    <AddressLine1>4611 THOMAS RD</AddressLine1>
+    <CityStateZipRaw>HEALDSBURG CA, 95448</CityStateZipRaw>
+    <City>HEALDSBURG</City>
+    <State>CA</State>
+    <Zip>95448</Zip>
+    <Phone>(707) 547-4798</Phone>
+    <Email>Dezerlee.Reeves@jfwmail.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:23 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>VINE CLIFF WINERY INC</Name>
+    <AddressLine1>7400 SILVERADO TRAIL</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 944-2388</Phone>
+    <Email>kate@vinecliff.com</Email>
+    <Website>www.vinecliff.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:23 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>TEALE CREEK ASSOCIATES</Name>
+    <AddressLine1>PO BOX 777</AddressLine1>
+    <CityStateZipRaw>PINOLE CA, 94564-0777</CityStateZipRaw>
+    <City>PINOLE</City>
+    <State>CA</State>
+    <Zip>94564</Zip>
+    <Phone>(510) 964-7901</Phone>
+    <Email>dleon@cqaconsult.net</Email>
+    <DateTimeScraped>9/19/2016 1:13:23 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>VYNECREST LLC</Name>
+    <AddressLine1>172 ARROWHEAD LN</AddressLine1>
+    <CityStateZipRaw>BREINIGSVILLE PA, 18031-9303</CityStateZipRaw>
+    <City>BREINIGSVILLE</City>
+    <State>PA</State>
+    <Zip>18031</Zip>
+    <Phone>(484) 457-1873</Phone>
+    <Email>john@vynecrest.com</Email>
+    <Website>www.vynecrest.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:23 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>WAGNER WINERY LLC</Name>
+    <AddressLine1>9322 RTE 414</AddressLine1>
+    <CityStateZipRaw>LODI NY, 14860</CityStateZipRaw>
+    <City>LODI</City>
+    <State>NY</State>
+    <Zip>14860</Zip>
+    <Phone>(607) 582-6450</Phone>
+    <Email>d.wagner@wagnervineyards.com</Email>
+    <Website>www.wagnervineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:23 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>UNGRAPEFUL WINERY LLC</Name>
+    <AddressLine1>638 TURNER DR</AddressLine1>
+    <CityStateZipRaw>BLAIRSVILLE PA, 15717-8204</CityStateZipRaw>
+    <City>BLAIRSVILLE</City>
+    <State>PA</State>
+    <Zip>15717</Zip>
+    <Phone>(724) 456-5808</Phone>
+    <Email>UNGRAPEFULWINERY@GMAIL.COM</Email>
+    <DateTimeScraped>9/19/2016 1:13:23 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>GBF ENTERPRISES LLC</Name>
+    <AddressLine1>355 4TH  ST E</AddressLine1>
+    <CityStateZipRaw>SONOMA CA, 95476</CityStateZipRaw>
+    <City>SONOMA</City>
+    <State>CA</State>
+    <Zip>95476</Zip>
+    <Phone>(707) 708-7641</Phone>
+    <Email>compliance@foleyfamilywines.com</Email>
+    <Website>www.foleyfamilywines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:23 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>WENTE BROS</Name>
+    <AddressLine1>5565 TESLA RD</AddressLine1>
+    <CityStateZipRaw>LIVERMORE CA, 94550</CityStateZipRaw>
+    <City>LIVERMORE</City>
+    <State>CA</State>
+    <Zip>94550</Zip>
+    <Phone>(925) 456-2006</Phone>
+    <Email>carole.peterson@wentevineyards.com</Email>
+    <Website>www.wentevineyards.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:23 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>LEONARDINI FAMILY WINERY LLC</Name>
+    <AddressLine1>1563 ST HELENA HWY</AddressLine1>
+    <CityStateZipRaw>ST HELENA CA, 94574</CityStateZipRaw>
+    <City>ST HELENA</City>
+    <State>CA</State>
+    <Zip>94574</Zip>
+    <Phone>(707) 252-4725</Phone>
+    <Email>jw1@winecompliance.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:23 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>WILLAKENZIE ESTATE INC</Name>
+    <AddressLine1>19143 NE LAUGHLIN RD</AddressLine1>
+    <CityStateZipRaw>YAMHILL OR, 97148-8415</CityStateZipRaw>
+    <City>YAMHILL</City>
+    <State>OR</State>
+    <Zip>97148</Zip>
+    <Phone>(503) 662-1261</Phone>
+    <Email>COMPLIANCE@WILLAKENZIE.COM</Email>
+    <Website>www.willakenzie.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:23 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>WINERY AT BLACK STAR FARMS LLC</Name>
+    <AddressLine1>10844 E REVOLD RD</AddressLine1>
+    <CityStateZipRaw>SUTTONS BAY MI, 49682</CityStateZipRaw>
+    <City>SUTTONS BAY</City>
+    <State>MI</State>
+    <Zip>49682</Zip>
+    <Phone>(231) 944-1282</Phone>
+    <Email>bguest@blackstarfarms.com</Email>
+    <Website>www.blackstarfarms.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:23 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>CUSHMAN WINERY CORPORATION</Name>
+    <AddressLine1>6905 FOXEN CANYON RD</AddressLine1>
+    <CityStateZipRaw>LOS OLIVOS CA, 93441</CityStateZipRaw>
+    <City>LOS OLIVOS</City>
+    <State>CA</State>
+    <Zip>93441</Zip>
+    <Email>Zaca.Mesa@compli-beverage.com</Email>
+    <DateTimeScraped>9/19/2016 1:13:23 PM</DateTimeScraped>
+  </WineShipper>
+  <WineShipper>
+    <Name>ZD WINES LLC</Name>
+    <AddressLine1>8383 SILVERADO TRAIL</AddressLine1>
+    <CityStateZipRaw>NAPA CA, 94558</CityStateZipRaw>
+    <City>NAPA</City>
+    <State>CA</State>
+    <Zip>94558</Zip>
+    <Phone>(707) 963-5188</Phone>
+    <Email>compliance@zdwines.com</Email>
+    <Website>www.zdwines.com</Website>
+    <DateTimeScraped>9/19/2016 1:13:23 PM</DateTimeScraped>
+  </WineShipper>
+</ArrayOfWineShipper>
