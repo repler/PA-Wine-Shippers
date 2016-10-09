@@ -10,7 +10,7 @@
     "Phone": "(703) 777-2797",
     "Email": "angela@stonetowerwinery.com",
     "Website": "www.stonetowerwinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:10 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "ST JULIAN WINE COMPANY INCORPORATED",
@@ -23,33 +23,7 @@
     "Phone": "(269) 657-5568",
     "Email": "rons@stjulian.com",
     "Website": "www.stjulian.com",
-    "DateTimeScraped": "9/29/2016 3:28:10 PM"
-  },
-  {
-    "Name": "SAND CASTLE WINERY, INC.",
-    "AddressLine1": "755 RIVER RD",
-    "AddressLine2": "PO BOX 177",
-    "CityStateZipRaw": "ERWINNA PA, 18920-0177",
-    "City": "ERWINNA",
-    "State": "PA",
-    "Zip": "18920",
-    "Phone": null,
-    "Email": "WINESAND@EPIX.NET",
-    "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:10 PM"
-  },
-  {
-    "Name": "R WINE CELLAR LLC",
-    "AddressLine1": "2014 SMALLMAN ST",
-    "AddressLine2": null,
-    "CityStateZipRaw": "PITTSBURGH PA, 15222-4428",
-    "City": "PITTSBURGH",
-    "State": "PA",
-    "Zip": "15222",
-    "Phone": null,
-    "Email": "INFO@RWINECELLAR.COM",
-    "Website": "www.rwinecellar.com",
-    "DateTimeScraped": "9/29/2016 3:28:10 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "L18 WINES LLC",
@@ -62,7 +36,46 @@
     "Phone": "(646) 376-7742",
     "Email": "compliance@lot18.com",
     "Website": "www.lot18.com",
-    "DateTimeScraped": "9/29/2016 3:28:10 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
+  },
+  {
+    "Name": "BOORDY VINEYARDS INC",
+    "AddressLine1": "12820 LONG GREEN PK",
+    "AddressLine2": null,
+    "CityStateZipRaw": "HYDES MD, 21082-9541",
+    "City": "HYDES",
+    "State": "MD",
+    "Zip": "21082",
+    "Phone": null,
+    "Email": "PHINEAS@BOORDY.COM",
+    "Website": "www.boordy.com",
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
+  },
+  {
+    "Name": "SAND CASTLE WINERY, INC.",
+    "AddressLine1": "755 RIVER RD",
+    "AddressLine2": "PO BOX 177",
+    "CityStateZipRaw": "ERWINNA PA, 18920-0177",
+    "City": "ERWINNA",
+    "State": "PA",
+    "Zip": "18920",
+    "Phone": null,
+    "Email": "WINESAND@EPIX.NET",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
+  },
+  {
+    "Name": "R WINE CELLAR LLC",
+    "AddressLine1": "2014 SMALLMAN ST",
+    "AddressLine2": null,
+    "CityStateZipRaw": "PITTSBURGH PA, 15222-4428",
+    "City": "PITTSBURGH",
+    "State": "PA",
+    "Zip": "15222",
+    "Phone": null,
+    "Email": "INFO@RWINECELLAR.COM",
+    "Website": "www.rwinecellar.com",
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "THORN HILL VINEYARDS INC",
@@ -75,7 +88,7 @@
     "Phone": "(717) 299-3688",
     "Email": "THLANC@COMCAST.NET",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:10 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "THE COURTYARD WINERIES LLC",
@@ -88,7 +101,7 @@
     "Phone": null,
     "Email": "COURTYARDWINE@VERIZON.NET",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:10 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "KINGVIEWMEAD LLC",
@@ -101,7 +114,7 @@
     "Phone": "(412) 335-0070",
     "Email": null,
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:10 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "STE MICHELLE WINE ESTATES LTD",
@@ -114,7 +127,7 @@
     "Phone": "(425) 488-1133",
     "Email": "COMPLIANCE@SMWE.COM",
     "Website": "www.smwe.com",
-    "DateTimeScraped": "9/29/2016 3:28:10 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "THE HESS COLLECTION WINERY",
@@ -127,7 +140,7 @@
     "Phone": "(707) 253-1682",
     "Email": "KATE@HESSCOLLECTION.COM",
     "Website": "www.hesscollection.com",
-    "DateTimeScraped": "9/29/2016 3:28:10 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "ARROWHEAD WINE CELLARS, INC.",
@@ -140,7 +153,7 @@
     "Phone": null,
     "Email": "WINE@VELOCITY.NET",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:10 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "CAKEBREAD CELLARS",
@@ -153,7 +166,7 @@
     "Phone": "(707) 963-5221",
     "Email": "kenneth@cakebread.com",
     "Website": "www.cakebread.com",
-    "DateTimeScraped": "9/29/2016 3:28:10 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "BLUE RIDGE WINERY LLC",
@@ -166,85 +179,7 @@
     "Phone": "(570) 236-7816",
     "Email": "RANDYDETRICK@YAHOO.COM",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:10 PM"
-  },
-  {
-    "Name": "JOHNSON ESTATE WINERY LLC",
-    "AddressLine1": "8419 W MAIN RD",
-    "AddressLine2": "P O BOX 52",
-    "CityStateZipRaw": "WESTFIELD NY, 14787-0052",
-    "City": "WESTFIELD",
-    "State": "NY",
-    "Zip": "14787",
-    "Phone": "(716) 326-2191",
-    "Email": null,
-    "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:10 PM"
-  },
-  {
-    "Name": "HAPPY VALLEY VINEYARD & WINERY LLC",
-    "AddressLine1": "576 S FOXPOINTE DR",
-    "AddressLine2": null,
-    "CityStateZipRaw": "STATE COLLEGE PA, 16801-3300",
-    "City": "STATE COLLEGE",
-    "State": "PA",
-    "Zip": "16801",
-    "Phone": "(814) 360-1770",
-    "Email": "HVWINERY@GMAIL.COM",
-    "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:10 PM"
-  },
-  {
-    "Name": "REUSTLE PRAYER ROCK VINEYARDS",
-    "AddressLine1": "960 CAL HENRY RD",
-    "AddressLine2": null,
-    "CityStateZipRaw": "ROSEBURG OR, 97471",
-    "City": "ROSEBURG",
-    "State": "OR",
-    "Zip": "97471",
-    "Phone": "(541) 459-6060",
-    "Email": "WINE@REUSTLEVINEYARDS.COM",
-    "Website": "www.reustlevineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:10 PM"
-  },
-  {
-    "Name": "TABLAS CREEK VINEYARD",
-    "AddressLine1": "9339 ADELAIDA RD",
-    "AddressLine2": null,
-    "CityStateZipRaw": "PASO ROBLES CA, 93446",
-    "City": "PASO ROBLES",
-    "State": "CA",
-    "Zip": "93446",
-    "Phone": "(805) 237-1231",
-    "Email": "drc@tablascreek.com",
-    "Website": "www.tablascreek.com",
-    "DateTimeScraped": "9/29/2016 3:28:10 PM"
-  },
-  {
-    "Name": "ROBERT CRAIG WINERY",
-    "AddressLine1": "2475 SUMMIT LAKE DR",
-    "AddressLine2": null,
-    "CityStateZipRaw": "ANGWIN CA, 94508",
-    "City": "ANGWIN",
-    "State": "CA",
-    "Zip": "94508",
-    "Phone": "(707) 252-2250",
-    "Email": "kiersten@robertcraigwine.com",
-    "Website": "www.robertcraigwine.com",
-    "DateTimeScraped": "9/29/2016 3:28:10 PM"
-  },
-  {
-    "Name": "LA GRANJA WINERY INC",
-    "AddressLine1": "10920 CHIMNEY ROCK RD",
-    "AddressLine2": null,
-    "CityStateZipRaw": "PASO ROBLES CA, 93446",
-    "City": "PASO ROBLES",
-    "State": "CA",
-    "Zip": "93446",
-    "Phone": "(805) 400-3276",
-    "Email": "JIM@THEFARMWINERY.COM",
-    "Website": "www.thefarmwinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:10 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "CLINE CELLARS INC",
@@ -257,7 +192,98 @@
     "Phone": "(707) 284-2828",
     "Email": "licensing@compliance-connect.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:10 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
+  },
+  {
+    "Name": "JOHNSON ESTATE WINERY LLC",
+    "AddressLine1": "8419 W MAIN RD",
+    "AddressLine2": "P O BOX 52",
+    "CityStateZipRaw": "WESTFIELD NY, 14787-0052",
+    "City": "WESTFIELD",
+    "State": "NY",
+    "Zip": "14787",
+    "Phone": "(716) 326-2191",
+    "Email": null,
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
+  },
+  {
+    "Name": "HAPPY VALLEY VINEYARD & WINERY LLC",
+    "AddressLine1": "576 S FOXPOINTE DR",
+    "AddressLine2": null,
+    "CityStateZipRaw": "STATE COLLEGE PA, 16801-3300",
+    "City": "STATE COLLEGE",
+    "State": "PA",
+    "Zip": "16801",
+    "Phone": "(814) 360-1770",
+    "Email": "HVWINERY@GMAIL.COM",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
+  },
+  {
+    "Name": "REUSTLE PRAYER ROCK VINEYARDS",
+    "AddressLine1": "960 CAL HENRY RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "ROSEBURG OR, 97471",
+    "City": "ROSEBURG",
+    "State": "OR",
+    "Zip": "97471",
+    "Phone": "(541) 459-6060",
+    "Email": "WINE@REUSTLEVINEYARDS.COM",
+    "Website": "www.reustlevineyards.com",
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
+  },
+  {
+    "Name": "TABLAS CREEK VINEYARD",
+    "AddressLine1": "9339 ADELAIDA RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "PASO ROBLES CA, 93446",
+    "City": "PASO ROBLES",
+    "State": "CA",
+    "Zip": "93446",
+    "Phone": "(805) 237-1231",
+    "Email": "drc@tablascreek.com",
+    "Website": "www.tablascreek.com",
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
+  },
+  {
+    "Name": "ROBERT CRAIG WINERY",
+    "AddressLine1": "2475 SUMMIT LAKE DR",
+    "AddressLine2": null,
+    "CityStateZipRaw": "ANGWIN CA, 94508",
+    "City": "ANGWIN",
+    "State": "CA",
+    "Zip": "94508",
+    "Phone": "(707) 252-2250",
+    "Email": "kiersten@robertcraigwine.com",
+    "Website": "www.robertcraigwine.com",
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
+  },
+  {
+    "Name": "SEVEN MOUNTAINS WINE CELLARS LLC",
+    "AddressLine1": "107 MOUNTAIN SPRING LN",
+    "AddressLine2": null,
+    "CityStateZipRaw": "SPRING MILLS PA, 16875-9041",
+    "City": "SPRING MILLS",
+    "State": "PA",
+    "Zip": "16875",
+    "Phone": "(814) 364-2983",
+    "Email": "MARYANN@SEVENMOUNTAINSWINECELLARS.COM",
+    "Website": "www.sevenmountainswinecellars.com",
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
+  },
+  {
+    "Name": "LA GRANJA WINERY INC",
+    "AddressLine1": "10920 CHIMNEY ROCK RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "PASO ROBLES CA, 93446",
+    "City": "PASO ROBLES",
+    "State": "CA",
+    "Zip": "93446",
+    "Phone": "(805) 400-3276",
+    "Email": "JIM@THEFARMWINERY.COM",
+    "Website": "www.thefarmwinery.com",
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "LONG SHADOWS VINTNERS",
@@ -270,85 +296,7 @@
     "Phone": "(206) 366-0335",
     "Email": "shelained@longshadows.com",
     "Website": "www.longshadows.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
-  },
-  {
-    "Name": "BENIGNA'S CREEK VINEYARD & WINERY,",
-    "AddressLine1": "1585 RIDGE RD",
-    "AddressLine2": null,
-    "CityStateZipRaw": "KLINGERSTOWN PA, 17941-9637",
-    "City": "KLINGERSTOWN",
-    "State": "PA",
-    "Zip": "17941",
-    "Phone": "(570) 425-3090",
-    "Email": "LAZYM@RURALIFE.NET",
-    "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
-  },
-  {
-    "Name": "1-800 WINESHOP.COM, INC",
-    "AddressLine1": "525 AIRPARK RD",
-    "AddressLine2": null,
-    "CityStateZipRaw": "NAPA CA, 94558",
-    "City": "NAPA",
-    "State": "CA",
-    "Zip": "94558",
-    "Phone": "(707) 253-0200",
-    "Email": "shodges@wineshopathome.com",
-    "Website": "www.wineshopathome.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
-  },
-  {
-    "Name": "PENN-SHORE VINEYARDS INC.",
-    "AddressLine1": "10225 E LAKE RD",
-    "AddressLine2": null,
-    "CityStateZipRaw": "NORTH EAST PA, 16428-2839",
-    "City": "NORTH EAST",
-    "State": "PA",
-    "Zip": "16428",
-    "Phone": null,
-    "Email": "JEFFREYORE@AOL.COM",
-    "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
-  },
-  {
-    "Name": "NAKEDWINES.COM INC",
-    "AddressLine1": "8450 SONOMA HWY",
-    "AddressLine2": null,
-    "CityStateZipRaw": "KENWOOD CA, 95452-2052",
-    "City": "KENWOOD",
-    "State": "CA",
-    "Zip": "95452",
-    "Phone": "(707) 786-6287",
-    "Email": null,
-    "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
-  },
-  {
-    "Name": "WILHELM WINERY, INC.",
-    "AddressLine1": "590 GEORGETOWN RD",
-    "AddressLine2": null,
-    "CityStateZipRaw": "HADLEY PA, 16130-1010",
-    "City": "HADLEY",
-    "State": "PA",
-    "Zip": "16130",
-    "Phone": "(724) 253-3700",
-    "Email": "WILHELM3700@ALLTEL.NET",
-    "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
-  },
-  {
-    "Name": "GRACE WINERY LLC",
-    "AddressLine1": "50 SWEETWATER RD",
-    "AddressLine2": null,
-    "CityStateZipRaw": "GLEN MILLS PA, 19342-1709",
-    "City": "GLEN MILLS",
-    "State": "PA",
-    "Zip": "19342",
-    "Phone": "(610) 459-4711",
-    "Email": "DCLV@COMCAST.NET",
-    "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "RDV VINEYARDS LLC",
@@ -361,7 +309,7 @@
     "Phone": "(800) 790-6838",
     "Email": "bannon@williamscompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "FERRARI-CARANO VINEYARDS AND WINERY",
@@ -374,7 +322,85 @@
     "Phone": "(707) 433-6700",
     "Email": "jodee@fcwinery.com",
     "Website": "www.fcwinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
+  },
+  {
+    "Name": "BENIGNA'S CREEK VINEYARD & WINERY,",
+    "AddressLine1": "1585 RIDGE RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "KLINGERSTOWN PA, 17941-9637",
+    "City": "KLINGERSTOWN",
+    "State": "PA",
+    "Zip": "17941",
+    "Phone": "(570) 425-3090",
+    "Email": "LAZYM@RURALIFE.NET",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
+  },
+  {
+    "Name": "1-800 WINESHOP.COM, INC",
+    "AddressLine1": "525 AIRPARK RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "NAPA CA, 94558",
+    "City": "NAPA",
+    "State": "CA",
+    "Zip": "94558",
+    "Phone": "(707) 253-0200",
+    "Email": "shodges@wineshopathome.com",
+    "Website": "www.wineshopathome.com",
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
+  },
+  {
+    "Name": "PENN-SHORE VINEYARDS INC.",
+    "AddressLine1": "10225 E LAKE RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "NORTH EAST PA, 16428-2839",
+    "City": "NORTH EAST",
+    "State": "PA",
+    "Zip": "16428",
+    "Phone": null,
+    "Email": "JEFFREYORE@AOL.COM",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
+  },
+  {
+    "Name": "NAKEDWINES.COM INC",
+    "AddressLine1": "8450 SONOMA HWY",
+    "AddressLine2": null,
+    "CityStateZipRaw": "KENWOOD CA, 95452-2052",
+    "City": "KENWOOD",
+    "State": "CA",
+    "Zip": "95452",
+    "Phone": "(707) 786-6287",
+    "Email": null,
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
+  },
+  {
+    "Name": "WILHELM WINERY, INC.",
+    "AddressLine1": "590 GEORGETOWN RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "HADLEY PA, 16130-1010",
+    "City": "HADLEY",
+    "State": "PA",
+    "Zip": "16130",
+    "Phone": "(724) 253-3700",
+    "Email": "WILHELM3700@ALLTEL.NET",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
+  },
+  {
+    "Name": "GRACE WINERY LLC",
+    "AddressLine1": "50 SWEETWATER RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "GLEN MILLS PA, 19342-1709",
+    "City": "GLEN MILLS",
+    "State": "PA",
+    "Zip": "19342",
+    "Phone": "(610) 459-4711",
+    "Email": "DCLV@COMCAST.NET",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "PICKERING WINERY, INC.",
@@ -387,7 +413,7 @@
     "Phone": "(570) 247-7269",
     "Email": "PICKWINE1@EPIX.NET",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "MENDOCINO WINE GROUP LLC",
@@ -400,7 +426,7 @@
     "Phone": "(707) 463-5380",
     "Email": "valeriem@mendocinowineco.com",
     "Website": "www.mendocinowineco.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "ARKENSTONE VINEYARDS LLC",
@@ -413,7 +439,7 @@
     "Phone": "(707) 965-1020",
     "Email": "susan@arkenstone.com",
     "Website": "www.arkenstone.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "WILSON CREEK WINERY & VINEYARDS INC",
@@ -426,7 +452,7 @@
     "Phone": "(951) 699-9463",
     "Email": "compliance@wilsoncreekwinery.com",
     "Website": "www.wilsoncreekwinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "CALDWELL VINEYARD LLC",
@@ -439,33 +465,7 @@
     "Phone": "(707) 265-0233",
     "Email": "BETH@THEWACCO.COM",
     "Website": "www.thewacco.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
-  },
-  {
-    "Name": "QUILCEDA CREEK VINTNERS INC",
-    "AddressLine1": "11306 52ND ST SE",
-    "AddressLine2": null,
-    "CityStateZipRaw": "SOHOMISH WA, 98290",
-    "City": "SOHOMISH",
-    "State": "WA",
-    "Zip": "98290",
-    "Phone": "(360) 568-2389",
-    "Email": "john@quilcedacreek.com",
-    "Website": "www.quilcedacreek.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
-  },
-  {
-    "Name": "KONSTANTIN D FRANK & SONS VINIFERA",
-    "AddressLine1": "9749 MIDDLE RD",
-    "AddressLine2": null,
-    "CityStateZipRaw": "HAMMONDSPORT NY, 14840",
-    "City": "HAMMONDSPORT",
-    "State": "NY",
-    "Zip": "14840",
-    "Phone": "(607) 868-4884",
-    "Email": "ksmolos@drfrankwines.com",
-    "Website": "www.drfrankwines.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "CASSEL VINEYARDS OF HERSHEY LLC",
@@ -478,7 +478,7 @@
     "Phone": null,
     "Email": "CASSELVINEYARDS@GMAIL.COM",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "JAMES  SUMMERS",
@@ -491,7 +491,33 @@
     "Phone": "(707) 942-5508",
     "Email": "INFO@SUMMERSWINERY.COM",
     "Website": "www.summerswinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
+  },
+  {
+    "Name": "QUILCEDA CREEK VINTNERS INC",
+    "AddressLine1": "11306 52ND ST SE",
+    "AddressLine2": null,
+    "CityStateZipRaw": "SOHOMISH WA, 98290",
+    "City": "SOHOMISH",
+    "State": "WA",
+    "Zip": "98290",
+    "Phone": "(360) 568-2389",
+    "Email": "john@quilcedacreek.com",
+    "Website": "www.quilcedacreek.com",
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
+  },
+  {
+    "Name": "KONSTANTIN D FRANK & SONS VINIFERA",
+    "AddressLine1": "9749 MIDDLE RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "HAMMONDSPORT NY, 14840",
+    "City": "HAMMONDSPORT",
+    "State": "NY",
+    "Zip": "14840",
+    "Phone": "(607) 868-4884",
+    "Email": "ksmolos@drfrankwines.com",
+    "Website": "www.drfrankwines.com",
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "CASTORO CELLARS",
@@ -504,7 +530,7 @@
     "Phone": null,
     "Email": "castoro@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "MOUNTAIN VIEW VINEYARD INC",
@@ -517,7 +543,7 @@
     "Phone": "(570) 619-0053",
     "Email": "RANDY@MOUNTAINVIEWVINEYARD.COM",
     "Website": "www.mountainviewvineyard.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "HERB LAMB VINEYARDS LLC",
@@ -530,7 +556,7 @@
     "Phone": "(707) 967-9752",
     "Email": "terry@herblambvineyards.com",
     "Website": "www.herblambvineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "BRYTER ESTATES LLC",
@@ -543,7 +569,7 @@
     "Phone": "(707) 265-0233",
     "Email": "BETH@THEWACCO.COM",
     "Website": "www.thewacco.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "STEPHEN HAWKES",
@@ -556,7 +582,7 @@
     "Phone": "(707) 433-4295",
     "Email": "Susanna@hawkeswine.com",
     "Website": "www.hawkeswine.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "WALTZ VINEYARDS ESTATE WINERY LLC",
@@ -569,7 +595,7 @@
     "Phone": "(717) 664-9463",
     "Email": "anne@waltzvineyards.com",
     "Website": "www.waltzvineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "SIX SIGMA WINERY LLC",
@@ -582,7 +608,7 @@
     "Phone": "(707) 994-4068",
     "Email": "MARY@SIXSIGMARANCH.COM",
     "Website": "www.sixsigmaranch.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "HAHN ESTATE",
@@ -595,7 +621,7 @@
     "Phone": "(707) 284-2828",
     "Email": "licensing@compliance-connect.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "ANTLER RIDGE WINERY INC",
@@ -608,7 +634,7 @@
     "Phone": "(610) 730-0501",
     "Email": "ANTLERRIDGE@EPIX.NET",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "SWEDISH HILL VINEYARD INC",
@@ -621,7 +647,7 @@
     "Phone": "(607) 403-0029",
     "Email": "Jean.Peterson@swedishhill.com",
     "Website": "www.swedishhill.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "TOLINO VINEYARDS LLC",
@@ -634,7 +660,7 @@
     "Phone": null,
     "Email": "CARL@TOLINOVINEYARDS.COM",
     "Website": "www.tolinovineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "RAFFALDINI VINEYARDS & WINERY LLC",
@@ -647,7 +673,7 @@
     "Phone": "(312) 315-0550",
     "Email": "barbara@raffaldini.com",
     "Website": "www.raffaldini.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "J LOHR WINERY CORPORATION",
@@ -660,7 +686,7 @@
     "Phone": "(805) 239-5400",
     "Email": "jhamm@jlohr.com",
     "Website": "www.jlohr.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "MONTICELLO CELLARS",
@@ -673,7 +699,7 @@
     "Phone": null,
     "Email": "STEPHEN@CORLEYFAMILYNAPAVALLEY",
     "Website": "www.corleyfamilynapavalley",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "ARMIDA WINERY INC",
@@ -686,7 +712,7 @@
     "Phone": "(707) 528-8500",
     "Email": "armida@dhwinecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "BLACKBIRD VINEYARDS LLC",
@@ -699,7 +725,7 @@
     "Phone": "(707) 528-8500",
     "Email": "blackbird@dhwinecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "ITO WINES LLC",
@@ -712,7 +738,7 @@
     "Phone": "(978) 500-5583",
     "Email": "katie@travelingvineyard.com",
     "Website": "www.travelingvineyard.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "ITO WINES LLC",
@@ -725,7 +751,7 @@
     "Phone": "(978) 500-5583",
     "Email": "katie@travelingvineyard.com",
     "Website": "www.travelingvineyard.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "ITO WINES LLC",
@@ -738,7 +764,7 @@
     "Phone": "(978) 500-5583",
     "Email": "katie@travelingvineyard.com",
     "Website": "www.travelingvineyard.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "ADELAIDA CELLARS INC",
@@ -751,7 +777,20 @@
     "Phone": null,
     "Email": "adelaida@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
+  },
+  {
+    "Name": "PEACHY CANYON WINERY",
+    "AddressLine1": "2025 NACIMIENTO LAKE DR",
+    "AddressLine2": null,
+    "CityStateZipRaw": "PASO ROBLES CA, 93446-8753",
+    "City": "PASO ROBLES",
+    "State": "CA",
+    "Zip": "93446",
+    "Phone": "(805) 237-1577",
+    "Email": null,
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "LORING WINE COMPANY LLC",
@@ -764,7 +803,7 @@
     "Phone": "(805) 736-0053",
     "Email": "brian@loringwinecompany.com",
     "Website": "www.loringwinecompany.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "CHATEAU DIANA LLC",
@@ -777,7 +816,7 @@
     "Phone": "(707) 528-8500",
     "Email": "chateaudiana@dhwinecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "RED CAR WINE COMPANY LLC",
@@ -790,7 +829,7 @@
     "Phone": "(707) 528-8500",
     "Email": "redcar@dhwinecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "MAROON WINERY LLC",
@@ -803,7 +842,7 @@
     "Phone": "(707) 252-4725",
     "Email": "jw1@winecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "HUNT COUNTRY VINEYARDS LLC",
@@ -816,7 +855,7 @@
     "Phone": "(315) 595-2812",
     "Email": "INFO@HUNTWINES.COM",
     "Website": "www.huntwines.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "NAPA WINE COMPANY LLC",
@@ -829,7 +868,7 @@
     "Phone": "(508) 648-2505",
     "Email": "coastalcompliance@comcast.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "SHAFER VINEYARDS",
@@ -842,7 +881,7 @@
     "Phone": "(707) 944-2877",
     "Email": "mschatz@shafervineyards.com",
     "Website": "www.shafervineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "KENEFICK RANCHES WINERY LLC",
@@ -855,7 +894,7 @@
     "Phone": "(866) 661-4190",
     "Email": "brenda@wineindustrycompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "LAYTONS CHANCE VINEYARD & WINERY LLC",
@@ -868,7 +907,7 @@
     "Phone": "(410) 228-1205",
     "Email": "jlayton@laytonschance.com",
     "Website": "www.laytonschance.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:53 PM"
   },
   {
     "Name": "GAMBLE FAMILY VINEYARDS LLC",
@@ -881,7 +920,7 @@
     "Phone": "(707) 944-2999",
     "Email": "kari@gamblefamilyvineyards.com",
     "Website": "www.gamblefamilyvineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "WHEELER WINERY INC",
@@ -894,7 +933,7 @@
     "Phone": "(707) 963-6951",
     "Email": "bonne.posert@boisset.com",
     "Website": "www.boisset.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "RAYMOND VINEYARD & CELLAR INC",
@@ -907,7 +946,7 @@
     "Phone": "(707) 963-6951",
     "Email": "bonne.posert@boisset.com",
     "Website": "www.boisset.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "PORTER FAMILY VINEYARDS LLC",
@@ -920,7 +959,7 @@
     "Phone": "(707) 927-0765",
     "Email": null,
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "STONY HILL VINEYARD",
@@ -933,7 +972,7 @@
     "Phone": "(707) 963-2636",
     "Email": "INFO@STONYHILLVINEYARD.COM",
     "Website": "www.stonyhillvineyard.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "DEL DOTTO VINEYARDS",
@@ -946,7 +985,7 @@
     "Phone": "(707) 252-4725",
     "Email": "reg1@winecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "J.K. CARRIERE LLC",
@@ -959,7 +998,7 @@
     "Phone": "(503) 554-0721",
     "Email": "linda@jkcarriere.com",
     "Website": "www.jkcarriere.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "PRINCE MICHEL LLC",
@@ -972,7 +1011,7 @@
     "Phone": "(540) 547-3707",
     "Email": "sturner@princemichel.com",
     "Website": "www.princemichel.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "HERITANCE VINTNERS LLC",
@@ -985,7 +1024,7 @@
     "Phone": "(516) 802-4730",
     "Email": "ddessi@seaviewimports.com",
     "Website": "www.seaviewimports.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "ARETE WINES LLC",
@@ -998,7 +1037,7 @@
     "Phone": null,
     "Email": "arete@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "DOMAINE SERENE VINEYARDS & WINERY INC",
@@ -1011,7 +1050,7 @@
     "Phone": "(503) 864-4600",
     "Email": "ARTIE@DOMAINESERENE.COM",
     "Website": "www.domaineserene.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "JARVIS",
@@ -1024,7 +1063,7 @@
     "Phone": "(707) 255-5280",
     "Email": "info@jarviswines.com",
     "Website": "www.jarviswines.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "NAVARRO VINEYARDS LLC",
@@ -1037,7 +1076,7 @@
     "Phone": "(707) 895-3516",
     "Email": "Lynnes@mail.navarrowine.com",
     "Website": "www.mail.navarrowine.com",
-    "DateTimeScraped": "9/29/2016 3:28:11 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "SEAVEY VINEYARD LP",
@@ -1050,7 +1089,7 @@
     "Phone": "(707) 963-9339",
     "Email": "accounting@seaveyvineyard.com",
     "Website": "www.seaveyvineyard.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "OWEN ROE LLC",
@@ -1063,7 +1102,7 @@
     "Phone": "(503) 516-5611",
     "Email": "alisa@owenroe.com",
     "Website": "www.owenroe.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "HALTER WINERY LLC",
@@ -1076,7 +1115,7 @@
     "Phone": "(805) 226-9455",
     "Email": "katie@halterranch.com",
     "Website": "www.halterranch.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "RED NEWT CELLARS INC",
@@ -1089,7 +1128,7 @@
     "Phone": "(607) 546-4100",
     "Email": "TERRI@REDNEWT.COM",
     "Website": "www.rednewt.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "LAW ESTATE WINES",
@@ -1102,7 +1141,7 @@
     "Phone": "(805) 226-9200",
     "Email": "accounting@lawestatewines.com",
     "Website": "www.lawestatewines.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "DENNER WINERY INC",
@@ -1115,33 +1154,7 @@
     "Phone": "(805) 239-4287",
     "Email": "ashleigh@dennervineyards.com",
     "Website": "www.dennervineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
-  },
-  {
-    "Name": "FULCRUM WINES LLC",
-    "AddressLine1": "110 CAMINO ORUGA",
-    "AddressLine2": null,
-    "CityStateZipRaw": "NAPA CA, 94558",
-    "City": "NAPA",
-    "State": "CA",
-    "Zip": "94558",
-    "Phone": "(732) 610-9602",
-    "Email": "david@fulcrumwines.com",
-    "Website": "www.fulcrumwines.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
-  },
-  {
-    "Name": "SONOMA-CUTRER VINEYARDS",
-    "AddressLine1": "4401  SLUSSER RD",
-    "AddressLine2": null,
-    "CityStateZipRaw": "WINDSOR CA, 95492",
-    "City": "WINDSOR",
-    "State": "CA",
-    "Zip": "95492",
-    "Phone": "(502) 774-7324",
-    "Email": "Denise_Dillard@b-f.com",
-    "Website": "www.b-f.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "BURGESS CELLARS, INC.",
@@ -1154,7 +1167,7 @@
     "Phone": "(707) 254-1133",
     "Email": "WINES@BURGESSCELLARS.COM",
     "Website": "www.burgesscellars.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "VIGNETTE WINERY LLC",
@@ -1167,7 +1180,7 @@
     "Phone": "(707) 637-8821",
     "Email": null,
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "FLORA SPRINGS WINE COMPANY",
@@ -1180,7 +1193,7 @@
     "Phone": "(800) 788-0212",
     "Email": "GRAPEVINECOMPLIANCE@Q.COM",
     "Website": "www.q.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "MAURITSON FAMILY WINERY",
@@ -1193,7 +1206,7 @@
     "Phone": "(707) 431-0804",
     "Email": "info@mauritsonwines.com",
     "Website": "www.mauritsonwines.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "SCHRAMSBERG VINEYARDS CO",
@@ -1206,7 +1219,7 @@
     "Phone": "(707) 942-2436",
     "Email": "sthurman@schramsberg.com",
     "Website": "www.schramsberg.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "LEMELSON WINERY LLC",
@@ -1219,7 +1232,20 @@
     "Phone": "(503) 852-6619",
     "Email": "kate@lemelsonvineyards.com",
     "Website": "www.lemelsonvineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
+  },
+  {
+    "Name": "",
+    "AddressLine1": "7485 DRY CREEK RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "GEYERSVILLE CA, 95441",
+    "City": "GEYERSVILLE",
+    "State": "CA",
+    "Zip": "95441",
+    "Phone": "(505) 977-1010",
+    "Email": "grapevinecompliance@q.com",
+    "Website": "www.q.com",
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "DAWN'S DREAM LLC",
@@ -1232,7 +1258,7 @@
     "Phone": "(505) 977-1010",
     "Email": "grapevinecompliance@q.com",
     "Website": "www.q.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "DRY CREEK VINEYARD INC",
@@ -1245,7 +1271,7 @@
     "Phone": "(505) 977-1010",
     "Email": "grapevinecompliance@q.com",
     "Website": "www.q.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "DUTTON GOLDFIELD WINERY LLC",
@@ -1258,7 +1284,7 @@
     "Phone": "(505) 977-1010",
     "Email": "grapevinecompliance@q.com",
     "Website": "www.q.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "GALANTE FAMILY WINERY INC",
@@ -1271,7 +1297,7 @@
     "Phone": "(505) 977-1010",
     "Email": "grapevinecompliance@q.com",
     "Website": "www.q.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "CK CELLARS LLC",
@@ -1284,7 +1310,20 @@
     "Phone": "(315) 422-1152",
     "Email": "zrb@ccf-law.com",
     "Website": "www.ccf-law.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
+  },
+  {
+    "Name": "SPENCER HOOPES",
+    "AddressLine1": "7830-40 ST HELENA HWY",
+    "AddressLine2": null,
+    "CityStateZipRaw": "OAKVILLE CA, 94562",
+    "City": "OAKVILLE",
+    "State": "CA",
+    "Zip": "94562",
+    "Phone": "(505) 977-1010",
+    "Email": "grapevinecompliance@q.com",
+    "Website": "www.q.com",
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "PANTHER CREEK CELLARS LLC",
@@ -1297,7 +1336,7 @@
     "Phone": "(505) 977-1010",
     "Email": "grapevinecompliance@q.com",
     "Website": "www.q.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "ROY ESTATE LLC",
@@ -1310,7 +1349,7 @@
     "Phone": "(505) 977-1010",
     "Email": "grapevinecompliance@q.com",
     "Website": "www.q.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "WINE BY JOE LLC",
@@ -1323,7 +1362,33 @@
     "Phone": "(505) 977-1010",
     "Email": "grapevinecompliance@q.com",
     "Website": "www.q.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
+  },
+  {
+    "Name": "FULCRUM WINES LLC",
+    "AddressLine1": "110 CAMINO ORUGA",
+    "AddressLine2": null,
+    "CityStateZipRaw": "NAPA CA, 94558",
+    "City": "NAPA",
+    "State": "CA",
+    "Zip": "94558",
+    "Phone": "(732) 610-9602",
+    "Email": "david@fulcrumwines.com",
+    "Website": "www.fulcrumwines.com",
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
+  },
+  {
+    "Name": "SONOMA-CUTRER VINEYARDS",
+    "AddressLine1": "4401  SLUSSER RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "WINDSOR CA, 95492",
+    "City": "WINDSOR",
+    "State": "CA",
+    "Zip": "95492",
+    "Phone": "(502) 774-7324",
+    "Email": "Denise_Dillard@b-f.com",
+    "Website": "www.b-f.com",
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "LARKMEAD VINEYARDS",
@@ -1336,7 +1401,7 @@
     "Phone": "(866) 661-4190",
     "Email": "melissa@wineindustrycompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "ROUND POND ESTATE LLC",
@@ -1349,20 +1414,7 @@
     "Phone": "(866) 661-4190",
     "Email": "melissa@wineindustrycompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
-  },
-  {
-    "Name": "ARIETTA INC",
-    "AddressLine1": "3468 SILVERADO TRAIL N",
-    "AddressLine2": null,
-    "CityStateZipRaw": "SAINT HELENA CA, 94574-9662",
-    "City": "SAINT HELENA",
-    "State": "CA",
-    "Zip": "94574",
-    "Phone": "(510) 964-7901",
-    "Email": "dleon@cqaconsult.net",
-    "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "DISTEL CELLARS LLC",
@@ -1375,7 +1427,20 @@
     "Phone": "(612) 799-8969",
     "Email": "thomas.d.mortimer@gmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
+  },
+  {
+    "Name": "ARIETTA INC",
+    "AddressLine1": "3468 SILVERADO TRAIL N",
+    "AddressLine2": null,
+    "CityStateZipRaw": "SAINT HELENA CA, 94574-9662",
+    "City": "SAINT HELENA",
+    "State": "CA",
+    "Zip": "94574",
+    "Phone": "(510) 964-7901",
+    "Email": "dleon@cqaconsult.net",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "MOLLYDOOKER INTERNATIONAL LLC",
@@ -1388,7 +1453,7 @@
     "Phone": "(505) 977-1010",
     "Email": "GRAPEVINECOMPLIANCE@Q.COM",
     "Website": "www.q.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "AC VIN CO LLC",
@@ -1401,7 +1466,7 @@
     "Phone": "(505) 977-1010",
     "Email": "grapevinecompliance@q.com",
     "Website": "www.q.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "VILLA ENCINAL PARTNERS LP",
@@ -1414,7 +1479,7 @@
     "Phone": "(707) 578-7807",
     "Email": "paula@complianceservice.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "STONE EDGE WINERY LLC",
@@ -1427,7 +1492,7 @@
     "Phone": "(707) 528-8500",
     "Email": "stoneedge@dhwinecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "B WISE VINEYARDS LLC",
@@ -1440,7 +1505,7 @@
     "Phone": "(707) 578-7807",
     "Email": "paula@complianceservice.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "BREAUX VINEYARDS LTD",
@@ -1453,59 +1518,7 @@
     "Phone": "(540) 668-6299",
     "Email": "breauxvineyardswccg@gmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
-  },
-  {
-    "Name": "TREFETHEN VINEYARDS WINERY INC",
-    "AddressLine1": "1160 OAK KNOLL AV",
-    "AddressLine2": null,
-    "CityStateZipRaw": "NAPA CA, 94558",
-    "City": "NAPA",
-    "State": "CA",
-    "Zip": "94558",
-    "Phone": "(707) 251-2421",
-    "Email": "dcw@trefethen.com",
-    "Website": "www.trefethen.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
-  },
-  {
-    "Name": "HAGAFEN CELLARS INC",
-    "AddressLine1": "4160 SILVERADO TRAIL",
-    "AddressLine2": null,
-    "CityStateZipRaw": "NAPA CA, 94558",
-    "City": "NAPA",
-    "State": "CA",
-    "Zip": "94558",
-    "Phone": null,
-    "Email": "ernie@hagafen.com",
-    "Website": "www.hagafen.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
-  },
-  {
-    "Name": "BOYD FAMILY VINEYARDS LLC",
-    "AddressLine1": "4326 BIG RANCH RD",
-    "AddressLine2": null,
-    "CityStateZipRaw": "NAPA CA, 94558-1347",
-    "City": "NAPA",
-    "State": "CA",
-    "Zip": "94558",
-    "Phone": "(707) 265-9485",
-    "Email": "joan@boydwine.com",
-    "Website": "www.boydwine.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
-  },
-  {
-    "Name": "FOX MEADOW WINERY LLC",
-    "AddressLine1": "3310 FREEZELAND RD",
-    "AddressLine2": null,
-    "CityStateZipRaw": "LINDEN VA, 22642",
-    "City": "LINDEN",
-    "State": "VA",
-    "Zip": "22642",
-    "Phone": "(800) 790-6838",
-    "Email": "dan@foxmeadowwinery.com",
-    "Website": "www.foxmeadowwinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "PETER MICHAEL WINERY",
@@ -1518,7 +1531,7 @@
     "Phone": "(707) 284-2828",
     "Email": "licensing@compliance-connect.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "DIVOT ENTERPRISES, LLC",
@@ -1531,7 +1544,59 @@
     "Phone": "(707) 603-1462",
     "Email": "GRAPEVINECOMPLIANCE@Q.COM",
     "Website": "www.q.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
+  },
+  {
+    "Name": "TREFETHEN VINEYARDS WINERY INC",
+    "AddressLine1": "1160 OAK KNOLL AV",
+    "AddressLine2": null,
+    "CityStateZipRaw": "NAPA CA, 94558",
+    "City": "NAPA",
+    "State": "CA",
+    "Zip": "94558",
+    "Phone": "(707) 251-2421",
+    "Email": "dcw@trefethen.com",
+    "Website": "www.trefethen.com",
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
+  },
+  {
+    "Name": "HAGAFEN CELLARS INC",
+    "AddressLine1": "4160 SILVERADO TRAIL",
+    "AddressLine2": null,
+    "CityStateZipRaw": "NAPA CA, 94558",
+    "City": "NAPA",
+    "State": "CA",
+    "Zip": "94558",
+    "Phone": null,
+    "Email": "ernie@hagafen.com",
+    "Website": "www.hagafen.com",
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
+  },
+  {
+    "Name": "BOYD FAMILY VINEYARDS LLC",
+    "AddressLine1": "4326 BIG RANCH RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "NAPA CA, 94558-1347",
+    "City": "NAPA",
+    "State": "CA",
+    "Zip": "94558",
+    "Phone": "(707) 265-9485",
+    "Email": "joan@boydwine.com",
+    "Website": "www.boydwine.com",
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
+  },
+  {
+    "Name": "FOX MEADOW WINERY LLC",
+    "AddressLine1": "3310 FREEZELAND RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "LINDEN VA, 22642",
+    "City": "LINDEN",
+    "State": "VA",
+    "Zip": "22642",
+    "Phone": "(800) 790-6838",
+    "Email": "dan@foxmeadowwinery.com",
+    "Website": "www.foxmeadowwinery.com",
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "HANDLEY CELLARS LIMITED PARTNERSHIP",
@@ -1544,7 +1609,20 @@
     "Phone": "(707) 578-7807",
     "Email": "paula@complianceservice.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
+  },
+  {
+    "Name": "OSHAUGHNESSY DEL OSO LLC",
+    "AddressLine1": "1150 FRIESEN DR",
+    "AddressLine2": null,
+    "CityStateZipRaw": "ANGWIN CA, 94508",
+    "City": "ANGWIN",
+    "State": "CA",
+    "Zip": "94508",
+    "Phone": "(707) 965-2898",
+    "Email": null,
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "RIDGE VINEYARDS, INC.",
@@ -1557,7 +1635,7 @@
     "Phone": "(408) 868-1334",
     "Email": "richard@ridgewine.com",
     "Website": "www.ridgewine.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "BELLA LUNA WINERY INC",
@@ -1570,7 +1648,7 @@
     "Phone": "(805) 712-5225",
     "Email": "shelly.zanoli@bellalunawine.com",
     "Website": "www.bellalunawine.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "FOXEN VINEYARD INC",
@@ -1583,7 +1661,7 @@
     "Phone": "(805) 937-4251",
     "Email": "katie@foxenvineyard.com",
     "Website": "www.foxenvineyard.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "PRIDE MOUNTAIN VINEYARDS LLC",
@@ -1596,7 +1674,7 @@
     "Phone": "(707) 964-6064",
     "Email": "krantz@pridewines.com",
     "Website": "www.pridewines.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "FROGS LEAP WINERY",
@@ -1609,7 +1687,7 @@
     "Phone": "(707) 963-4704",
     "Email": "kelly@frogsleap.com",
     "Website": "www.frogsleap.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "TURNBULL WINE CELLARS",
@@ -1622,7 +1700,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "SONS OF BACCHUS LLC",
@@ -1635,7 +1713,7 @@
     "Phone": "(831) 675-7500",
     "Email": "info@pisonivineyards.com",
     "Website": "www.pisonivineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "MADRIGAL FAMILY WINERY LLC",
@@ -1648,7 +1726,7 @@
     "Phone": "(707) 942-1065",
     "Email": "mmccollum@madrigalfamilywinery.com",
     "Website": "www.madrigalfamilywinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "ADELSHEIM VINEYARD LLC",
@@ -1661,7 +1739,7 @@
     "Phone": "(503) 538-3652",
     "Email": "compliance@adelsheim.com",
     "Website": "www.adelsheim.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "TALLEY VINEYARDS",
@@ -1674,7 +1752,7 @@
     "Phone": "(805) 489-0446",
     "Email": "michele@talleyvineyards.com",
     "Website": "www.talleyvineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "ROEDERER ESTATE INC",
@@ -1687,7 +1765,7 @@
     "Phone": "(707) 578-7807",
     "Email": "paula@complianceservice.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "OPUS ONE WINERY LLC",
@@ -1700,7 +1778,7 @@
     "Phone": "(707) 578-7807",
     "Email": "paula@complianceservice.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "TERRA SPRINGS LLC",
@@ -1713,7 +1791,7 @@
     "Phone": "(707) 967-8340",
     "Email": "tracy@terravalentine.com",
     "Website": "www.terravalentine.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "POTT WINE",
@@ -1726,7 +1804,7 @@
     "Phone": "(707) 967-9378",
     "Email": "claire@pottwine.com",
     "Website": "www.pottwine.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "TI BEVERAGE GROUP LTD",
@@ -1739,7 +1817,7 @@
     "Phone": "(505) 977-1010",
     "Email": "grapevinecompliance@q.com",
     "Website": "www.q.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "SILVER THREAD VINEYARD LLC",
@@ -1752,7 +1830,7 @@
     "Phone": "(607) 582-6116",
     "Email": "info@silverthreadwine.com",
     "Website": "www.silverthreadwine.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "WILLIAM COLE VINEYARDS LLC",
@@ -1765,7 +1843,7 @@
     "Phone": "(707) 968-5003",
     "Email": "tbcompliance@gmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "ELK MOUNTAIN WINERY",
@@ -1778,7 +1856,7 @@
     "Phone": "(814) 834-9463",
     "Email": "ELKMOUNTAINWINERY@GMAIL.COM",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "BILLSBORO VINEYARDS AND WINERY LLC",
@@ -1791,7 +1869,7 @@
     "Phone": "(315) 789-9538",
     "Email": "kim@billsborowinery.com",
     "Website": "www.billsborowinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "DYER STRAITS WINE CO LLC",
@@ -1804,7 +1882,7 @@
     "Phone": "(707) 265-0233",
     "Email": "beth@thewacco.com",
     "Website": "www.thewacco.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "BILTMORE ESTATE WINE COMPANY",
@@ -1817,7 +1895,7 @@
     "Phone": "(828) 225-6766",
     "Email": "cbarnett@biltmore.com",
     "Website": "www.biltmore.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "STOLPMAN VINEYARDS LLC",
@@ -1830,7 +1908,7 @@
     "Phone": "(805) 686-8351",
     "Email": "valallen@gmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "PATRICIA GREEN CELLARS",
@@ -1843,7 +1921,7 @@
     "Phone": "(503) 554-0821",
     "Email": "pg@winecompliancespecialists.com",
     "Website": "www.winecompliancespecialists.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "THE GAINEY VINEYARD",
@@ -1856,7 +1934,7 @@
     "Phone": "(805) 688-0558",
     "Email": "juli@gaineyvineyard.com",
     "Website": "www.gaineyvineyard.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "MATTHEW RORICK WINES INC",
@@ -1869,7 +1947,7 @@
     "Phone": "(707) 258-5528",
     "Email": "office@matthewrorick.com",
     "Website": "www.matthewrorick.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "KEUKA SPRING VINEYARDS LLC",
@@ -1882,7 +1960,7 @@
     "Phone": "(315) 536-3147",
     "Email": "uncork@keukaspringwinery.com",
     "Website": "www.keukaspringwinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "CREW WINE COMPANY LLC",
@@ -1895,7 +1973,7 @@
     "Phone": "(530) 662-1032",
     "Email": "lgiguiere@matchbookwines.com",
     "Website": "www.matchbookwines.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "CARNEROS WINE COMPANY INC",
@@ -1908,7 +1986,20 @@
     "Phone": "(707) 253-9464",
     "Email": "ddrews@mahoneyvineyards.com",
     "Website": "www.mahoneyvineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
+  },
+  {
+    "Name": "CADUCEUS CELLARS LLC",
+    "AddressLine1": "4626 OLD HWY",
+    "AddressLine2": null,
+    "CityStateZipRaw": "CAMP VERDE AZ, 86322",
+    "City": "CAMP VERDE",
+    "State": "AZ",
+    "Zip": "86322",
+    "Phone": "(925) 383-4548",
+    "Email": "cadcompliance@gmail.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "RUBIN WINES LLC",
@@ -1921,7 +2012,7 @@
     "Phone": "(505) 977-1010",
     "Email": "grapevinecompliance@q.com",
     "Website": "www.q.com",
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "CHAIM LLC",
@@ -1934,7 +2025,7 @@
     "Phone": "(707) 528-8500",
     "Email": "chaim@dhwinecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "BRASSFIELD ESTATE WINERY LLC",
@@ -1947,7 +2038,7 @@
     "Phone": "(707) 528-8500",
     "Email": "brassfield@dhwinecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:12 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "QUPE WINE CELLARS LLC",
@@ -1960,7 +2051,7 @@
     "Phone": "(805) 239-4502",
     "Email": "TS_Qupe@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "TWOMEY CELLARS LLC",
@@ -1973,7 +2064,7 @@
     "Phone": "(707) 578-7807",
     "Email": "paula@complianceservice.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "DUNN VINEYARDS LLC",
@@ -1986,7 +2077,7 @@
     "Phone": "(707) 965-3642",
     "Email": "dunnvineyards@sbcglobal.net",
     "Website": "www.sbcglobal.net",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:54 PM"
   },
   {
     "Name": "CARLISLE WINERY AND VINEYARDS LLC",
@@ -1999,7 +2090,20 @@
     "Phone": "(707) 431-7425",
     "Email": "gloriafrench@comcast.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "VIADER VINEYARDS & WINERY",
+    "AddressLine1": "1120 DEER PARK RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "DEER PARK CA, 94576",
+    "City": "DEER PARK",
+    "State": "CA",
+    "Zip": "94576",
+    "Phone": "(707) 963-3816",
+    "Email": "janet@viader.com",
+    "Website": "www.viader.com",
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "GROTH VINEYARDS AND WINERY LLC",
@@ -2012,7 +2116,46 @@
     "Phone": "(707) 944-0290",
     "Email": "gnewman@grothwines.com",
     "Website": "www.grothwines.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "VENGE VINEYARDS INC",
+    "AddressLine1": "4708 SILVERADO TRAIL",
+    "AddressLine2": null,
+    "CityStateZipRaw": "CALISTOGA CA, 94574",
+    "City": "CALISTOGA",
+    "State": "CA",
+    "Zip": "94574",
+    "Phone": "(707) 942-9100",
+    "Email": "kirk@vengevineyards.com",
+    "Website": "www.vengevineyards.com",
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "PHILIP TOGNI VINEYARD LP",
+    "AddressLine1": "3780 SPRING MOUNTAIN RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "ST HELENA CA, 94574",
+    "City": "ST HELENA",
+    "State": "CA",
+    "Zip": "94574",
+    "Phone": "(707) 963-3731",
+    "Email": "tognivyd@wildblue.net",
+    "Website": "www.wildblue.net",
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "GEORGE HENDRY",
+    "AddressLine1": "3104 REDWOOD RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "NAPA CA, 94558-9706",
+    "City": "NAPA",
+    "State": "CA",
+    "Zip": "94558",
+    "Phone": "(707) 284-2828",
+    "Email": "licensing@compliance-connect.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "ROMBAUER VINEYARDS",
@@ -2025,7 +2168,7 @@
     "Phone": "(707) 963-6609",
     "Email": "nicolette@rombauer.com",
     "Website": "www.rombauer.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "GLENORA WINE CELLARS INC",
@@ -2038,7 +2181,176 @@
     "Phone": "(607) 243-5511",
     "Email": null,
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "COPPER CANE LLC",
+    "AddressLine1": "105 ZINFANDEL LN",
+    "AddressLine2": null,
+    "CityStateZipRaw": "SAINT HELENA CA, 94574-1631",
+    "City": "SAINT HELENA",
+    "State": "CA",
+    "Zip": "94574",
+    "Phone": "(800) 400-1353",
+    "Email": "coppercane@csa-compliance.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "HEITZ WINE CELLARS",
+    "AddressLine1": "500 TAPLIN RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "ST HELENA CA, 94574",
+    "City": "ST HELENA",
+    "State": "CA",
+    "Zip": "94574",
+    "Phone": "(707) 963-3542",
+    "Email": "ptotten@heitzcellar.com",
+    "Website": "www.heitzcellar.com",
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "KNAPP FARMS INC",
+    "AddressLine1": "2770 COUNTY RD 128",
+    "AddressLine2": null,
+    "CityStateZipRaw": "ROMULUS NY, 14541-9757",
+    "City": "ROMULUS",
+    "State": "NY",
+    "Zip": "14541",
+    "Phone": "(607) 243-5511",
+    "Email": "info@glenora.com",
+    "Website": "www.glenora.com",
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "KEN WRIGHT CELLARS",
+    "AddressLine1": "236 N KUTCH ST",
+    "AddressLine2": null,
+    "CityStateZipRaw": "CARLTON OR, 97111",
+    "City": "CARLTON",
+    "State": "OR",
+    "Zip": "97111",
+    "Phone": "(503) 852-7070",
+    "Email": "amanda@kenwrightcellars.com",
+    "Website": "www.kenwrightcellars.com",
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "GARGIULO VINEYARD",
+    "AddressLine1": "575 OAKVILLE CROSSROAD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "OAKVILLE CA, 94558",
+    "City": "OAKVILLE",
+    "State": "CA",
+    "Zip": "94558",
+    "Phone": "(866) 661-4190",
+    "Email": "karyn@wineindustrycompliance.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "MILLBROOK WINERY INC",
+    "AddressLine1": "26 WING  RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "MILLBROOK NY, 12545",
+    "City": "MILLBROOK",
+    "State": "NY",
+    "Zip": "12545",
+    "Phone": "(845) 677-8383",
+    "Email": "sales@millwine.com",
+    "Website": "www.millwine.com",
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "RASA VINEYARDS LLC",
+    "AddressLine1": "4122 POWERLINE RD",
+    "AddressLine2": "PO BOX 3266",
+    "CityStateZipRaw": "WALLA WALLA WA, 99362-3266",
+    "City": "WALLA WALLA",
+    "State": "WA",
+    "Zip": "99362",
+    "Phone": "(509) 876-2461",
+    "Email": "karla@wcsofww.com",
+    "Website": "www.wcsofww.com",
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "LANGETWINS WINE COMPANY INC",
+    "AddressLine1": "1525 E JAHANT RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "ACAMPO CA, 95220",
+    "City": "ACAMPO",
+    "State": "CA",
+    "Zip": "95220",
+    "Phone": "(505) 977-1010",
+    "Email": "grapevinecompliance@q.com",
+    "Website": "www.q.com",
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "VERMEIL WINE GROUP LLC",
+    "AddressLine1": "1251 TUBBS LANE",
+    "AddressLine2": null,
+    "CityStateZipRaw": "CALISTOGA CA, 94515",
+    "City": "CALISTOGA",
+    "State": "CA",
+    "Zip": "94515",
+    "Phone": "(707) 284-2828",
+    "Email": "licensing@compliance-connect.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "LIEB CELLARS LLC",
+    "AddressLine1": "35 COX NECK RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "MATTITUCK NY, 11952",
+    "City": "MATTITUCK",
+    "State": "NY",
+    "Zip": "11952",
+    "Phone": null,
+    "Email": "ami@liebcellars.com",
+    "Website": "www.liebcellars.com",
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "LAMBERT BRIDGE WINERY INC",
+    "AddressLine1": "4085 W DRY CREEK RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "HEALDSBURG CA, 95448-9117",
+    "City": "HEALDSBURG",
+    "State": "CA",
+    "Zip": "95448",
+    "Phone": "(707) 431-4668",
+    "Email": "mariko@lambertbridge.com",
+    "Website": "www.lambertbridge.com",
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "OLIVEROS VINEYARD LLC",
+    "AddressLine1": "1271 TROYER RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "MCALISTERVILLE PA, 17049-8080",
+    "City": "MCALISTERVILLE",
+    "State": "PA",
+    "Zip": "17049",
+    "Phone": null,
+    "Email": "mbyurkovic@verizon.net",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "MEREDITH VINEYARD ESTATE INC",
+    "AddressLine1": "2959 GRAVENSTEIN HWY N",
+    "AddressLine2": null,
+    "CityStateZipRaw": "SEBASTOPOL CA, 95472-6401",
+    "City": "SEBASTOPOL",
+    "State": "CA",
+    "Zip": "95472",
+    "Phone": "(707) 823-7466",
+    "Email": "marcia@merryedwards.com",
+    "Website": "www.merryedwards.com",
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "LATITUDE BEVERAGE COMPANY",
@@ -2051,7 +2363,20 @@
     "Phone": "(707) 528-8500",
     "Email": "latitude@dhwinecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "A W DIRECT LLC",
+    "AddressLine1": "980 AIRWAY CRT",
+    "AddressLine2": null,
+    "CityStateZipRaw": "SANTA ROSA CA, 95403-2000",
+    "City": "SANTA ROSA",
+    "State": "CA",
+    "Zip": "95403",
+    "Phone": "(707) 200-2859",
+    "Email": null,
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "ABREU VINEYARDS INC",
@@ -2064,7 +2389,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "MOUNTAIN PEAK VINEYARDS LLC",
@@ -2077,7 +2402,7 @@
     "Phone": "(707) 528-8500",
     "Email": "mtnpeak@dhwinecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "HIWASSEE ACRES, LLC",
@@ -2090,7 +2415,7 @@
     "Phone": null,
     "Email": "KMB3552@AOL.COM",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "REVANA FAMILY PARTNERS",
@@ -2103,7 +2428,7 @@
     "Phone": "(503) 318-9312",
     "Email": "sampbooking@gmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "A V V WINERY COMPANY LLC",
@@ -2116,7 +2441,7 @@
     "Phone": "(541) 535-7492",
     "Email": "marypow@charter.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "ALLEGRO WINE COMPANY, LLC",
@@ -2129,7 +2454,7 @@
     "Phone": "(717) 927-9148",
     "Email": "INFO@ALLEGROWINES.COM",
     "Website": "www.allegrowines.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "ALPHA & OMEGA WINERY LLC",
@@ -2142,7 +2467,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "AMERICANA VINEYARDS & WINERY",
@@ -2155,7 +2480,7 @@
     "Phone": "(607) 387-6801",
     "Email": "wineinny@aol.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "ANDERSON'S CONN VALLEY WINERY INC",
@@ -2168,7 +2493,7 @@
     "Phone": "(707) 578-7807",
     "Email": "paula@complianceservice.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "AWG LTD",
@@ -2181,7 +2506,20 @@
     "Phone": "(707) 287-3532",
     "Email": "andretti6662@gmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "ANDREW MURRAY LLC",
+    "AddressLine1": "5249 FOXEN CANYON RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "LOS OLIVOS CA, 93441",
+    "City": "LOS OLIVOS",
+    "State": "CA",
+    "Zip": "93441",
+    "Phone": "(805) 686-8351",
+    "Email": "valallen@gmail.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "ANOMALY VINEYARDS LLC",
@@ -2194,7 +2532,7 @@
     "Phone": "(707) 967-8448",
     "Email": "karyn@wineindustrycompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "PINE RIDGE WINERY LLC",
@@ -2207,7 +2545,7 @@
     "Phone": "(707) 260-0922",
     "Email": "jeanette.wemette@crimsonwinegroup.com",
     "Website": "www.crimsonwinegroup.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "ARISTA WINES LLC",
@@ -2220,7 +2558,7 @@
     "Phone": "(707) 473-0606",
     "Email": "frances@aristawinery.com",
     "Website": "www.aristawinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "ARMSTRONG VALLEY VINEYARD & WINERY",
@@ -2233,7 +2571,7 @@
     "Phone": "(954) 290-1399",
     "Email": "INFO@ARMSTRONGVALLEYWINERY.COM",
     "Website": "www.armstrongvalleywinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "JACKSON FAMILY WINES INC",
@@ -2246,7 +2584,7 @@
     "Phone": "(707) 547-4798",
     "Email": "Dezerlee.Reeves@jfwmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "CODORNIU NAPA INC",
@@ -2259,7 +2597,7 @@
     "Phone": "(707) 578-7807",
     "Email": "paula@complianceservice.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "ATWATER ESTATE VINEYARDS LLC",
@@ -2272,7 +2610,7 @@
     "Phone": "(607) 546-8463",
     "Email": "denise@atwatervineyards.com",
     "Website": "www.atwatervineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "AUBERT WINEGROWING INCORPORATED",
@@ -2285,7 +2623,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "AUTEUR WINES LLC",
@@ -2298,7 +2636,7 @@
     "Phone": null,
     "Email": "LAURA@AUTEURWINES.COM",
     "Website": "www.auteurwines.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "26 BRIX LLC",
@@ -2311,7 +2649,7 @@
     "Phone": null,
     "Email": "coastalcompliance@comcast.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "ARCHANGEL INVESTMENTS LLC",
@@ -2324,7 +2662,20 @@
     "Phone": "(707) 944-9261",
     "Email": "compliance@baldaccivineyards.com",
     "Website": "www.baldaccivineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "BARGETTOS SANTA CRUZ WINERY",
+    "AddressLine1": "3535 N MAIN ST",
+    "AddressLine2": null,
+    "CityStateZipRaw": "SOQUEL CA, 95073",
+    "City": "SOQUEL",
+    "State": "CA",
+    "Zip": "95073",
+    "Phone": "(831) 475-2258",
+    "Email": "cshields@bargetto.com",
+    "Website": "www.bargetto.com",
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "BARNETT VINEYARDS LP",
@@ -2337,7 +2688,7 @@
     "Phone": "(707) 963-7075",
     "Email": "mfisher@barnettvineyards.com",
     "Website": "www.barnettvineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "BECKER FARMS INC",
@@ -2350,7 +2701,7 @@
     "Phone": "(830) 644-2681",
     "Email": "wineclub@beckerwines.com",
     "Website": "www.beckerwines.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "THOMAS BECKMEN",
@@ -2363,7 +2714,20 @@
     "Phone": "(607) 546-8463",
     "Email": "DENISE@ATWATERVINEYARDS.COM",
     "Website": "www.atwatervineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "BEDELL NORTH FORK LLC",
+    "AddressLine1": "36225 MAIN RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "CUTCHOGUE NY, 11935",
+    "City": "CUTCHOGUE",
+    "State": "NY",
+    "Zip": "11935",
+    "Phone": null,
+    "Email": "Trent@bedellcellars.com",
+    "Website": "www.bedellcellars.com",
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "BEE KIND WINERY LLC",
@@ -2376,7 +2740,7 @@
     "Phone": "(814) 762-8210",
     "Email": "INFO@BEEKINDWINERY.COM",
     "Website": "www.beekindwinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "FN CELLARS LLC",
@@ -2389,7 +2753,7 @@
     "Phone": "(707) 967-9600",
     "Email": "ssmith@fn-mail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "ADAMS WINERY LLC",
@@ -2402,7 +2766,7 @@
     "Phone": "(508) 648-2505",
     "Email": "coastalcompliance@comcast.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "BENNETT LANE WINERY LLC",
@@ -2415,7 +2779,7 @@
     "Phone": "(707) 942-6684",
     "Email": "compliance@bennettlane.com",
     "Website": "www.bennettlane.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "BENOVIA WINERY LLC",
@@ -2428,7 +2792,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "BERGSTROM WINES LLC",
@@ -2441,7 +2805,7 @@
     "Phone": "(503) 554-0463",
     "Email": "bergstrom@winecompliancespecialists.com",
     "Website": "www.winecompliancespecialists.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "BERNARDUS LLC",
@@ -2454,7 +2818,7 @@
     "Phone": null,
     "Email": "bernardus@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "BLAIR VINEYARDS, LLC",
@@ -2467,7 +2831,7 @@
     "Phone": "(610) 683-8463",
     "Email": "MBLAIR@BLAIRVINEYARDS.COM",
     "Website": "www.blairvineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "BLANKIET ESTATE LLC",
@@ -2480,7 +2844,7 @@
     "Phone": "(707) 963-2001",
     "Email": "Julie@Blankiet.com",
     "Website": "www.blankiet.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "BAW INC",
@@ -2493,7 +2857,7 @@
     "Phone": "(917) 605-0466",
     "Email": "alexandra.guevara@blueapron.com",
     "Website": "www.blueapron.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "BLUE MOUNTAIN VINEYARDS & CELLARS LTD",
@@ -2506,7 +2870,33 @@
     "Phone": "(610) 298-3068",
     "Email": "BMVSALES@BMVC.COM",
     "Website": "www.bmvc.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "BONNY DOON WINERY INC",
+    "AddressLine1": "328 INGALLS ST",
+    "AddressLine2": null,
+    "CityStateZipRaw": "SANTA CRUZ CA, 95060",
+    "City": "SANTA CRUZ",
+    "State": "CA",
+    "Zip": "95060",
+    "Phone": "(831) 425-3625",
+    "Email": "katieo@bonnydoonvineyard.com",
+    "Website": "www.bonnydoonvineyard.com",
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "BOUCHAINE VINEYARDS INC",
+    "AddressLine1": "1075 BUCHLI STATION RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "NAPA CA, 94559",
+    "City": "NAPA",
+    "State": "CA",
+    "Zip": "94559",
+    "Phone": "(800) 654-9463",
+    "Email": "faith@westarcompliance.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "BOYDS CARDINAL HOLLOW WINERY CORP",
@@ -2519,7 +2909,7 @@
     "Phone": "(215) 661-9580",
     "Email": "cardinalwinery@aol.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "VINTAGE WINE ESTATES INC",
@@ -2532,7 +2922,7 @@
     "Phone": "(707) 265-6331",
     "Email": "lyz@vintnersaccounting.com",
     "Website": "www.vintnersaccounting.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "BRESSLER VINEYARDS LLC",
@@ -2545,7 +2935,7 @@
     "Phone": "(866) 661-4190",
     "Email": "karyn@wineindustrycompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "BRIAR VALLEY VINEYARDS AND WINERY INC",
@@ -2558,7 +2948,33 @@
     "Phone": "(814) 623-0900",
     "Email": "BRIARVALLEY@EMBARQMAIL.COM",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "BRITT HILL LLC",
+    "AddressLine1": "829 NE 5TH ST",
+    "AddressLine2": null,
+    "CityStateZipRaw": "MCMINNVILLE OR, 97128",
+    "City": "MCMINNVILLE",
+    "State": "OR",
+    "Zip": "97128",
+    "Phone": "(503) 989-2507",
+    "Email": "ellen@brittanvineyards.com",
+    "Website": "www.brittanvineyards.com",
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "CONTINENTAL VINEYARDS LLC",
+    "AddressLine1": "5625 EAST HWY 46",
+    "AddressLine2": null,
+    "CityStateZipRaw": "PASO ROBLES CA, 93446-6301",
+    "City": "PASO ROBLES",
+    "State": "CA",
+    "Zip": "93446",
+    "Phone": "(805) 239-2562",
+    "Email": "Continental@compli-beverage.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "THE MORNE WINE COMPANY",
@@ -2571,7 +2987,20 @@
     "Phone": "(805) 239-4502",
     "Email": "Brooks.Wines@Compli-Beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "BROWN ESTATE VINEYARDS LLC",
+    "AddressLine1": "3233 SAGE CANYON RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "ST HELENA CA, 94574",
+    "City": "ST HELENA",
+    "State": "CA",
+    "Zip": "94574",
+    "Phone": "(866) 661-4190",
+    "Email": "melissa@wineindustrycompliance.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "BRUTOCAO CELLARS LP",
@@ -2584,7 +3013,20 @@
     "Phone": "(707) 528-8500",
     "Email": "BRUTOCAO@DHWINECOMPLIANCE.COM",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "BRYANT VINEYARDS LTD",
+    "AddressLine1": "1567 SAGE CANYON RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "ST HELENA CA, 94574",
+    "City": "ST HELENA",
+    "State": "CA",
+    "Zip": "94574",
+    "Phone": "(866) 661-4190",
+    "Email": "karyn@wineindustrycompliance.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "WILLIAM WARNER",
@@ -2597,7 +3039,7 @@
     "Phone": "(717) 834-5606",
     "Email": "CONTACTUS@BUDDYBOYWINERY.COM",
     "Website": "www.buddyboywinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "BULLY HILL VINEYARDS INC",
@@ -2610,7 +3052,7 @@
     "Phone": "(607) 868-3610",
     "Email": "mainoffice@bullyhill.com",
     "Website": "www.bullyhill.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "ROBIN'S VINES LLC",
@@ -2623,7 +3065,7 @@
     "Phone": "(607) 869-9760",
     "Email": "marcia@buttonwoodgrove.com",
     "Website": "www.buttonwoodgrove.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "JACKSON FAMILY WINES INC",
@@ -2636,7 +3078,7 @@
     "Phone": "(707) 547-4798",
     "Email": "Dezerlee.Reeves@jfwmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "CAIN CELLARS INC",
@@ -2649,7 +3091,33 @@
     "Phone": "(707) 252-4725",
     "Email": "jw1@winecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "CALERA WINE COMPANY LP",
+    "AddressLine1": "11300 CIENEGA RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "HOLLISTER CA, 95023-9159",
+    "City": "HOLLISTER",
+    "State": "CA",
+    "Zip": "95023",
+    "Phone": "(831) 637-9170",
+    "Email": "lindsay@calerawine.com",
+    "Website": "www.calerawine.com",
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
+  },
+  {
+    "Name": "CALLAWAY TEMECULA LP",
+    "AddressLine1": "32720 RANCHO CALIFORNIA RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "TEMECULA CA, 92591",
+    "City": "TEMECULA",
+    "State": "CA",
+    "Zip": "92591",
+    "Phone": "(951) 676-4001",
+    "Email": "regina_smith@callawaywinery.com",
+    "Website": "www.callawaywinery.com",
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "JACKSON FAMILY WINES INC",
@@ -2662,7 +3130,7 @@
     "Phone": "(707) 547-4798",
     "Email": "Dezerlee.Reeves@jfwmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "CLARA STREET COMPANY",
@@ -2675,7 +3143,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "CARACCIOLI CELLARS INC",
@@ -2688,7 +3156,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "JACKSON FAMILY WINES INC",
@@ -2701,7 +3169,7 @@
     "Phone": "(707) 547-4798",
     "Email": "Dezerlee.Reeves@jfwmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "FIVE VINES LLC",
@@ -2714,7 +3182,7 @@
     "Phone": "(866) 661-4190",
     "Email": "tami.ferrero@wineindustrycompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "GENESEO PARTNERS LP",
@@ -2727,7 +3195,7 @@
     "Phone": "(805) 239-1730",
     "Email": "info@casswines.com",
     "Website": "www.casswines.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "CAYMUS VINEYARDS INC",
@@ -2740,7 +3208,7 @@
     "Phone": "(805) 239-4502",
     "Email": "Caymus@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "CAYUSE WINERY LLC",
@@ -2753,7 +3221,7 @@
     "Phone": "(509) 526-0686",
     "Email": "INFO@CAYUSEVINEYARDS.COM",
     "Website": "www.cayusevineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "FOLEY FAMILY WINES, INC.",
@@ -2766,7 +3234,7 @@
     "Phone": "(707) 708-7641",
     "Email": "compliance@foleyfamilywines.com",
     "Website": "www.foleyfamilywines.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "FOLEY FAMILY WINES, INC.",
@@ -2779,7 +3247,7 @@
     "Phone": "(707) 708-7641",
     "Email": "compliance@foleyfamilywines.com",
     "Website": "www.foleyfamilywines.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:55 PM"
   },
   {
     "Name": "CHAPPELLET WINERY INC",
@@ -2792,7 +3260,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "SULPHUR SPRINGS WINERY LLC",
@@ -2805,7 +3273,7 @@
     "Phone": "(707) 265-0233",
     "Email": "BETH@THEWACCO.COM",
     "Website": "www.thewacco.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "RTB MANAGEMENT",
@@ -2818,7 +3286,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "STANDING JOURNEY LLC",
@@ -2831,7 +3299,7 @@
     "Phone": "(800) 400-1353",
     "Email": "chateaumontelena@csa-compliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "CHATEAU MORRISETTE INC",
@@ -2844,7 +3312,7 @@
     "Phone": "(540) 593-2865",
     "Email": "jackiek@thedogs.com",
     "Website": "www.thedogs.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "CHATEAU POTELLE LLC",
@@ -2857,7 +3325,7 @@
     "Phone": "(707) 291-8828",
     "Email": "Tammie@chateaupotelle.com",
     "Website": "www.chateaupotelle.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "SORRENTI ORCHARDS, INC.",
@@ -2870,7 +3338,7 @@
     "Phone": "(570) 992-2255",
     "Email": "CVWINE@EPIX.NET",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "CHIARELLO FAMILY VINEYARDS LLC",
@@ -2883,7 +3351,20 @@
     "Phone": "(866) 661-4190",
     "Email": "brenda@wineindustrycompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
+  },
+  {
+    "Name": "KRAUSE FAMILY CELLARS LLC",
+    "AddressLine1": "107 E 44TH ST",
+    "AddressLine2": null,
+    "CityStateZipRaw": "GARDEN CITY ID, 83714",
+    "City": "GARDEN CITY",
+    "State": "ID",
+    "Zip": "83714",
+    "Phone": "(208) 376-4023",
+    "Email": "info@cinderwines.com",
+    "Website": "www.cinderwines.com",
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "DOMAINE M. B. LLC",
@@ -2896,7 +3377,7 @@
     "Phone": "(805) 239-4502",
     "Email": "domaine.m.b@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "CLIF BAR FAMILY WINERY & FARM LLC",
@@ -2909,7 +3390,7 @@
     "Phone": "(866) 661-4190",
     "Email": "karyn@wineindustrycompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "TWIN PEAKS WINERY INC",
@@ -2922,7 +3403,7 @@
     "Phone": "(707) 944-8642",
     "Email": "compliance@ledefamilywines.com",
     "Website": "www.ledefamilywines.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "",
@@ -2935,7 +3416,7 @@
     "Phone": "(508) 648-2505",
     "Email": "coastalcompliance@comcast.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "CLOS DU VAL WINE COMPANY LTD",
@@ -2948,7 +3429,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "CLOS LACHANCE WINES LLC",
@@ -2961,7 +3442,7 @@
     "Phone": "(707) 284-2828",
     "Email": "LICENSING@COMPLIANCE-CONNECT.COM",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "VINTAGE WINE ESTATES INC",
@@ -2974,7 +3455,7 @@
     "Phone": "(707) 265-6331",
     "Email": "lyz@vintnersaccounting.com",
     "Website": "www.vintnersaccounting.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "CLOVER HILL ENTERPRISES, INC.",
@@ -2987,7 +3468,7 @@
     "Phone": "(610) 395-2468",
     "Email": "PAT@CLOVERHILLWINERY.COM",
     "Website": "www.cloverhillwinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "COL SOLARE, LLP",
@@ -3000,7 +3481,7 @@
     "Phone": "(425) 415-3733",
     "Email": "compliance@smwe.com",
     "Website": "www.smwe.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "STE MICHELLE WINE ESTATES LTD",
@@ -3013,7 +3494,7 @@
     "Phone": null,
     "Email": "compliance@smwe.com",
     "Website": "www.smwe.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "STE MICHELLE WINE ESTATES LTD",
@@ -3026,7 +3507,7 @@
     "Phone": "(425) 415-3733",
     "Email": "compliance@smwe.com",
     "Website": "www.smwe.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "CONNEAUT CELLARS, INC.",
@@ -3039,7 +3520,20 @@
     "Phone": "(814) 382-3999",
     "Email": "INFO@CONNEAUTCELLARS.COM",
     "Website": "www.conneautcellars.com",
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
+  },
+  {
+    "Name": "ESCALERA-BOULET LLC",
+    "AddressLine1": "2643 INDUSTRIAL PKY",
+    "AddressLine2": null,
+    "CityStateZipRaw": "SANTA MARIA CA, 93455",
+    "City": "SANTA MARIA",
+    "State": "CA",
+    "Zip": "93455",
+    "Phone": "(530) 432-2262",
+    "Email": "brett@sangerwines.com",
+    "Website": "www.sangerwines.com",
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "TMR WINE COMPANY LLC",
@@ -3052,7 +3546,7 @@
     "Phone": "(866) 661-4190",
     "Email": "karyn@wineindustrycompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "CONUNDRUM WINERY LLC",
@@ -3065,7 +3559,7 @@
     "Phone": null,
     "Email": "Conundrum@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "COOL HAND VINEYARDS LLC",
@@ -3078,7 +3572,7 @@
     "Phone": "(866) 661-4190",
     "Email": "melissa@wineindustrycompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "COOPER VINEYARDS LLC",
@@ -3091,7 +3585,7 @@
     "Phone": "(540) 894-5474",
     "Email": "dmdrillock@aol.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "COOPER WINE COMPANY LLC",
@@ -3104,7 +3598,7 @@
     "Phone": "(509) 588-2667",
     "Email": "dru.cwc@gmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "COR CELLARS LLC",
@@ -3117,7 +3611,7 @@
     "Phone": "(503) 318-9312",
     "Email": "sampbooking@gmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:13 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "WASHINGTON VINTNERS LLC",
@@ -3130,7 +3624,7 @@
     "Phone": "(509) 876-2461",
     "Email": "lindsey@wcsofww.com",
     "Website": "www.wcsofww.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "CORNERSTONE CELLARS LLC",
@@ -3143,7 +3637,7 @@
     "Phone": "(707) 528-8500",
     "Email": "cornerstone@dhwinecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "VINTAGE WINE ESTATES INC",
@@ -3156,7 +3650,20 @@
     "Phone": "(707) 265-6331",
     "Email": "lyz@vintnersaccounting.com",
     "Website": "www.vintnersaccounting.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
+  },
+  {
+    "Name": "CRISTOM VINEYARDS INC",
+    "AddressLine1": "6905 SPRING VALLEY RD NW",
+    "AddressLine2": null,
+    "CityStateZipRaw": "SALEM OR, 97304-9779",
+    "City": "SALEM",
+    "State": "OR",
+    "Zip": "97304",
+    "Phone": "(503) 375-3068",
+    "Email": "jeri@cristomvineyards.com",
+    "Website": "www.cristomvineyards.com",
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "SALVATORE CULLARI KATHRYN CULLARI",
@@ -3169,7 +3676,7 @@
     "Phone": "(717) 533-7131",
     "Email": "SCULLARI@SPRYNET.COM",
     "Website": "www.sprynet.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "CUVAISON INC",
@@ -3182,7 +3689,7 @@
     "Phone": "(707) 942-2450",
     "Email": "melody@cuvaison.com",
     "Website": "www.cuvaison.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "DAILY CELLARS LLC",
@@ -3195,7 +3702,7 @@
     "Phone": "(707) 252-4725",
     "Email": "jw1@winecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "DAMIANI WINE CELLARS LLC",
@@ -3208,7 +3715,7 @@
     "Phone": "(607) 227-9587",
     "Email": "glenn@damianiwinecellars.com",
     "Website": "www.damianiwinecellars.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "DANA ESTATES INC",
@@ -3221,7 +3728,20 @@
     "Phone": "(866) 661-4190",
     "Email": "karyn@wineindustrycompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
+  },
+  {
+    "Name": "DARCIE KENT LLC",
+    "AddressLine1": "7000 TESLA RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "LIVERMOORE CA, 94550",
+    "City": "LIVERMOORE",
+    "State": "CA",
+    "Zip": "94550",
+    "Phone": null,
+    "Email": "darcie.kent@compli-beverage.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "DASHE WINE CELLARS LLC",
@@ -3234,7 +3754,7 @@
     "Phone": "(510) 452-1800",
     "Email": "monica@dashecellars.com",
     "Website": "www.dashecellars.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "DAVERO SONOMA INC",
@@ -3247,7 +3767,20 @@
     "Phone": "(707) 431-8000",
     "Email": "bookkeeping@davero.com",
     "Website": "www.davero.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
+  },
+  {
+    "Name": "DAVIS ESTATES LLC",
+    "AddressLine1": "4060 SILVERADO TRAIL",
+    "AddressLine2": null,
+    "CityStateZipRaw": "CALISTOGA CA, 94515-9650",
+    "City": "CALISTOGA",
+    "State": "CA",
+    "Zip": "94515",
+    "Phone": "(707) 942-0700",
+    "Email": "trishas@davisestates.com",
+    "Website": "www.davisestates.com",
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "DELILLE CELLARS, LLC",
@@ -3260,7 +3793,7 @@
     "Phone": "(425) 489-0544",
     "Email": "sharon@delillecellars.com",
     "Website": "www.delillecellars.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "INVESTORS OF AMERICA LP",
@@ -3273,7 +3806,7 @@
     "Phone": "(805) 697-7299",
     "Email": "kathy@beveragewise.com",
     "Website": "www.beveragewise.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "DOMAINE CARNEROS LTD",
@@ -3286,7 +3819,85 @@
     "Phone": "(707) 266-5133",
     "Email": "jdrake@domainecarneros.com",
     "Website": "www.domainecarneros.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
+  },
+  {
+    "Name": "DOMAINE CHANDON INC",
+    "AddressLine1": "ONE CALIFORNIA DR",
+    "AddressLine2": null,
+    "CityStateZipRaw": "YOUNTVILLE  CA, 94599",
+    "City": "YOUNTVILLE ",
+    "State": "CA",
+    "Zip": "94599",
+    "Phone": "(707) 944-8844",
+    "Email": "domaine.chandon@compli-beverage.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
+  },
+  {
+    "Name": "DOMAINE DROUHIN OREGAN INC",
+    "AddressLine1": "6750 NE BREYMAN ORCHARDS RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "DAYTON OR, 97114-7219",
+    "City": "DAYTON",
+    "State": "OR",
+    "Zip": "97114",
+    "Phone": "(503) 864-2700",
+    "Email": "chelsea@domainedrouhin.com",
+    "Website": "www.domainedrouhin.com",
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
+  },
+  {
+    "Name": "DONATI FAMILY VINEYARD INC",
+    "AddressLine1": "2720 OAKVIEW RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "TEMPLETON CA, 93465-8798",
+    "City": "TEMPLETON",
+    "State": "CA",
+    "Zip": "93465",
+    "Phone": "(408) 395-7724",
+    "Email": "1STIPP@DONATIFAMILYVINEYARD.CO",
+    "Website": "www.donatifamilyvineyard.co",
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
+  },
+  {
+    "Name": "DONELAN FAMILY WINE CELLARS LLC",
+    "AddressLine1": "3352 COFFEY LANE",
+    "AddressLine2": null,
+    "CityStateZipRaw": "SANTA ROSA CA, 95403",
+    "City": "SANTA ROSA",
+    "State": "CA",
+    "Zip": "95403",
+    "Phone": "(866) 661-4190",
+    "Email": "karyn@wineindustrycompliance.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
+  },
+  {
+    "Name": "DOUBLE CANYON VINEYARDS LLC",
+    "AddressLine1": "3100 LEE RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "PROSSER WA, 99350-6572",
+    "City": "PROSSER",
+    "State": "WA",
+    "Zip": "99350",
+    "Phone": "(707) 260-0922",
+    "Email": "jeanette.wemette@crimsonwinegroup.com",
+    "Website": "www.crimsonwinegroup.com",
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
+  },
+  {
+    "Name": "DRAGONETTE CELLARS LLC",
+    "AddressLine1": "55 LOS PADRES WAY STE 1",
+    "AddressLine2": null,
+    "CityStateZipRaw": "BUELLTON CA, 93427-9581",
+    "City": "BUELLTON",
+    "State": "CA",
+    "Zip": "93427",
+    "Phone": "(805) 688-8440",
+    "Email": "info@dragonettecellars.com",
+    "Website": "www.dragonettecellars.com",
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "DRINKS LICENSING LLC",
@@ -3299,7 +3910,7 @@
     "Phone": null,
     "Email": "wine.insider@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "DUCKHORN WINE COMPANY",
@@ -3312,7 +3923,20 @@
     "Phone": "(707) 963-7108",
     "Email": null,
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
+  },
+  {
+    "Name": "DUNHAM CELLARS LLC",
+    "AddressLine1": "150 E BOEING AV",
+    "AddressLine2": null,
+    "CityStateZipRaw": "WALLA WALLA WA, 99362-7400",
+    "City": "WALLA WALLA",
+    "State": "WA",
+    "Zip": "99362",
+    "Phone": "(509) 529-4685",
+    "Email": "wine@dunhamcellars.com",
+    "Website": "www.dunhamcellars.com",
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "D & J F CELLARS",
@@ -3325,7 +3949,7 @@
     "Phone": "(503) 538-3199",
     "Email": "lisaj@duckpondcellars.com",
     "Website": "www.duckpondcellars.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "DUPLIN WINE CELLARS INC",
@@ -3338,7 +3962,7 @@
     "Phone": "(910) 289-3888",
     "Email": "INFO@DUPLINWINERY.COM",
     "Website": "www.duplinwinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "SEBASTOPOL VINEYARDS & WINERY CORP.",
@@ -3351,7 +3975,7 @@
     "Phone": null,
     "Email": "LICENSING@COMPLIANCE-CONNECT.COM",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "MADISON COUNTY WINES LLC",
@@ -3364,7 +3988,7 @@
     "Phone": "(202) 527-0161",
     "Email": "doneva@earlymountain.com",
     "Website": "www.earlymountain.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "EBERLE WINERY LTD",
@@ -3377,7 +4001,7 @@
     "Phone": "(805) 238-9607",
     "Email": "trevor@eberlewinery.com",
     "Website": "www.eberlewinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "EHREN JORDAN WINE CELLARS LLC",
@@ -3390,7 +4014,7 @@
     "Phone": "(866) 661-4190",
     "Email": "karyn@wineindustrycompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "HEMISPHERE WINE COMPANY INC",
@@ -3403,7 +4027,20 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
+  },
+  {
+    "Name": "ELV-OREGON, LLC",
+    "AddressLine1": "572 PATTERSON ST NW",
+    "AddressLine2": null,
+    "CityStateZipRaw": "SALEM OR, 97304",
+    "City": "SALEM",
+    "State": "OR",
+    "Zip": "97304",
+    "Phone": "(805) 239-4502",
+    "Email": "elv.oregon@compli-beverage.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "FN CELLARS LLC",
@@ -3416,7 +4053,7 @@
     "Phone": "(707) 967-9600",
     "Email": "ssmith@fn-mail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "FOLEY FAMILY WINES, INC.",
@@ -3429,7 +4066,7 @@
     "Phone": "(707) 708-7641",
     "Email": "compliance@foleyfamilywines.com",
     "Website": "www.foleyfamilywines.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "ARMSTRONG VINEYARDS INC",
@@ -3442,7 +4079,7 @@
     "Phone": "(800) 400-1353",
     "Email": "reporting@csa-compliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "STE MICHELLE WINE ESTATES LTD",
@@ -3455,7 +4092,7 @@
     "Phone": "(425) 415-3733",
     "Email": "compliance@smwe.com",
     "Website": "www.smwe.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "PREMIUM VINTNERS LLC",
@@ -3468,7 +4105,7 @@
     "Phone": "(760) 728-8787",
     "Email": "rwood@fallbrookwinery.com",
     "Website": "www.fallbrookwinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "FN CELLARS LLC",
@@ -3481,7 +4118,7 @@
     "Phone": "(707) 967-9600",
     "Email": "ssmith@fn-mail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "FAVIA ERICKSON WINEGROWERS LLC",
@@ -3494,7 +4131,7 @@
     "Phone": "(866) 664-4190",
     "Email": "brenda@wineindustrycompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "PARKER STATION INC",
@@ -3507,7 +4144,20 @@
     "Phone": "(805) 688-1545",
     "Email": "debra@fessparker.com",
     "Website": "www.fessparker.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
+  },
+  {
+    "Name": "FIDELITAS WINES LLC",
+    "AddressLine1": "51810 N SUNSET RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "BENTON CITY WA, 99320-7508",
+    "City": "BENTON CITY",
+    "State": "WA",
+    "Zip": "99320",
+    "Phone": null,
+    "Email": "chelsea@fidelitaswines.com",
+    "Website": "www.fidelitaswines.com",
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "NPLAINVUE LLC",
@@ -3520,7 +4170,20 @@
     "Phone": "(434) 979-7105",
     "Email": "andrew@firstcolonywinery.com",
     "Website": "www.firstcolonywinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
+  },
+  {
+    "Name": "FLANEUR WINES LLC",
+    "AddressLine1": "258A N KUTCH ST",
+    "AddressLine2": null,
+    "CityStateZipRaw": "CARLTON OR, 97111",
+    "City": "CARLTON",
+    "State": "OR",
+    "Zip": "97111",
+    "Phone": "(202) 374-0828",
+    "Email": "marty@flaneurwines.com",
+    "Website": "www.flaneurwines.com",
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "FLICKERWOOD WINE CELLARS INC",
@@ -3533,7 +4196,7 @@
     "Phone": "(814) 837-7566",
     "Email": "INFO@FLICKERWOOD.COM",
     "Website": "www.flickerwood.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "FLOWERS VINEYARD AND WINERY LLC",
@@ -3546,7 +4209,7 @@
     "Phone": "(707) 284-2828",
     "Email": "INFO@FLOWERSWINERY.COM",
     "Website": "www.flowerswinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "MOUNTAIN VALLEY VINEYARDS INC",
@@ -3559,7 +4222,7 @@
     "Phone": "(707) 326-9699",
     "Email": "brent@foglinevineyards.com",
     "Website": "www.foglinevineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "FOLEY ESTATES VINEYARD & WINERY LLC",
@@ -3572,7 +4235,7 @@
     "Phone": "(707) 708-7641",
     "Email": "compliance@foleyfamilywines.com",
     "Website": "www.foleyfamilywines.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "FOLEY FAMILY WINES, INC.",
@@ -3585,7 +4248,7 @@
     "Phone": "(707) 708-7641",
     "Email": "compliance@foleyfamilywines.com",
     "Website": "www.foleyfamilywines.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "FONTANELLA WINES LLC",
@@ -3598,7 +4261,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "FOX RUN VINEYARDS INC",
@@ -3611,7 +4274,7 @@
     "Phone": "(315) 536-4616",
     "Email": "scott.osborn@foxrunvineyards.com",
     "Website": "www.foxrunvineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "FRANKLIN HILL VINEYARDS INC",
@@ -3624,7 +4287,7 @@
     "Phone": null,
     "Email": "FRANKLINHILL@ENTER.NET",
     "Website": "www.enter.net",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "JACKSON FAMILY WINES INC",
@@ -3637,7 +4300,7 @@
     "Phone": "(707) 547-4798",
     "Email": "Dezerlee.Reeves@jfwmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "FRITZ CELLARS INC",
@@ -3650,7 +4313,20 @@
     "Phone": "(707) 894-4687",
     "Email": "cfritz@fritzwinery.com",
     "Website": "www.fritzwinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
+  },
+  {
+    "Name": "GALEN GLEN WINERY LLC",
+    "AddressLine1": "255 WINTER MOUNTAIN DR",
+    "AddressLine2": null,
+    "CityStateZipRaw": "ANDREAS PA, 18211-3256",
+    "City": "ANDREAS",
+    "State": "PA",
+    "Zip": "18211",
+    "Phone": "(570) 386-3682",
+    "Email": "GRUVEEGRUNER@GALENGLEN.COM",
+    "Website": "www.galenglen.com",
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "GANDONA INC",
@@ -3663,7 +4339,7 @@
     "Phone": "(707) 967-5550",
     "Email": "compliance@gandona.com",
     "Website": "www.gandona.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "GF WINES LLC",
@@ -3676,7 +4352,7 @@
     "Phone": null,
     "Email": "Gary.Farrell.Winery@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "GEMSTONE VINEYARDS LLC",
@@ -3689,7 +4365,7 @@
     "Phone": "(866) 661-4190",
     "Email": "melissa@wineindustrycompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "GENERATIONS OF SONOMA LLC",
@@ -3702,7 +4378,7 @@
     "Phone": "(707) 528-8500",
     "Email": "generations@dhwinecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "JOHN NICOLOZAKES",
@@ -3715,7 +4391,7 @@
     "Phone": "(740) 435-3222",
     "Email": "info@georgetownvineyards.com",
     "Website": "www.georgetownvineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "GERVASI 1700 LLC",
@@ -3728,7 +4404,7 @@
     "Phone": "(330) 433-2935",
     "Email": "jeff@gervasivineyard.com",
     "Website": "www.gervasivineyard.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "GIFT SERVICES INC",
@@ -3741,7 +4417,7 @@
     "Phone": null,
     "Email": "craig@gifttree.com",
     "Website": "www.gifttree.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:56 PM"
   },
   {
     "Name": "W J DEUTSCH & SONS LTD",
@@ -3754,7 +4430,7 @@
     "Phone": "(204) 965-4119",
     "Email": "diane.delaney@deutschfamily.com",
     "Website": "www.deutschfamily.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "GLADES PIKE WINERY, INC.",
@@ -3767,7 +4443,7 @@
     "Phone": "(814) 445-4630",
     "Email": "LIZ@GLADESPIKEWINERY.COM",
     "Website": "www.gladespikewinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "JACKSON FAMILY WINES INC",
@@ -3780,7 +4456,7 @@
     "Phone": "(707) 547-4798",
     "Email": "Dezerlee.Reeves@jfwmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "HALL WINES LLC",
@@ -3793,7 +4469,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "HAMEL FAMILY WINES LLC",
@@ -3806,7 +4482,20 @@
     "Phone": "(707) 284-2828",
     "Email": "licensing@compliance-connect.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
+  },
+  {
+    "Name": "HANDWRITTEN WINES LLC",
+    "AddressLine1": "25 ENTERPRISE WAY",
+    "AddressLine2": "UNITS 4 - 8",
+    "CityStateZipRaw": "NAPA CA, 94558",
+    "City": "NAPA",
+    "State": "CA",
+    "Zip": "94558",
+    "Phone": "(707) 944-5620",
+    "Email": "judd@tglwc.com",
+    "Website": "www.tglwc.com",
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "HANNA WINERY INC",
@@ -3819,7 +4508,7 @@
     "Phone": "(707) 431-4310",
     "Email": "YvonneLozinto@hannawinery.com",
     "Website": "www.hannawinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "GMIC VINEYARDS LLC",
@@ -3832,7 +4521,20 @@
     "Phone": "(707) 996-3860",
     "Email": "lauren@hanzell.com",
     "Website": "www.hanzell.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
+  },
+  {
+    "Name": "HARDBALL BEVERAGE INC",
+    "AddressLine1": "805 ORCHARD RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "MOUNT BETHEL PA, 18343-5105",
+    "City": "MOUNT BETHEL",
+    "State": "PA",
+    "Zip": "18343",
+    "Phone": "(484) 341-3101",
+    "Email": "hardballcider@gmail.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "HARLAN ESTATE WINERY INC",
@@ -3845,7 +4547,7 @@
     "Phone": "(707) 578-7807",
     "Email": "paula@complianceservice.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "HARTFORD-JACKSON LLC",
@@ -3858,7 +4560,7 @@
     "Phone": "(707) 547-4798",
     "Email": "Dezerlee.Reeves@jfwmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "MICHAEL DESANTIS & SCOTTI STARK",
@@ -3871,7 +4573,7 @@
     "Phone": "(707) 287-3532",
     "Email": "harumphtx@gmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "HAWSTONE HOLLOW WINERY INC",
@@ -3884,7 +4586,33 @@
     "Phone": "(717) 242-6392",
     "Email": "JOHNSON77@VERIZON.NET",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
+  },
+  {
+    "Name": "HEART & HANDS WINE COMPANY",
+    "AddressLine1": "4162 STATE RTE",
+    "AddressLine2": null,
+    "CityStateZipRaw": "UNION SPRINGS NY, 13160",
+    "City": "UNION SPRINGS",
+    "State": "NY",
+    "Zip": "13160",
+    "Phone": "(315) 889-8500",
+    "Email": "susan@heartandhandswine.com",
+    "Website": "www.heartandhandswine.com",
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
+  },
+  {
+    "Name": "FROST WINES LLC",
+    "AddressLine1": "3962 RT 14",
+    "AddressLine2": null,
+    "CityStateZipRaw": "DUNDEE NY, 14837",
+    "City": "DUNDEE",
+    "State": "NY",
+    "Zip": "14837",
+    "Phone": "(607) 243-7971",
+    "Email": "wines@wiemer.com",
+    "Website": "www.wiemer.com",
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "HERON HILL VINEYARDS",
@@ -3897,7 +4625,7 @@
     "Phone": "(607) 868-4241",
     "Email": null,
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "HILL ESTATES INC",
@@ -3910,7 +4638,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "HIRSCH WINERY LLC",
@@ -3923,7 +4651,7 @@
     "Phone": "(508) 648-2505",
     "Email": "coastalcompliance@comcast.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "HONIG VINEYARD & WINERY LLC",
@@ -3936,7 +4664,7 @@
     "Phone": "(707) 963-5618",
     "Email": "carol@honigwine.com",
     "Website": "www.honigwine.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "C AND C WINE SERVICES INC",
@@ -3949,7 +4677,7 @@
     "Phone": "(707) 546-5712",
     "Email": "christine@hookandladderwinery.com",
     "Website": "www.hookandladderwinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "NIEBAUM-COPPOLA ESTATE WINERY LP",
@@ -3962,7 +4690,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "IRON HORSE VINEYARDS LP",
@@ -3975,7 +4703,7 @@
     "Phone": "(707) 887-1507",
     "Email": "brent@ironhorsevineyards.com",
     "Website": "www.ironhorsevineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "ISENHOWER CELLARS LLC",
@@ -3988,7 +4716,20 @@
     "Phone": "(509) 526-7896",
     "Email": "INFO@ISENHOWERCELLARS.COM",
     "Website": "www.isenhowercellars.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
+  },
+  {
+    "Name": "LOOSEN CHRISTOPHER WINES LLC",
+    "AddressLine1": "6525 SW BURLINGAME AV",
+    "AddressLine2": null,
+    "CityStateZipRaw": "PORTLAND OR, 97239",
+    "City": "PORTLAND",
+    "State": "OR",
+    "Zip": "97239",
+    "Phone": "(503) 231-5094",
+    "Email": "jchristopherwines@gmail.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "JACUZZI FAMILY VINEYARDS LLC",
@@ -4001,7 +4742,7 @@
     "Phone": "(707) 284-2828",
     "Email": "licensing@compliance-connect.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "JACK JOHN INVESTMENTS INC",
@@ -4014,7 +4755,7 @@
     "Phone": "(805) 226-4200",
     "Email": "Josh@jadavineyard.com",
     "Website": "www.jadavineyard.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "JAM CELLARS INC",
@@ -4027,7 +4768,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "THE HARDER GROUP",
@@ -4040,7 +4781,7 @@
     "Phone": "(805) 239-4502",
     "Email": "the.harder.group@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "JRV LLC",
@@ -4053,7 +4794,7 @@
     "Phone": "(707) 284-2828",
     "Email": "licensing@compliance-connect.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "JESSUP CELLARS HOLDING COMPANY LLC",
@@ -4066,7 +4807,7 @@
     "Phone": "(707) 326-1378",
     "Email": "compliance@tglwc.com",
     "Website": "www.tglwc.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "JOHN ANTHONY VINEYARDS LLC",
@@ -4079,7 +4820,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "EDWARDS WINES LLC",
@@ -4092,7 +4833,20 @@
     "Phone": "(860) 535-0202",
     "Email": "susans@jedwardswinery.com",
     "Website": "www.jedwardswinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
+  },
+  {
+    "Name": "JVW CORPORATION",
+    "AddressLine1": "1474 ALEXANDER VALLEY RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "HEALDSBURG CA, 95448",
+    "City": "HEALDSBURG",
+    "State": "CA",
+    "Zip": "95448",
+    "Phone": "(707) 431-5273",
+    "Email": "lboscolo@jordanwinery.com",
+    "Website": "www.jordanwinery.com",
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "J CELLARS INVESTMENTS LLC",
@@ -4105,7 +4859,7 @@
     "Phone": "(707) 287-3532",
     "Email": "canardvyds@gmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "JOSEPH PHELPS VINEYARDS LLC",
@@ -4118,7 +4872,7 @@
     "Phone": "(707) 963-9733",
     "Email": null,
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "FINKELSTEIN VINEYARDS",
@@ -4131,7 +4885,7 @@
     "Phone": "(707) 252-4725",
     "Email": "eva@winecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "JUNIATA VALLEY WINERY INC",
@@ -4144,7 +4898,7 @@
     "Phone": "(717) 436-5400",
     "Email": "GEORGEHAZARD@GMAIL.COM",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "PCJ INC",
@@ -4157,7 +4911,7 @@
     "Phone": "(707) 252-4725",
     "Email": "eva@winecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:14 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "JUSTIN VINEYARDS & WINERY LLC",
@@ -4170,7 +4924,7 @@
     "Phone": null,
     "Email": "Justin@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "KEEVER VINEYARDS LLC",
@@ -4183,7 +4937,7 @@
     "Phone": "(866) 661-4190",
     "Email": "melissa@wineindustrycompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "JACKSON FAMILY WINES INC",
@@ -4196,7 +4950,7 @@
     "Phone": "(707) 547-4798",
     "Email": "Dezerlee.Reeves@jfwmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "KENZO ESTATE INC",
@@ -4209,7 +4963,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "KIEU HOANG WINERY LLC",
@@ -4222,7 +4976,7 @@
     "Phone": "(509) 876-2461",
     "Email": "lindsey@wcsofww.com",
     "Website": "www.wcsofww.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "KING ESTATE WINERY LP",
@@ -4235,7 +4989,7 @@
     "Phone": "(541) 942-9874",
     "Email": "mattg@kingestate.com",
     "Website": "www.kingestate.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "KING FAMILY VINEYARDS LLC",
@@ -4248,7 +5002,7 @@
     "Phone": "(434) 823-7800",
     "Email": "admin@kingfamilyvineyards.com",
     "Website": "www.kingfamilyvineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "KING FERRY WINERY",
@@ -4261,7 +5015,7 @@
     "Phone": "(315) 364-5100",
     "Email": "EVENTS@TRELEAVENWINES.COM",
     "Website": "www.treleavenwines.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "KNIGHTS BRIDGE WINERY LLC",
@@ -4274,7 +5028,7 @@
     "Phone": null,
     "Email": "knights.bridge@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "KB WINES LLC",
@@ -4287,7 +5041,7 @@
     "Phone": "(805) 239-4502",
     "Email": "KB.Wines@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "KRUPP BROTHERS LLC",
@@ -4300,7 +5054,7 @@
     "Phone": "(866) 661-4190",
     "Email": "karyn@wineindustrycompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "KULETO VILLA LLC",
@@ -4313,7 +5067,7 @@
     "Phone": "(707) 708-7641",
     "Email": "compliance@foleyfamilywines.com",
     "Website": "www.foleyfamilywines.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "LOWDEN SCHOOLHOUSE CORP",
@@ -4326,7 +5080,7 @@
     "Phone": null,
     "Email": "lecole@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "JACKSON FAMILY WINES INC",
@@ -4339,7 +5093,20 @@
     "Phone": "(707) 547-4798",
     "Email": "Dezerlee.Reeves@jfwmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
+  },
+  {
+    "Name": "TANDEM WINES LLC",
+    "AddressLine1": "4900 W DRY CREEK RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "HEALDSBURG CA, 95448-9721",
+    "City": "HEALDSBURG",
+    "State": "CA",
+    "Zip": "95448",
+    "Phone": null,
+    "Email": "la.follette@compli-beverage.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "JACKSON FAMILY WINES INC",
@@ -4352,7 +5119,7 @@
     "Phone": "(707) 547-4798",
     "Email": "Dezerlee.Reeves@jfwmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "LAIL VINEYARDS LLC",
@@ -4365,7 +5132,20 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
+  },
+  {
+    "Name": "LAKEWOOD VINEYARDS",
+    "AddressLine1": "4024 STATE RTE",
+    "AddressLine2": null,
+    "CityStateZipRaw": "WATKINS GLEN NY, 14891",
+    "City": "WATKINS GLEN",
+    "State": "NY",
+    "Zip": "14891",
+    "Phone": null,
+    "Email": "lwoodwine@aol.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "LANCASTER ESTATE VINEYARD & WINERY",
@@ -4378,7 +5158,7 @@
     "Phone": "(707) 708-7641",
     "Email": "compliance@foleyfamilywines.com",
     "Website": "www.foleyfamilywines.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "JUSTIN VINEYARDS & WINERY LLC",
@@ -4391,7 +5171,7 @@
     "Phone": "(805) 239-4502",
     "Email": "Landmark@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "LANGE WINERY LLC",
@@ -4404,7 +5184,7 @@
     "Phone": "(503) 318-9312",
     "Email": null,
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "LASSETER FAMILY WINERY LLC",
@@ -4417,7 +5197,7 @@
     "Phone": "(707) 578-7807",
     "Email": "paula@complianceservice.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "BARBARA A NORDBERG",
@@ -4430,7 +5210,7 @@
     "Phone": "(814) 371-0221",
     "Email": "LAURELMTN@BROCKWAYTV.COM",
     "Website": "www.brockwaytv.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "LEONESSE CELLARS LLC",
@@ -4443,7 +5223,7 @@
     "Phone": null,
     "Email": "Leonesse@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "LEONETTI CELLAR LLC",
@@ -4456,7 +5236,7 @@
     "Phone": "(509) 525-1428",
     "Email": "kkitamura@figginsfamily.com",
     "Website": "www.figginsfamily.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "LC WINE",
@@ -4469,7 +5249,7 @@
     "Phone": "(707) 255-3400",
     "Email": "melissa@lewiscellars.com",
     "Website": "www.lewiscellars.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "THE LITTORAI WINES",
@@ -4482,7 +5262,7 @@
     "Phone": "(707) 823-9586",
     "Email": "shannon@littorai.com",
     "Website": "www.littorai.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "LOBO WINES LLC",
@@ -4495,7 +5275,7 @@
     "Phone": "(707) 252-4725",
     "Email": "jw1@winecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "LONG MEADOW RANCH WINERY INC",
@@ -4508,7 +5288,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "LUCAS & LEWELLEN",
@@ -4521,7 +5301,7 @@
     "Phone": "(805) 686-1081",
     "Email": "lynne@llwine.com",
     "Website": "www.llwine.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "LUCAS VINEYARDS INC",
@@ -4534,7 +5314,7 @@
     "Phone": "(607) 532-4825",
     "Email": "RUTHIE@LUCASVINEYARDS.COM",
     "Website": "www.lucasvineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "LYNMAR WINERY LLC",
@@ -4547,7 +5327,7 @@
     "Phone": "(707) 284-2828",
     "Email": "licensing@compliance-connect.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "MAC WINES LLC",
@@ -4560,7 +5340,7 @@
     "Phone": "(707) 933-9752",
     "Email": "info@threewinecompany.com",
     "Website": "www.threewinecompany.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "WEST COAST WINE PARTNERS LLC",
@@ -4573,7 +5353,7 @@
     "Phone": "(707) 939-4500",
     "Email": "wcwines@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "MAKK WINE LLC",
@@ -4586,7 +5366,7 @@
     "Phone": "(503) 244-1748",
     "Email": "info@anticaterra.com",
     "Website": "www.anticaterra.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "MARIETTA CELLARS INC",
@@ -4599,7 +5379,7 @@
     "Phone": "(707) 284-2828",
     "Email": "LICENSING@COMPLIANCE-CONNECT.COM",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "MARK HEROLD WINES LLC",
@@ -4612,7 +5392,7 @@
     "Phone": "(707) 256-3111",
     "Email": "compliance@heroldwines.com",
     "Website": "www.heroldwines.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "MARTIN RAY WINERY INC",
@@ -4625,7 +5405,7 @@
     "Phone": null,
     "Email": "kevin@martinraywinery.com",
     "Website": "www.martinraywinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "MARTINELLI WINERY INC",
@@ -4638,7 +5418,20 @@
     "Phone": "(707) 525-1017",
     "Email": "MARY@MARTINELLIWINERY.COM",
     "Website": "www.martinelliwinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
+  },
+  {
+    "Name": "RANDY WILLIAM CURTIS MASON",
+    "AddressLine1": "7830-40 ST HELENA HWY",
+    "AddressLine2": null,
+    "CityStateZipRaw": "OAKVILLE CA, 94562",
+    "City": "OAKVILLE",
+    "State": "CA",
+    "Zip": "94562",
+    "Phone": "(707) 255-0658",
+    "Email": "winery@masoncellars.com",
+    "Website": "www.masoncellars.com",
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "JACKSON FAMILY WINES INC",
@@ -4651,7 +5444,7 @@
     "Phone": "(707) 547-4798",
     "Email": "Dezerlee.Reeves@jfwmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "ROBERT MAZZA, INC.",
@@ -4664,7 +5457,7 @@
     "Phone": "(814) 725-8695",
     "Email": "RMAZZA12@JUNO.COM",
     "Website": "www.juno.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "MELVILLE WINERY LLC",
@@ -4677,7 +5470,7 @@
     "Phone": "(805) 735-7030",
     "Email": "megan@melvillewinery.com",
     "Website": "www.melvillewinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "MER ET SOLEIL LLC",
@@ -4690,7 +5483,7 @@
     "Phone": null,
     "Email": "mer.et.soliel@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "MERCER WINE ESTATES LLC",
@@ -4703,7 +5496,7 @@
     "Phone": "(509) 786-2097",
     "Email": "suzief@mercerestates.com",
     "Website": "www.mercerestates.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "MERRYVALE VINEYARDS LLC",
@@ -4716,7 +5509,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "FOLEY FAMILY WINES, INC.",
@@ -4729,7 +5522,7 @@
     "Phone": "(707) 708-7641",
     "Email": "compliance@foleyfamilywines.com",
     "Website": "www.foleyfamilywines.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "METEOR VINEYARD LLC",
@@ -4742,7 +5535,7 @@
     "Phone": "(707) 265-0233",
     "Email": "beth@thewacco.com",
     "Website": "www.thewacco.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "PHILLIPS FARMS LLC",
@@ -4755,7 +5548,7 @@
     "Phone": "(805) 239-4502",
     "Email": "Michael.David@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "MIDDLETON FAMILY WINES LLC",
@@ -4768,7 +5561,7 @@
     "Phone": "(805) 239-4502",
     "Email": "middleton@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "CELEBRATION CELLARS LLC",
@@ -4781,7 +5574,7 @@
     "Phone": "(951) 506-5500",
     "Email": "jason@miramontewinery.com",
     "Website": "www.miramontewinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "MIXOLOSEUM LLC",
@@ -4794,7 +5587,7 @@
     "Phone": "(415) 352-4406",
     "Email": "andrew@mixparty.com",
     "Website": "www.mixparty.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:57 PM"
   },
   {
     "Name": "THE MORLET SELECTION INC",
@@ -4807,7 +5600,20 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
+  },
+  {
+    "Name": "MAZZA VINEYARDS INC",
+    "AddressLine1": "2775 LEBANON RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "MANHEIM PA, 17545",
+    "City": "MANHEIM",
+    "State": "PA",
+    "Zip": "17545",
+    "Phone": "(717) 665-7021",
+    "Email": "scott@parenfaire.com",
+    "Website": "www.parenfaire.com",
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "MOUNT NITTANY VINEYARD & WINERY INC",
@@ -4820,7 +5626,7 @@
     "Phone": "(814) 466-6373",
     "Email": "sales@mtnittanywinery.com",
     "Website": "www.mtnittanywinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "ONV WASHINGTON LLC",
@@ -4833,7 +5639,7 @@
     "Phone": "(707) 963-5537",
     "Email": "dennis@mullanroadcellars.com",
     "Website": "www.mullanroadcellars.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "MUSCARDINI CELLARS LLC",
@@ -4846,7 +5652,7 @@
     "Phone": "(707) 933-9305",
     "Email": "alice@muscardinicellars.com",
     "Website": "www.muscardinicellars.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "NEAL FAMILY VINEYARDS LLC",
@@ -4859,7 +5665,7 @@
     "Phone": "(707) 965-2800",
     "Email": "info@nealvineyards.com",
     "Website": "www.nealvineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "NEWTON VINEYARD LLC",
@@ -4872,7 +5678,7 @@
     "Phone": "(707) 204-7410",
     "Email": "newton.vineyards@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "OBLOQUY INC",
@@ -4885,7 +5691,7 @@
     "Phone": "(805) 649-1291",
     "Email": "wine@nextofkyn.net",
     "Website": "www.nextofkyn.net",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "FN CELLARS LLC",
@@ -4898,7 +5704,7 @@
     "Phone": "(707) 967-9600",
     "Email": "ssmith@fn-mail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "HARMELL CELLARS LLC",
@@ -4911,7 +5717,7 @@
     "Phone": "(509) 876-2461",
     "Email": "lindsey@wcsofww.com",
     "Website": "www.wcsofww.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "NOVA WINES INC",
@@ -4924,7 +5730,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "O'BRIEN FAMILY VINEYARDS LLC",
@@ -4937,7 +5743,7 @@
     "Phone": null,
     "Email": "COASTALCOMPLIANCE@COMCAST.NET",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "Oakville Ranch Winery Inc",
@@ -4950,7 +5756,7 @@
     "Phone": "(707) 265-0223",
     "Email": "beth@thewacco.com",
     "Website": "www.thewacco.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "HOPE WINE LLC",
@@ -4963,7 +5769,7 @@
     "Phone": "(707) 284-2828",
     "Email": "info@hopewine.com",
     "Website": "www.hopewine.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "SISYPHUS LLC",
@@ -4976,7 +5782,7 @@
     "Phone": null,
     "Email": "ovid@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "PAHLMEYER LLC",
@@ -4989,7 +5795,20 @@
     "Phone": "(707) 252-4725",
     "Email": "reg2@winecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
+  },
+  {
+    "Name": "CEDAR KNOLL VINEYARDS INC",
+    "AddressLine1": "4029 HAGEN RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "NAPA CA, 94558-3818",
+    "City": "NAPA",
+    "State": "CA",
+    "Zip": "94558",
+    "Phone": null,
+    "Email": "palmaz.vineyard@compli-beverage.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "PALOMA VINEYARD LLC",
@@ -5002,7 +5821,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "RENNICK J HARRIS & MARILYN L HARRIS",
@@ -5015,7 +5834,7 @@
     "Phone": "(866) 661-4190",
     "Email": "melissa@wineindustrycompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "PAUL HOBBS WINERY LP",
@@ -5028,7 +5847,7 @@
     "Phone": "(707) 824-9879",
     "Email": "mhaber@paulhobbs.com",
     "Website": "www.paulhobbs.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "",
@@ -5041,7 +5860,7 @@
     "Phone": "(209) 482-5792",
     "Email": "Peirano.Estate@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "PEJU FAMILY OPERATING PARTNERSHIP LP",
@@ -5054,7 +5873,7 @@
     "Phone": "(707) 963-3600",
     "Email": "compliance@peju.com",
     "Website": "www.peju.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "PELLEGRINI RANCHES INC",
@@ -5067,7 +5886,7 @@
     "Phone": "(707) 284-2828",
     "Email": "licensing@compliance-connect.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "WILLIAM PENN CORP",
@@ -5080,7 +5899,7 @@
     "Phone": null,
     "Email": "CARLEY@PENNSWOODSWINERY.COM",
     "Website": "www.pennswoodswinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "PENROSE LANE LIMITED",
@@ -5093,7 +5912,7 @@
     "Phone": null,
     "Email": "penrose.hill@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "PAVITT FAMILY VINEYARDS LLC",
@@ -5106,7 +5925,7 @@
     "Phone": "(707) 942-4787",
     "Email": "ancompliance@gmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "PICKETT ROAD WINE COMPANY LLC",
@@ -5119,7 +5938,7 @@
     "Phone": "(866) 661-4190",
     "Email": "brenda@wineindustrycompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "PINA CELLARS LP",
@@ -5132,7 +5951,7 @@
     "Phone": "(707) 265-0233",
     "Email": "BETH@THEWACCO.COM",
     "Website": "www.thewacco.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "PINE RIDGE WINERY LLC",
@@ -5145,7 +5964,7 @@
     "Phone": "(707) 260-0922",
     "Email": "jeanette.wemette@crimsonwinegroup.com",
     "Website": "www.crimsonwinegroup.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "PRAGER WINERY & PORT WORKS INC",
@@ -5158,7 +5977,7 @@
     "Phone": null,
     "Email": "eva@winecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "PRAIRIE BERRY LLC",
@@ -5171,7 +5990,7 @@
     "Phone": "(605) 574-3898",
     "Email": "deniseh@prairieberry.com",
     "Website": "www.prairieberry.com",
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "PROMONTORY LLC",
@@ -5184,7 +6003,20 @@
     "Phone": "(707) 578-7807",
     "Email": "paula@complianceservice.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
+  },
+  {
+    "Name": "QUADY SOUTH WINERY LLC",
+    "AddressLine1": "13181 ROAD 24",
+    "AddressLine2": null,
+    "CityStateZipRaw": "MADERA CA, 93637",
+    "City": "MADERA",
+    "State": "CA",
+    "Zip": "93637",
+    "Phone": "(866) 661-4190",
+    "Email": "karyn@wineindustrycompliance.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "HUNEEUS VINTNERS LLC",
@@ -5197,7 +6029,20 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:15 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
+  },
+  {
+    "Name": "PJK WINERY LLC",
+    "AddressLine1": "4900 W DRY CREEK RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "HEALDSBURG CA, 95448-9721",
+    "City": "HEALDSBURG",
+    "State": "CA",
+    "Zip": "95448",
+    "Phone": "(805) 239-4502",
+    "Email": "Quivira@compli-beverage.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "BRANDON BORGER",
@@ -5210,7 +6055,7 @@
     "Phone": null,
     "Email": "NORTHEASTHOMEBREWSUPPLY@GMAIL.COM",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "RADIO-COTEAU WINE CELLARS LLC",
@@ -5223,7 +6068,20 @@
     "Phone": "(707) 823-2578",
     "Email": "inquiry@radiocoteau.com",
     "Website": "www.radiocoteau.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
+  },
+  {
+    "Name": "THIS REALM LLC",
+    "AddressLine1": "3468 SILVERADO TRAIL N",
+    "AddressLine2": null,
+    "CityStateZipRaw": "SAINT HELENA CA, 94574-9662",
+    "City": "SAINT HELENA",
+    "State": "CA",
+    "Zip": "94574",
+    "Phone": "(800) 400-1353",
+    "Email": "realm@csa-compliance.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "RED TAIL RIDGE INC",
@@ -5236,7 +6094,7 @@
     "Phone": null,
     "Email": "danielle@redtailridgewinery.com",
     "Website": "www.redtailridgewinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "REECE WINERY LLC",
@@ -5249,7 +6107,7 @@
     "Phone": "(724) 492-1569",
     "Email": "REECEWINERY@YAHOO.COM",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "REGUSCI WINERY INC",
@@ -5262,7 +6120,7 @@
     "Phone": "(805) 239-4502",
     "Email": "regusci.winery@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "CHARLES REININGER LLC",
@@ -5275,7 +6133,7 @@
     "Phone": "(509) 876-2461",
     "Email": "karla@wcsofww.com",
     "Website": "www.wcsofww.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "THE RENEGADE WINERY LLC",
@@ -5288,7 +6146,7 @@
     "Phone": "(570) 350-2638",
     "Email": null,
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "REVANA FAMILY PARTNERS",
@@ -5301,7 +6159,20 @@
     "Phone": null,
     "Email": "sampbooking@gmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
+  },
+  {
+    "Name": "RHYS VINEYARDS LLC",
+    "AddressLine1": "11715 SKYLINE BLVD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "LOS GATOS CA, 95033-9588",
+    "City": "LOS GATOS",
+    "State": "CA",
+    "Zip": "95033",
+    "Phone": "(707) 284-2828",
+    "Email": "licensing@compliance-connect.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "RIVERBENCH LLC",
@@ -5314,7 +6185,7 @@
     "Phone": "(805) 937-8340",
     "Email": "judi@riverbench.com",
     "Website": "www.riverbench.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "RIVERS MARIE WINES LLC",
@@ -5327,7 +6198,7 @@
     "Phone": "(707) 341-3127",
     "Email": "will@riversmarie.com",
     "Website": "www.riversmarie.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "GARY FRANSCIONI INC",
@@ -5340,7 +6211,46 @@
     "Phone": "(831) 675-1681",
     "Email": "debbie@roarwines.com",
     "Website": "www.roarwines.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
+  },
+  {
+    "Name": "THE BIALE ESTATE",
+    "AddressLine1": "4038 BIG RANCH RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "NAPA CA, 94558-1405",
+    "City": "NAPA",
+    "State": "CA",
+    "Zip": "94558",
+    "Phone": "(707) 257-7555",
+    "Email": "KATHI@WESTARCOMPLIANCE.COM",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
+  },
+  {
+    "Name": "ROBERT FOLEY LLC",
+    "AddressLine1": "1300 SUMMIT LAKE DR",
+    "AddressLine2": null,
+    "CityStateZipRaw": "ANGWIN CA, 94508",
+    "City": "ANGWIN",
+    "State": "CA",
+    "Zip": "94508",
+    "Phone": "(707) 965-2669",
+    "Email": "info@robertfoleyvineyards.com",
+    "Website": "www.robertfoleyvineyards.com",
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
+  },
+  {
+    "Name": "ROBERT YOUNG ESTATE WINERY LLC",
+    "AddressLine1": "4960 RED WINERY RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "GEYERSVILLE CA, 95441",
+    "City": "GEYERSVILLE",
+    "State": "CA",
+    "Zip": "95441",
+    "Phone": "(707) 431-4811",
+    "Email": "trisha@ryew.com",
+    "Website": "www.ryew.com",
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "DAVID W HOFFMAN & AMY E HOFFMAN",
@@ -5353,7 +6263,7 @@
     "Phone": "(315) 536-1095",
     "Email": "dhoffman@roosterhill.com",
     "Website": "www.roosterhill.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "RUDD WINES INC",
@@ -5366,7 +6276,33 @@
     "Phone": "(707) 284-2828",
     "Email": "licensing@compliance-connect.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
+  },
+  {
+    "Name": "KANGARU ENTERPRISES LLC",
+    "AddressLine1": "1819 BALLARD CANYON RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "SOLVANG CA, 93463-9766",
+    "City": "SOLVANG",
+    "State": "CA",
+    "Zip": "93463",
+    "Phone": "(805) 691-5109",
+    "Email": "sgerbac@rusack.com",
+    "Website": "www.rusack.com",
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
+  },
+  {
+    "Name": "RUSSIAN RIVER WINES LLC",
+    "AddressLine1": "11654 LOS AMIGOS RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "HEALDSBURG CA, 95448-9540",
+    "City": "HEALDSBURG",
+    "State": "CA",
+    "Zip": "95448",
+    "Phone": "(707) 494-9583",
+    "Email": "pam@bacigalupivineyards.com",
+    "Website": "www.bacigalupivineyards.com",
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "VEN-CAL RANCHES LLC",
@@ -5379,7 +6315,7 @@
     "Phone": "(707) 944-1305",
     "Email": "norene@saddlebackcellars.com",
     "Website": "www.saddlebackcellars.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "SAINTSBURY LLC",
@@ -5392,7 +6328,20 @@
     "Phone": "(707) 578-7807",
     "Email": "paula@complianceservice.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
+  },
+  {
+    "Name": "MATTHIAS PIPPIG & JAMIE KINSER",
+    "AddressLine1": "8 ASHLEY AV",
+    "AddressLine2": null,
+    "CityStateZipRaw": "SANTA BARBARA CA, 93103",
+    "City": "SANTA BARBARA",
+    "State": "CA",
+    "Zip": "93103",
+    "Phone": "(805) 845-0920",
+    "Email": "jamie@sanguiswine.com",
+    "Website": "www.sanguiswine.com",
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "SARACINA VINEYARDS LLC",
@@ -5405,7 +6354,7 @@
     "Phone": "(707) 284-2828",
     "Email": "licensing@compliance-connect.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "SCHEID VINEYARDS CALIFORNIA INC",
@@ -5418,7 +6367,33 @@
     "Phone": "(831) 455-9990",
     "Email": "MIKE@SCHEIDVINEYARDS.COM",
     "Website": "www.scheidvineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
+  },
+  {
+    "Name": "SCHRADER CELLARS LLC",
+    "AddressLine1": "2075 SUMMIT LAKE DR",
+    "AddressLine2": null,
+    "CityStateZipRaw": "ANGWIN CA, 94508",
+    "City": "ANGWIN",
+    "State": "CA",
+    "Zip": "94508",
+    "Phone": "(866) 661-4190",
+    "Email": "melissa@wineindustrycompliance.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
+  },
+  {
+    "Name": "SCHUG WINERY LLC",
+    "AddressLine1": "602 BONNEAU  RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "SONOMA CA, 95476",
+    "City": "SONOMA",
+    "State": "CA",
+    "Zip": "95476",
+    "Phone": "(707) 939-9363",
+    "Email": "david@schugwinery.com",
+    "Website": "www.schugwinery.com",
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "CREATIVE WINE CONCEPTS INC",
@@ -5431,7 +6406,7 @@
     "Phone": "(707) 968-9575",
     "Email": "carla@scottharveywines.com",
     "Website": "www.scottharveywines.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "SCREAMING EAGLE LLC",
@@ -5444,7 +6419,7 @@
     "Phone": "(866) 661-4190",
     "Email": "melissa@wineindustrycompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "DAVIDS PINOT VINEYARDS INC",
@@ -5457,7 +6432,7 @@
     "Phone": "(805) 737-1600",
     "Email": "comp@seasmoke.com",
     "Website": "www.seasmoke.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "FOLEY FAMILY WINES, INC.",
@@ -5470,7 +6445,7 @@
     "Phone": "(707) 000-0000",
     "Email": "compliance@foleyfamilywines.com",
     "Website": "www.foleyfamilywines.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "SEQUOIA GROVE VINEYARDS LP",
@@ -5483,7 +6458,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "RBZ VINEYARDS LLC",
@@ -5496,7 +6471,7 @@
     "Phone": "(805) 542-0133",
     "Email": "accounting@sextantwines.com",
     "Website": "www.sextantwines.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "SHADE MOUNTAIN WINERY, INC.",
@@ -5509,7 +6484,7 @@
     "Phone": "(570) 837-3644",
     "Email": "SHADEMT@PTD.NET",
     "Website": "www.ptd.net",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "SHARROTT ESTATE WINERY LLC",
@@ -5522,7 +6497,7 @@
     "Phone": "(609) 410-4348",
     "Email": "larry@sharrottwinery.com",
     "Website": "www.sharrottwinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "SHELBURNE VINEYARD LLC",
@@ -5535,7 +6510,7 @@
     "Phone": "(802) 985-8222",
     "Email": "galbert@shelburnevineyard.com",
     "Website": "www.shelburnevineyard.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "SILVER OAK WINE CELLARS LP",
@@ -5548,7 +6523,7 @@
     "Phone": "(707) 578-7807",
     "Email": "paula@complianceservice.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "THE SILVERADO VINEYARDS",
@@ -5561,7 +6536,7 @@
     "Phone": "(707) 578-7807",
     "Email": "paula@complianceservice.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "SINE QUA NON, INC.",
@@ -5574,7 +6549,7 @@
     "Phone": "(805) 649-8901",
     "Email": "stacy@sinequanonwines.com",
     "Website": "www.sinequanonwines.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "SLJ GROUP, INC.",
@@ -5587,7 +6562,7 @@
     "Phone": "(707) 546-6500",
     "Email": "kelly.martin@directwines.com",
     "Website": "www.directwines.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "SOKOL BLOSSER LTD",
@@ -5600,7 +6575,20 @@
     "Phone": "(503) 864-2282",
     "Email": "accountspayable@sokolblosser.com",
     "Website": "www.sokolblosser.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
+  },
+  {
+    "Name": "SPANOS-BERBERIAN WINERY LLC",
+    "AddressLine1": "6200 WASHINGTON ST",
+    "AddressLine2": null,
+    "CityStateZipRaw": "YOUNTVILLE CA, 94599",
+    "City": "YOUNTVILLE",
+    "State": "CA",
+    "Zip": "94599",
+    "Phone": "(707) 944-1673",
+    "Email": "info@bellwine.com",
+    "Website": "www.bellwine.com",
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "JACKSON FAMILY WINES INC",
@@ -5613,7 +6601,7 @@
     "Phone": "(707) 547-4798",
     "Email": "Dezerlee.Reeves@jfwmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "SPOTTSWOODE WINERY INC",
@@ -5626,7 +6614,7 @@
     "Phone": "(707) 963-0134",
     "Email": "spottswoode@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "SPRING MOUNTAIN VINEYARD INC",
@@ -5639,7 +6627,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "STE MICHELLE WINE ESTATES LTD",
@@ -5652,7 +6640,7 @@
     "Phone": "(425) 488-1133",
     "Email": "COMPLIANCE@SMWE.COM",
     "Website": "www.smwe.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "ST FRANCIS WINERY & VINEYARD LP",
@@ -5665,7 +6653,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "STAGS LEAP WINE CELLARS LLC",
@@ -5678,7 +6666,20 @@
     "Phone": null,
     "Email": null,
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
+  },
+  {
+    "Name": "STARR FINANCIAL GROUP, INC.",
+    "AddressLine1": "861 BAILEY RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "CURWENSVILLE PA, 16833-0353",
+    "City": "CURWENSVILLE",
+    "State": "PA",
+    "Zip": "16833",
+    "Phone": "(814) 236-0910",
+    "Email": "KEN@STARRFINANCIAL.ORG",
+    "Website": "www.starrfinancial.org",
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "STE MICHELLE WINE ESTATES LTD",
@@ -5691,7 +6692,7 @@
     "Phone": "(425) 415-3733",
     "Email": "compliance@smwe.com",
     "Website": "www.smwe.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "STE MICHELLE WINE ESTATES LTD",
@@ -5704,7 +6705,7 @@
     "Phone": "(425) 415-3733",
     "Email": "compliance@smwe.com",
     "Website": "www.smwe.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "STEPHAN VINEYARDS",
@@ -5717,7 +6718,7 @@
     "Phone": "(805) 227-1588",
     "Email": "wc@aventurewine.com",
     "Website": "www.aventurewine.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "STOLLER VINEYARDS INC",
@@ -5730,7 +6731,7 @@
     "Phone": "(503) 318-9312",
     "Email": "Splante101@gmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "JACKSON FAMILY WINES INC",
@@ -5743,7 +6744,7 @@
     "Phone": "(707) 547-4798",
     "Email": "Dezerlee.Reeves@jfwmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "STORYBOOK MOUNTAIN WINERY INC",
@@ -5756,7 +6757,7 @@
     "Phone": "(707) 942-5310",
     "Email": "PAM@STORYBOOKWINES.COM",
     "Website": "www.storybookwines.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:58 PM"
   },
   {
     "Name": "SULLIVAN VINEYARDS CORPORATION",
@@ -5769,7 +6770,7 @@
     "Phone": "(209) 883-7031",
     "Email": "mallory.wilhite@holtzclawcomp.com",
     "Website": "www.holtzclawcomp.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "VINTAGE WINE ESTATES INC",
@@ -5782,7 +6783,7 @@
     "Phone": "(707) 265-6331",
     "Email": "lyz@vintnersaccounting.com",
     "Website": "www.vintnersaccounting.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "MORCHELLA WINE CELLARS LLC",
@@ -5795,7 +6796,20 @@
     "Phone": "(503) 318-9312",
     "Email": "sampbooking@gmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
+  },
+  {
+    "Name": "OLD VINE WINE PARTNERS LLC",
+    "AddressLine1": "5584 SILVERADO TRL",
+    "AddressLine2": null,
+    "CityStateZipRaw": "NAPA CA, 94558-9411",
+    "City": "NAPA",
+    "State": "CA",
+    "Zip": "94558",
+    "Phone": null,
+    "Email": "Old.Vine.WP@compli-beverage.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "J3 WINE PARTNERS LLC",
@@ -5808,7 +6822,7 @@
     "Phone": "(805) 239-4502",
     "Email": "j3.wp@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "TARARA WINERY LLC",
@@ -5821,7 +6835,7 @@
     "Phone": "(703) 771-7100",
     "Email": "margie.russell@tarara.com",
     "Website": "www.tarara.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "TERRAVANT WINE COMPANY LLC",
@@ -5834,7 +6848,7 @@
     "Phone": "(805) 239-4502",
     "Email": "terravant.wine@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "TESTAROSSA VINEYARDS LLC",
@@ -5847,7 +6861,7 @@
     "Phone": "(408) 354-0797",
     "Email": "ryan@testarossa.com",
     "Website": "www.testarossa.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "WINSIDE USA INC",
@@ -5860,7 +6874,7 @@
     "Phone": "(707) 252-4725",
     "Email": "eva@winecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "FOLEY FAMILY WINES, INC.",
@@ -5873,7 +6887,7 @@
     "Phone": "(814) 238-5898",
     "Email": null,
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "FOLEY FAMILY WINES, INC.",
@@ -5886,7 +6900,20 @@
     "Phone": "(707) 708-7941",
     "Email": "compliance@foleyfamilywines.com",
     "Website": "www.foleyfamilywines.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
+  },
+  {
+    "Name": "THE WINE GROUP INC",
+    "AddressLine1": "1883 LONDON RANCH RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "GLEN ELLEN CA, 95442-9728",
+    "City": "GLEN ELLEN",
+    "State": "CA",
+    "Zip": "95442",
+    "Phone": "(209) 599-0351",
+    "Email": "grapevinecompliance@q.com",
+    "Website": "www.q.com",
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "THE WINERY AT WILCOX INC",
@@ -5899,7 +6926,7 @@
     "Phone": "(814) 929-5598",
     "Email": "info@wineryatwilcox.net",
     "Website": "www.wineryatwilcox.net",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "THREE BROTHERS WINERIES AND ESTATES",
@@ -5912,7 +6939,7 @@
     "Phone": "(315) 585-4432",
     "Email": "luanne@3brotherswinery.com",
     "Website": "www.3brotherswinery.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "FOLEY FAMILY WINES, INC.",
@@ -5925,7 +6952,7 @@
     "Phone": "(707) 708-7641",
     "Email": "compliance@foleyfamilywines.com",
     "Website": "www.foleyfamilywines.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "TOAD HOLLOW VINEYARDS INC",
@@ -5938,7 +6965,7 @@
     "Phone": "(707) 578-7807",
     "Email": "paula@complianceservice.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "TRENTADUE WINERY LLC",
@@ -5951,7 +6978,7 @@
     "Phone": "(707) 284-2828",
     "Email": "licensing@compliance-connect.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "GRIEB OPTIMAL WINECRAFTING LLC",
@@ -5964,7 +6991,7 @@
     "Phone": "(509) 877-0925",
     "Email": "katieg@trevericellars.com",
     "Website": "www.trevericellars.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "HDD LLC",
@@ -5977,7 +7004,7 @@
     "Phone": "(707) 431-4440",
     "Email": "compliance@truetthurst.com",
     "Website": "www.truetthurst.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "ERIC TRUMP WINE MANUFACTURING LLC",
@@ -5990,7 +7017,7 @@
     "Phone": "(434) 220-5907",
     "Email": "wccgtrumpwinery@gmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "TURKOVICH FAMILY WINES LLC",
@@ -6003,7 +7030,7 @@
     "Phone": "(530) 795-3842",
     "Email": "edmund@tfwllc.com",
     "Website": "www.tfwllc.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "TURLEY WINE CELLARS INC",
@@ -6016,7 +7043,20 @@
     "Phone": null,
     "Email": "turley@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
+  },
+  {
+    "Name": "MARGERUM WINE COMPANY INC",
+    "AddressLine1": "59 INDUSTRIAL WAY",
+    "AddressLine2": null,
+    "CityStateZipRaw": "BUELLTON CA, 93427",
+    "City": "BUELLTON",
+    "State": "CA",
+    "Zip": "93427",
+    "Phone": null,
+    "Email": "Margerum@compli-beverage.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "UNIVERSITY WINE COMPANY LLC",
@@ -6029,7 +7069,7 @@
     "Phone": "(814) 353-1679",
     "Email": null,
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "UNTI WINE COMPANY LLC",
@@ -6042,7 +7082,20 @@
     "Phone": "(707) 433-5590",
     "Email": "untiwineco@untivineyards.com",
     "Website": "www.untivineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
+  },
+  {
+    "Name": "V MADRONE LLC",
+    "AddressLine1": "3169 ST HELENA HWY N",
+    "AddressLine2": null,
+    "CityStateZipRaw": "ST HELENA CA, 94574",
+    "City": "ST HELENA",
+    "State": "CA",
+    "Zip": "94574",
+    "Phone": "(707) 963-3203",
+    "Email": "thetilleys@vmadrone.com",
+    "Website": "www.vmadrone.com",
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "VAN DUZER VINEYARDS, LLC",
@@ -6055,7 +7108,7 @@
     "Phone": "(503) 623-6420",
     "Email": "kathy@vanduzer.com",
     "Website": "www.vanduzer.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "JACKSON FAMILY WINES INC",
@@ -6068,7 +7121,20 @@
     "Phone": "(707) 547-4798",
     "Email": "Dezerlee.Reeves@jfwmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
+  },
+  {
+    "Name": "VEZER FAMILY VINEYARDS LLC",
+    "AddressLine1": "5066 CLAYTON RD",
+    "AddressLine2": null,
+    "CityStateZipRaw": "FAIRFIELD CA, 94534-9776",
+    "City": "FAIRFIELD",
+    "State": "CA",
+    "Zip": "94534",
+    "Phone": "(707) 284-2828",
+    "Email": "licensing@compliance-connect.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "VIA VECCHIA WINERY LLC",
@@ -6081,7 +7147,7 @@
     "Phone": "(614) 886-2839",
     "Email": "viavecchiawinery@gmail.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "VINTAGE WINE ESTATES INC",
@@ -6094,7 +7160,7 @@
     "Phone": "(707) 935-4700",
     "Email": "CUSTSERVICE@VIANSA.COM",
     "Website": "www.viansa.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "VINE CLIFF WINERY INC",
@@ -6107,7 +7173,7 @@
     "Phone": "(707) 944-2388",
     "Email": "kate@vinecliff.com",
     "Website": "www.vinecliff.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "7 & 8 LLC",
@@ -6120,7 +7186,7 @@
     "Phone": "(707) 431-7425",
     "Email": "gloria@licensewine.com",
     "Website": "www.licensewine.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "TEALE CREEK ASSOCIATES",
@@ -6133,7 +7199,7 @@
     "Phone": "(510) 964-7901",
     "Email": "dleon@cqaconsult.net",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "VYNECREST LLC",
@@ -6146,7 +7212,7 @@
     "Phone": "(484) 457-1873",
     "Email": "john@vynecrest.com",
     "Website": "www.vynecrest.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "WAGNER WINERY LLC",
@@ -6159,7 +7225,7 @@
     "Phone": "(607) 582-6450",
     "Email": "d.wagner@wagnervineyards.com",
     "Website": "www.wagnervineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "UNGRAPEFUL WINERY LLC",
@@ -6172,7 +7238,7 @@
     "Phone": "(724) 456-5808",
     "Email": "UNGRAPEFULWINERY@GMAIL.COM",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "GBF ENTERPRISES LLC",
@@ -6185,7 +7251,7 @@
     "Phone": "(707) 708-7641",
     "Email": "compliance@foleyfamilywines.com",
     "Website": "www.foleyfamilywines.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "WENTE BROS",
@@ -6198,7 +7264,7 @@
     "Phone": "(925) 456-2006",
     "Email": "carole.peterson@wentevineyards.com",
     "Website": "www.wentevineyards.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "WINERY FULFULLMENT SERVICES LLC",
@@ -6211,7 +7277,20 @@
     "Phone": null,
     "Email": "tracy@wcsofww.com",
     "Website": "www.wcsofww.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
+  },
+  {
+    "Name": "GREG SANDERS LLC",
+    "AddressLine1": "6250 NE HILLTOP LANE",
+    "AddressLine2": null,
+    "CityStateZipRaw": "DAYTON OR, 97114",
+    "City": "DAYTON",
+    "State": "OR",
+    "Zip": "97114",
+    "Phone": "(503) 864-2328",
+    "Email": "margo@whiteroseestate.com",
+    "Website": "www.whiteroseestate.com",
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "LEONARDINI FAMILY WINERY LLC",
@@ -6224,7 +7303,7 @@
     "Phone": "(707) 252-4725",
     "Email": "jw1@winecompliance.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "WILLAKENZIE ESTATE INC",
@@ -6237,7 +7316,7 @@
     "Phone": "(503) 662-1261",
     "Email": "COMPLIANCE@WILLAKENZIE.COM",
     "Website": "www.willakenzie.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "BWSC LLC",
@@ -6250,7 +7329,20 @@
     "Phone": null,
     "Email": "club.w@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
+  },
+  {
+    "Name": "WIND GAP WINES LLC",
+    "AddressLine1": "6780 MCKINLEY ST STE 155",
+    "AddressLine2": null,
+    "CityStateZipRaw": "SEBASTOPOL CA, 95472-3495",
+    "City": "SEBASTOPOL",
+    "State": "CA",
+    "Zip": "95472",
+    "Phone": "(805) 239-4502",
+    "Email": "TS_WindGap@compli-beverage.com",
+    "Website": null,
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "WINDERLEA WINE COMPANY LLC",
@@ -6263,7 +7355,7 @@
     "Phone": "(503) 554-5900",
     "Email": "info@winderlea.com",
     "Website": "www.winderlea.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "MILDARA BLASS, INC.",
@@ -6276,7 +7368,7 @@
     "Phone": "(707) 265-6331",
     "Email": "lyz@vintnersaccounting.com",
     "Website": "www.vintnersaccounting.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "WINEGREETING.COM INC",
@@ -6289,7 +7381,7 @@
     "Phone": "(858) 208-4025",
     "Email": "kelly@winegreeting.com",
     "Website": "www.winegreeting.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "WINERY AT BLACK STAR FARMS LLC",
@@ -6302,7 +7394,7 @@
     "Phone": "(231) 944-1282",
     "Email": "bguest@blackstarfarms.com",
     "Website": "www.blackstarfarms.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "CUSHMAN WINERY CORPORATION",
@@ -6315,7 +7407,7 @@
     "Phone": null,
     "Email": "Zaca.Mesa@compli-beverage.com",
     "Website": null,
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   },
   {
     "Name": "ZD WINES LLC",
@@ -6328,6 +7420,6 @@
     "Phone": "(707) 963-5188",
     "Email": "compliance@zdwines.com",
     "Website": "www.zdwines.com",
-    "DateTimeScraped": "9/29/2016 3:28:16 PM"
+    "DateTimeScraped": "10/9/2016 1:07:59 PM"
   }
 ]
